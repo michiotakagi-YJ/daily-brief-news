@@ -23,6 +23,7 @@
   
   
   <link rel="stylesheet" href="./assets/editorial.css?v=2">
+  <link rel="stylesheet" href="./assets/insight.css?v=1">
 </head>
 <body>
 <div class="app-shell">
@@ -46,7 +47,7 @@
     </main>
   </div>
 </div>
-<dialog id="helpDialog"><div class="dialog-head"><h2>このダッシュボードについて</h2><button id="closeHelp" class="icon-btn" aria-label="閉じる">✕</button></div><p>日々のRSS見出しを集約し、情報源・重要度・日付・分野で整理するサイトです。詳細画面は元記事へのリンクとRSSの概要を示します。ChatGPTでの深掘りには、質問文のコピー機能をご利用ください。</p><p><strong>重要度について：</strong> A/B/Cは見出しの語句などに基づく機械的な目安です。最終判断には記事の原文や一次情報をご確認ください。</p><p><strong>未読・保存：</strong>端末のブラウザ内に保存されます。別のブラウザには同期しません。</p><p><strong>スクロール：</strong>一覧の中に独立したスクロール領域を作っていません。記事を展開しても画面の縦スクロール位置を保ちます。</p><p id="sourceReport"></p></dialog>
+<dialog id="helpDialog"><div class="dialog-head"><h2>このダッシュボードについて</h2><button id="closeHelp" class="icon-btn" aria-label="閉じる">✕</button></div><p>日々のRSS見出しを集約し、情報源・重要度・日付・分野で整理するサイトです。詳細画面は元記事へのリンクとRSSの概要を示します。ChatGPTでの深掘りには、質問文のコピー機能をご利用ください。</p><p><strong>重要度について：</strong> A/B/Cは見出しの語句などに基づく機械的な目安です。最終判断には記事の原文や一次情報をご確認ください。</p><p><strong>未読・保存：</strong>端末のブラウザ内に保存されます。別のブラウザには同期しません。</p><p><strong>記事の深掘り：</strong>記事を展開し「概要・関連ニュースを表示」を押すと、RSSの概要と当日・過去7日間の関連見出しを同じ画面で取得・表示します。関連度はキーワードによる自動推定です。記事本文のAI要約ではありません。</p><p><strong>スクロール：</strong>一覧の中に独立したスクロール領域を作っていません。記事を展開しても画面の縦スクロール位置を保ちます。</p><p id="sourceReport"></p></dialog>
 <div id="toast" class="toast" role="status" aria-live="polite"></div>
 <script>
 // オフラインでUIの動作を確認するための架空の見出し例。実際のニュースではありません。
@@ -77,6 +78,7 @@ window.DEMO_NEWS = (() => {
 })();
 
 </script>
+<script src="./assets/insight.js?v=1"></script>
 <script>
 (() => {
 "use strict";
@@ -87,6 +89,7 @@ const NAMES = Object.fromEntries(CATEGORY.map(x=>[x[0],x[1]]));
 const $ = id => document.getElementById(id);
 const state = {category:"all", importance:"all", query:"", sort:"priority", unread:false, saved:false, expanded:null, displayed:100, date:null, items:[], index:null, demo:false};
 const readState = loadSet("brief-read"); const savedState = loadSet("brief-saved");
+const insightsOpen=new Set();
 let toastTimer;
 function loadSet(key){try {return new Set(JSON.parse(localStorage.getItem(key)||"[]"))}catch{return new Set()}}
 function persistSet(key,set){try{localStorage.setItem(key,JSON.stringify([...set]))}catch{}}
@@ -105,7 +108,26 @@ function makeArticle(item,idx){const a=el("article","article");a.dataset.read=St
   head.append(el("span","index-num",String(idx+1).padStart(2,"0")));
   const cp=el("div","article-copy");const flags=el("div","article-flags");flags.append(el("span","priority "+(item.importance||"C"),item.importance||"C"),el("span",null,NAMES[item.category]||"その他"));if(item.is_demo)flags.append(el("span",null,"UIサンプル"));cp.append(flags,el("div","article-title",item.title),el("div","article-meta",`${item.source||"配信元不明"}  ·  ${formatTime(item.published_at)}  ${readState.has(item.id)?"· 既読":""}`));head.append(cp,el("span","article-chevron","⌄"));head.addEventListener("click",()=>{const y=window.scrollY;state.expanded=state.expanded===item.id?null:item.id;if(state.expanded){readState.add(item.id);persistSet("brief-read",readState)}renderList();requestAnimationFrame(()=>window.scrollTo(0,y))});a.append(head);
   const save=el("button","article-save"+(savedState.has(item.id)?" saved":""),savedState.has(item.id)?"★":"☆");save.title="記事を保存";save.setAttribute("aria-label",savedState.has(item.id)?"保存を解除":"記事を保存");save.type="button";save.style.position="absolute";save.style.right="45px";save.style.top="14px";save.addEventListener("click",()=>{if(savedState.has(item.id))savedState.delete(item.id);else savedState.add(item.id);persistSet("brief-saved",savedState);renderList();showToast(savedState.has(item.id)?"保存しました":"保存を解除しました")});a.append(save);
-  if(state.expanded===item.id){const detail=el("div","article-detail");detail.id=`d-${item.id.replace(/[^a-zA-Z0-9-]/g,"")}`;detail.append(el("p","detail-summary",item.summary || "この配信元はRSSに記事概要を掲載していません。詳細は原文でご確認ください。"));detail.append(el("div","detail-note",item.is_demo?"この見出しは架空のUI操作例です。実際の記事ではありません。":"この概要はRSSに記載された情報です。AIによる分析・検証は行っていません。"));const acts=el("div","detail-actions");const link=safeUrl(item.url);if(link&&!item.is_demo){const b=el("a","action-link primary","↗ 原文を開く");b.href=link;b.target="_blank";b.rel="noopener noreferrer";acts.append(b)}const copy=el("button","action-btn","▣ 深掘り質問をコピー");copy.type="button";copy.onclick=async()=>{const prompt=`以下のニュースについて最新の一次資料と複数報道を調べ、背景・重要性・企業・社会・市場への影響・今後の注目点を詳しく分析してください。事実と推測は区別し、情報源を示してください。\n\n見出し：${item.title}\n配信元：${item.source}\n記事：${item.url||"（デモ）"}`;try{await navigator.clipboard.writeText(prompt);showToast("深掘り質問をコピーしました")}catch{const t=el("textarea");t.value=prompt;t.style.position="fixed";t.style.left="-9999px";document.body.append(t);t.select();try{document.execCommand("copy");showToast("コピーしました")}catch{showToast("コピーできませんでした")}t.remove()}};acts.append(copy);const gpt=el("a","action-link","ChatGPTを開く ↗");gpt.href="https://chatgpt.com/";gpt.rel="noopener noreferrer";gpt.target="_blank";acts.append(gpt);detail.append(acts);a.append(detail)}return a}
+  if(state.expanded===item.id){const detail=el("div","article-detail");detail.id=`d-${item.id.replace(/[^a-zA-Z0-9-]/g,"")}`;detail.append(el("p","detail-summary",item.summary || "この配信元はRSSに記事概要を掲載していません。詳細は原文でご確認ください。"));detail.append(el("div","detail-note",item.is_demo?"この見出しは架空のUI操作例です。実際の記事ではありません。":"この概要はRSSに記載された情報です。AIによる分析・検証は行っていません。"));const acts=el("div","detail-actions");const link=safeUrl(item.url);if(link&&!item.is_demo){const b=el("a","action-link primary","↗ 原文を開く");b.href=link;b.target="_blank";b.rel="noopener noreferrer";acts.append(b)}const insightKey=`${state.date}/${item.id}`;
+  const insightBtn=el("button","action-btn insight-trigger","✦ 概要・関連ニュースを表示");
+  insightBtn.type="button";
+  const insightPanel=el("section","insight-panel");
+  insightPanel.id=`insight-${item.id.replace(/[^a-zA-Z0-9-]/g,"")}`;
+  insightPanel.hidden=!insightsOpen.has(insightKey);
+  insightBtn.setAttribute("aria-controls",insightPanel.id);
+  insightBtn.setAttribute("aria-expanded",String(!insightPanel.hidden));
+  const loadInsight=()=>{if(window.DailyBriefInsight)window.DailyBriefInsight.render(insightPanel,item,{date:state.date,indexDays:state.index?.days,currentItems:state.items});else insightPanel.textContent="関連ニュース機能を読み込めませんでした。ページを更新してください。"};
+  insightBtn.addEventListener("click",()=>{
+    const open=insightPanel.hidden;
+    insightPanel.hidden=!open;
+    insightBtn.setAttribute("aria-expanded",String(open));
+    insightBtn.textContent=open?"✕ 詳細を閉じる":"✦ 概要・関連ニュースを表示";
+    if(open){insightsOpen.add(insightKey);loadInsight()}
+    else insightsOpen.delete(insightKey);
+  });
+  acts.append(insightBtn);
+  detail.append(acts,insightPanel);a.append(detail);
+  if(!insightPanel.hidden){insightBtn.textContent="✕ 詳細を閉じる";queueMicrotask(loadInsight)}}return a}
 function renderList(){const list=$("newsList");list.replaceChildren();const view=getViewed();const n=Math.min(state.displayed,view.length);const frag=document.createDocumentFragment();for(let i=0;i<n;i++)frag.append(makeArticle(view[i],i));list.append(frag);list.hidden=!view.length;$("emptyState").hidden=!!view.length;$("loadMore").hidden=view.length<=state.displayed;$("loadMore").textContent=`次の${Math.min(100,view.length-state.displayed)}件を表示 ↓`}
 function renderAll(){renderStats();updateToolbar();renderList()}
 function setNotice(){const banner=$("alertBanner");const tag=$("statusTag");tag.textContent=state.demo?"UI DEMO / LIVE DATA NOT CONNECTED":"LATEST FEED";if(state.demo){banner.textContent="現在は表示機能の確認用サンプルです。実際のニュースではありません。公開後、取得処理が初回実行されると実際の記事に切り替わります。"}else{const fails=state.index?.sources_failed||[];banner.textContent=fails.length?`一部の配信元で取得に失敗しました（${fails.length}件）。既存のニュースは保持されています。配信状況は右上「このサイトについて」から確認できます。`:""}}
