@@ -12,7 +12,7 @@ def text(el,names):
             return "".join(child.itertext()).strip()
     return ""
 def clean(s):
-    return re.sub(r"\\s+"," ",re.sub(r"<[^>]*>"," ",html.unescape(s or ""))).strip()
+    return re.sub(r"\s+"," ",re.sub(r"<[^>]*>"," ",html.unescape(s or ""))).strip()
 def classify(title):
     if re.search("日銀|利上げ|利下げ|FRB|政策金利|国債|社債|GDP|金融庁|金融政策",title,re.I): cat="finance"
     elif re.search("不動産|住宅|地価|マンション|REIT|賃貸",title,re.I): cat="realestate"
@@ -47,7 +47,7 @@ def getfeed(source,now):
         override_cat,priority=classify(title)
         summary=clean(text(item,{"description","summary","encoded"}))[:180]
         day=published.date().isoformat()
-        ident=hashlib.sha256((day+"|"+re.sub(r"\\W+","",title).lower()).encode()).hexdigest()[:20]
+        ident=hashlib.sha256((day+"|"+re.sub(r"\W+","",title).lower()).encode()).hexdigest()[:20]
         out.append({"id":ident,"title":title,"url":link,"source":source["name"],"source_id":source["id"],"category":override_cat or source["category"],"importance":priority,"published_at":published.isoformat(timespec="seconds"),"summary":summary})
     return out
 def run():
