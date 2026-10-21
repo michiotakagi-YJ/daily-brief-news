@@ -1,0 +1,92 @@
+[
+  {
+    "id": "yahoo_domestic",
+    "name": "Yahoo!ニュース／国内",
+    "category": "society",
+    "url": "https://news.yahoo.co.jp/rss/categories/domestic.xml"
+  },
+  {
+    "id": "yahoo_world",
+    "name": "Yahoo!ニュース／国際",
+    "category": "international",
+    "url": "https://news.yahoo.co.jp/rss/categories/world.xml"
+  },
+  {
+    "id": "yahoo_business",
+    "name": "Yahoo!ニュース／経済",
+    "category": "finance",
+    "url": "https://news.yahoo.co.jp/rss/categories/business.xml"
+  },
+  {
+    "id": "yahoo_it",
+    "name": "Yahoo!ニュース／IT",
+    "category": "technology",
+    "url": "https://news.yahoo.co.jp/rss/categories/it.xml"
+  },
+  {
+    "id": "yahoo_science",
+    "name": "Yahoo!ニュース／科学",
+    "category": "technology",
+    "url": "https://news.yahoo.co.jp/rss/categories/science.xml"
+  },
+  {
+    "id": "yahoo_local",
+    "name": "Yahoo!ニュース／地域",
+    "category": "society",
+    "url": "https://news.yahoo.co.jp/rss/categories/local.xml"
+  },
+  {
+    "id": "yahoo_life",
+    "name": "Yahoo!ニュース／生活",
+    "category": "society",
+    "url": "https://news.yahoo.co.jp/rss/categories/life.xml"
+  },
+  {
+    "id": "yahoo_sports",
+    "name": "Yahoo!ニュース／スポーツ",
+    "category": "culture",
+    "url": "https://news.yahoo.co.jp/rss/categories/sports.xml"
+  },
+  {
+    "id": "yahoo_entertainment",
+    "name": "Yahoo!ニュース／文化芸能",
+    "category": "culture",
+    "url": "https://news.yahoo.co.jp/rss/categories/entertainment.xml"
+  },
+  {
+    "id": "nhk_headlines",
+    "name": "NHK ONE／主要ニュース",
+    "category": "society",
+    "url": "https://news.web.nhk/n-data/conf/na/rss/cat0.xml"
+  },
+  {
+    "id": "itmedia_news",
+    "name": "ITmedia NEWS",
+    "category": "technology",
+    "url": "https://rss.itmedia.co.jp/rss/2.0/news_bursts.xml"
+  },
+  {
+    "id": "itmedia_ai",
+    "name": "ITmedia AI＋",
+    "category": "technology",
+    "url": "https://rss.itmedia.co.jp/rss/2.0/aiplus.xml"
+  },
+  {
+    "id": "impress",
+    "name": "Impress Watch",
+    "category": "technology",
+    "url": "https://www.watch.impress.co.jp/data/rss/1.0/ipw/feed.rdf"
+  },
+  {
+    "id": "impress_crypto",
+    "name": "仮想通貨Watch",
+    "category": "finance",
+    "url": "https://crypto.watch.impress.co.jp/data/rss/1.0/ctw/feed.rdf"
+  },
+  {
+    "id": "cabinet_office",
+    "name": "内閣府／報道発表",
+    "category": "politics",
+    "url": "https://www.cao.go.jp/rss/news.rdf"
+  }
+]
