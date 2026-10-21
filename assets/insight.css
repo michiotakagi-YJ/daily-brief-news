@@ -48,3 +48,7 @@
 /* Expanded dossier replaces the preliminary RSS preview instead of repeating it. */
 .article-detail:has(.insight-panel:not([hidden])) > .detail-summary,
 .article-detail:has(.insight-panel:not([hidden])) > .detail-note{display:none}
+
+/* Related-news cards are accessible buttons, not outbound links. */
+.insight-related-item {width:100%;text-align:left;font:inherit;cursor:pointer;color:var(--ink)}
+.insight-related-item:focus-visible {outline:2px solid var(--accent);outline-offset:2px}
