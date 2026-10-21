@@ -136,12 +136,12 @@
       const list=node("div","insight-related-list");
       for(const article of related) {
         const u=safeURL(article.url);if(!u)continue;
-        const row=node("a","insight-related-item"); row.href=u;row.target="_blank";row.rel="noopener noreferrer";
+        const row=node("button","insight-related-item"); row.type="button";row.setAttribute("aria-label","記事を同じ画面で開く: "+article.title);row.addEventListener("click",()=>{if(window.DailyBriefReader)window.DailyBriefReader.open(article)});
         const meta=node("div","insight-related-meta",(article.source||"配信元不明")+"  ·  "+formatDate(article));
         const headline=node("div","insight-related-title",article.title);
         row.append(meta,headline);
         if(article.summary && article.summary!==article.title)row.append(node("p","insight-related-excerpt",article.summary));
-        row.append(node("span","insight-related-arrow","原文 ↗"));
+        row.append(node("span","insight-related-arrow","記事を表示 ↗"));
         list.append(row);
       }
       container.append(list);
