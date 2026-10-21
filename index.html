@@ -24,6 +24,7 @@
   
   <link rel="stylesheet" href="./assets/editorial.css?v=2">
   <link rel="stylesheet" href="./assets/insight.css?v=2">
+  <link rel="stylesheet" href="./assets/reader.css?v=1">
 </head>
 <body>
 <div class="app-shell">
@@ -47,7 +48,35 @@
     </main>
   </div>
 </div>
-<dialog id="helpDialog"><div class="dialog-head"><h2>このダッシュボードについて</h2><button id="closeHelp" class="icon-btn" aria-label="閉じる">✕</button></div><p>日々のRSS見出しを集約し、情報源・重要度・日付・分野で整理するサイトです。記事を展開して「概要・関連ニュースを表示」を押すと、同じ画面内でRSSの概要と過去7日間の関連記事を自動検索して表示します。原文リンクも利用できます。</p><p><strong>重要度について：</strong> A/B/Cは見出しの語句などに基づく機械的な目安です。最終判断には記事の原文や一次情報をご確認ください。</p><p><strong>未読・保存：</strong>端末のブラウザ内に保存されます。別のブラウザには同期しません。</p><p><strong>記事の深掘り：</strong>記事を展開し「概要・関連ニュースを表示」を押すと、RSSの概要と当日・過去7日間の関連見出しを同じ画面で取得・表示します。関連度はキーワードによる自動推定です。記事本文のAI要約ではありません。</p><p><strong>スクロール：</strong>一覧の中に独立したスクロール領域を作っていません。記事を展開しても画面の縦スクロール位置を保ちます。</p><p id="sourceReport"></p></dialog>
+<dialog id="helpDialog"><div class="dialog-head"><h2>このダッシュボードについて</h2><button id="closeHelp" class="icon-btn" aria-label="閉じる">✕</button></div><p>日々のRSS見出しを集約し、情報源・重要度・日付・分野で整理するサイトです。記事を展開すると「本文をこの画面で読む」から配信元サイトの埋め込みを試せます。配信元が埋め込みを禁止している場合、全文は表示できないため「配信元で読む」が代替手段です。「概要・関連ニュースを表示」ではRSS説明文と過去7日間の関連記事を同じ画面内で確認できます。</p><p><strong>重要度について：</strong> A/B/Cは見出しの語句などに基づく機械的な目安です。最終判断には記事の原文や一次情報をご確認ください。</p><p><strong>未読・保存：</strong>端末のブラウザ内に保存されます。別のブラウザには同期しません。</p><p><strong>記事の深掘り：</strong>記事を展開し「概要・関連ニュースを表示」を押すと、RSSの概要と当日・過去7日間の関連見出しを同じ画面で取得・表示します。関連度はキーワードによる自動推定です。記事本文のAI要約ではありません。</p><p><strong>スクロール：</strong>一覧の中に独立したスクロール領域を作っていません。記事を展開しても画面の縦スクロール位置を保ちます。</p><p id="sourceReport"></p></dialog>
+
+<dialog id="articleReader" class="reader-dialog" aria-labelledby="readerTitle" aria-describedby="readerAccessNote">
+  <div class="reader-layout">
+    <div class="reader-top">
+      <span class="reader-label">DAILY BRIEF / ARTICLE READER</span>
+      <button id="readerClose" type="button" class="reader-close" aria-label="記事閲覧を閉じる">✕ 閉じる</button>
+    </div>
+    <section class="reader-heading">
+      <div id="readerSource" class="reader-source"></div>
+      <h2 id="readerTitle" class="reader-title"></h2>
+      <p id="readerSummary" class="reader-summary"></p>
+    </section>
+    <div class="reader-frame-area">
+      <div id="readerLoading" class="reader-loading" role="status" hidden>配信元ページを読み込み中…</div>
+      <iframe id="readerFrame" class="reader-frame" title="ニュース記事の埋め込み" loading="eager"
+        referrerpolicy="strict-origin-when-cross-origin"
+        sandbox="allow-forms allow-scripts allow-same-origin allow-popups allow-popups-to-escape-sandbox"></iframe>
+    </div>
+    <div class="reader-controls">
+      <div class="reader-hint">
+        <strong id="readerAccessNote">配信元が埋め込みを許可した場合に本文が表示されます。</strong>
+        <p id="readerFrameStatus" role="status"></p>
+        <p id="readerBlockedHint">白紙・エラーの場合は配信元サイトが外部表示を制限している可能性があります。全文転載は行っていません。</p>
+      </div>
+      <a id="readerOriginal" class="reader-original" href="#" target="_blank" rel="noopener noreferrer">配信元で読む ↗</a>
+    </div>
+  </div>
+</dialog>
 <div id="toast" class="toast" role="status" aria-live="polite"></div>
 <script>
 // オフラインでUIの動作を確認するための架空の見出し例。実際のニュースではありません。
@@ -78,6 +107,7 @@ window.DEMO_NEWS = (() => {
 })();
 
 </script>
+<script src="./assets/reader.js?v=1"></script>
 <script src="./assets/insight.js?v=2"></script>
 <script>
 (() => {
@@ -108,7 +138,7 @@ function makeArticle(item,idx){const a=el("article","article");a.dataset.read=St
   head.append(el("span","index-num",String(idx+1).padStart(2,"0")));
   const cp=el("div","article-copy");const flags=el("div","article-flags");flags.append(el("span","priority "+(item.importance||"C"),item.importance||"C"),el("span",null,NAMES[item.category]||"その他"));if(item.is_demo)flags.append(el("span",null,"UIサンプル"));cp.append(flags,el("div","article-title",item.title),el("div","article-meta",`${item.source||"配信元不明"}  ·  ${formatTime(item.published_at)}  ${readState.has(item.id)?"· 既読":""}`));head.append(cp,el("span","article-chevron","⌄"));head.addEventListener("click",()=>{const y=window.scrollY;state.expanded=state.expanded===item.id?null:item.id;if(state.expanded){readState.add(item.id);persistSet("brief-read",readState)}renderList();requestAnimationFrame(()=>window.scrollTo(0,y))});a.append(head);
   const save=el("button","article-save"+(savedState.has(item.id)?" saved":""),savedState.has(item.id)?"★":"☆");save.title="記事を保存";save.setAttribute("aria-label",savedState.has(item.id)?"保存を解除":"記事を保存");save.type="button";save.style.position="absolute";save.style.right="45px";save.style.top="14px";save.addEventListener("click",()=>{if(savedState.has(item.id))savedState.delete(item.id);else savedState.add(item.id);persistSet("brief-saved",savedState);renderList();showToast(savedState.has(item.id)?"保存しました":"保存を解除しました")});a.append(save);
-  if(state.expanded===item.id){const detail=el("div","article-detail");detail.id=`d-${item.id.replace(/[^a-zA-Z0-9-]/g,"")}`;detail.append(el("p","detail-summary",item.summary || "この配信元はRSSに記事概要を掲載していません。詳細は原文でご確認ください。"));detail.append(el("div","detail-note",item.is_demo?"この見出しは架空のUI操作例です。実際の記事ではありません。":"この概要はRSSに記載された情報です。AIによる分析・検証は行っていません。"));const acts=el("div","detail-actions");const link=safeUrl(item.url);if(link&&!item.is_demo){const b=el("a","action-link primary","↗ 原文を開く");b.href=link;b.target="_blank";b.rel="noopener noreferrer";acts.append(b)}const insightKey=`${state.date}/${item.id}`;
+  if(state.expanded===item.id){const detail=el("div","article-detail");detail.id=`d-${item.id.replace(/[^a-zA-Z0-9-]/g,"")}`;detail.append(el("p","detail-summary",item.summary || "この配信元はRSSに記事概要を掲載していません。詳細は原文でご確認ください。"));detail.append(el("div","detail-note",item.is_demo?"この見出しは架空のUI操作例です。実際の記事ではありません。":"この概要はRSSに記載された情報です。AIによる分析・検証は行っていません。"));const acts=el("div","detail-actions");const link=safeUrl(item.url);if(link&&!item.is_demo){const b=el("button","action-link primary reader-read-button","▣ 本文をこの画面で読む");b.type="button";b.setAttribute("aria-haspopup","dialog");b.addEventListener("click",()=>{if(window.DailyBriefReader)window.DailyBriefReader.open(item);else showToast("閲覧機能を読み込めませんでした。再読み込みしてください。")});acts.append(b)}const insightKey=`${state.date}/${item.id}`;
   const insightBtn=el("button","action-btn insight-trigger","✦ 概要・関連ニュースを表示");
   insightBtn.type="button";
   const insightPanel=el("section","insight-panel");
