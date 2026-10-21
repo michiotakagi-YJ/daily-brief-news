@@ -28,7 +28,7 @@
   function normalize(s) {
     let x = String(s || "").normalize("NFKC").toLocaleLowerCase("ja-JP");
     for (const [a,b] of ALIASES) x=x.replaceAll(a.toLocaleLowerCase("ja-JP"),b.toLocaleLowerCase("ja-JP"));
-    return x.replace(/【[^】]+】|\[[^\]]+\]/g, " ").replace(STOP, " ").replace(/https?:\/\/\S+/g, " ");
+    return x.replace(/\([^()]{2,80}\)\s*$/g, " ").replace(/【[^】]+】|\[[^\]]+\]/g, " ").replace(STOP, " ").replace(/https?:\/\/\S+/g, " ");
   }
   function grams(title) {
     const value = normalize(title);
@@ -62,6 +62,21 @@
       const allWeight = [...entry.t].reduce((s,t)=>s+idf(t),0);
       const score = rare / Math.max(1,baseWeight+allWeight-rare);
       const entities = overlap.filter(t=>t.startsWith("e:")).length;
+      const originalTitle = normalize(article.title);
+      const relatedTitle = normalize(entry.article.title);
+      // Avoid unrelated cryptocurrency news for an article about a named company.
+      const distinctive = [...originalTitle.matchAll(/\b[a-z][a-z0-9]{3,}\b/g)]
+        .map(match=>match[0]).filter(w=>!["news","today","japan","world","daily","breaking"].includes(w));
+      if(distinctive.length && !distinctive.some(w=>relatedTitle.includes(w))) continue;
+      // Earthquakes in different epicenters or with different magnitudes are separate events.
+      if(originalTitle.includes("地震") && relatedTitle.includes("地震")) {
+        const origin = originalTitle.match(/震源(?:地)?(?:は|が|[:：])\s*([^\s、。)（）]{3,22})/);
+        const other = relatedTitle.match(/震源(?:地)?(?:は|が|[:：])\s*([^\s、。)（）]{3,22})/);
+        if(origin && other && origin[1]!==other[1] && !origin[1].includes(other[1]) && !other[1].includes(origin[1])) continue;
+        const magnitude = originalTitle.match(/(?:\bm|マグニチュード)\s*([0-9]+(?:\.[0-9]+)?)/i);
+        const otherMagnitude = relatedTitle.match(/(?:\bm|マグニチュード)\s*([0-9]+(?:\.[0-9]+)?)/i);
+        if(magnitude && otherMagnitude && Math.abs(Number(magnitude[1])-Number(otherMagnitude[1]))>0.15) continue;
+      }
       // Avoid associating unrelated stories merely because they are both financial/political news.
       if ((overlap.length < 2 && !entities) || (score < .105 && !(entities>=2 && score>=.065))) continue;
       const published = Date.parse(entry.article.published_at||"")||0;
