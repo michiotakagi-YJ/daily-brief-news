@@ -2,6 +2,28 @@
   "date": "2026-10-21",
   "articles": [
     {
+      "id": "bfa3d9a8cb7dc4bb50f6",
+      "title": "【地震】静岡県内で震度1 千葉県北西部を震源とする最大震度2の地震が発生 津波の心配なし(テレビ静岡NEWS)",
+      "url": "https://news.yahoo.co.jp/articles/87cfc5ad1314b696d4f680af1d92939eefe9af07?source=rss",
+      "source": "Yahoo!ニュース／地域",
+      "source_id": "yahoo_local",
+      "category": "society",
+      "importance": "A",
+      "published_at": "2026-10-21T10:11:02+09:00",
+      "summary": "2026年10月21日午前10時04分ごろ、千葉県北西部を震源とする最大震度2の地震が発生しました。静岡県内では震度1の揺れが観測されています。最大震度2を観測したのは茨城県、埼玉県、千葉県、東京都、"
+    },
+    {
+      "id": "d5ebb5d703080fc40c7b",
+      "title": "【地震】栃木県内で震度1 千葉県北西部を震源とする最大震度2の地震が発生 津波の心配なし(とちぎテレビ)",
+      "url": "https://news.yahoo.co.jp/articles/d7342904a9fe8e5fb483d25e7397cf37eb53f21e?source=rss",
+      "source": "Yahoo!ニュース／地域",
+      "source_id": "yahoo_local",
+      "category": "society",
+      "importance": "A",
+      "published_at": "2026-10-21T10:11:01+09:00",
+      "summary": "2026年10月21日午前10時04分ごろ、千葉県北西部を震源とする最大震度2の地震が発生しました。栃木県内では震度1の揺れが観測されています。最大震度2を観測したのは茨城県、埼玉県、千葉県、東京都、"
+    },
+    {
       "id": "8e04a4213d00df9c9912",
       "title": "トランプ氏4億ドルvsブルームバーグ氏8000万ドル…選挙2週間前の「銭の戦争」(中央日報日本語版)",
       "url": "https://news.yahoo.co.jp/articles/6e315073685af1e4e3d5b940d5fd166b48a87560?source=rss",
@@ -68,6 +90,413 @@
       "summary": "エヌビディアのGPUを使った計算能力を、OpenAIなどの顧客に貸し出しているAIクラウド企業のコアウィーブ（CoreWeave）は、米国時間10月12日の週に、株価が25％下落した。エヌビディアのジ"
     },
     {
+      "id": "9fde8f26ab814ed3edb9",
+      "title": "奈良県桜井市 音羽山観音寺後藤住職の花だより - 雨の観音寺 参拝者と料理の話に花が咲き(奈良新聞デジタル)",
+      "url": "https://news.yahoo.co.jp/articles/62b8ae09649878fbaca91649a3347ad5480cb80f?source=rss",
+      "source": "Yahoo!ニュース／地域",
+      "source_id": "yahoo_local",
+      "category": "society",
+      "importance": "B",
+      "published_at": "2026-10-21T10:10:51+09:00",
+      "summary": "毎日のように雨が降り続いた9月初旬。この日、奈良県桜井市にある音羽山観音寺も、朝は晴れ間が見えたものの、昼ごろからは予報通り、しっかり雨が降り始めました。[写真]玄関にこの日の朝生けられた庭の花"
+    },
+    {
+      "id": "74261b6acbb849809f30",
+      "title": "マカオ、2026年9月の住宅不動産市場振るわず…取引数が2ヶ月連続で年初来最少更新(マカオ新聞)",
+      "url": "https://news.yahoo.co.jp/articles/bbc89f7a641a17ad1a46d515ac97975a5c67d8f9?source=rss",
+      "source": "Yahoo!ニュース／国際",
+      "source_id": "yahoo_world",
+      "category": "realestate",
+      "importance": "B",
+      "published_at": "2026-10-21T10:10:24+09:00",
+      "summary": "このほどマカオ政府財政局（DSF）が公表した最新統計によると、今年（2026年）9月の住宅売買・移転にかかる不動産印紙税の対象となった取引件数は前月から2件減（0.8%減）の251件で、2ヶ月連続で年"
+    },
+    {
+      "id": "89dc3383e15fdbf6693a",
+      "title": "“喪失しない”電源に…産総研が開発、「放射線電池」の機能(ニュースイッチ)",
+      "url": "https://news.yahoo.co.jp/articles/8b447ff25e3a3a9a9d6c6d1388eeee1420049058?source=rss",
+      "source": "Yahoo!ニュース／科学",
+      "source_id": "yahoo_science",
+      "category": "technology",
+      "importance": "B",
+      "published_at": "2026-10-21T10:10:10+09:00",
+      "summary": "産業技術総合研究所の藤原健研究グループ長らは、放射性廃棄物から出るガンマ線で発電する放射線電池を開発した。ガンマ線を青い光に変換してから太陽電池で電力に変換する。ペットボトルサイズのデバイスで2・5ボ"
+    },
+    {
+      "id": "feb6d5f92210bdbabada",
+      "title": "吉野北人インタビュー。「人生の正解を求めるより、自分の価値観で魅力的な答えを選びたい」(Web LEON)",
+      "url": "https://news.yahoo.co.jp/articles/bc59ebd909db0c893123ab0f9316cff2116c1c98?source=rss",
+      "source": "Yahoo!ニュース／生活",
+      "source_id": "yahoo_life",
+      "category": "society",
+      "importance": "B",
+      "published_at": "2026-10-21T10:10:02+09:00",
+      "summary": "THE RAMPAGEのメンバーとして、俳優として、幅広く活躍する吉野北人さんが映画『昨夜は殺れたかも』（10月23日公開）に主演。元ヤクザの過去を隠す愛妻家のサラリーマン役に挑戦しました。今作の見ど"
+    },
+    {
+      "id": "b741285fea1827480186",
+      "title": "『ちいかわ』の“しかけ絵本”が登場！ キャラクターがページをめくるたび飛び出す(クランクイン！)",
+      "url": "https://news.yahoo.co.jp/articles/67c3fbf0628e3dc8c8ebe6f975ec18a5bbd556da?source=rss",
+      "source": "Yahoo!ニュース／文化芸能",
+      "source_id": "yahoo_entertainment",
+      "category": "culture",
+      "importance": "B",
+      "published_at": "2026-10-21T10:10:00+09:00",
+      "summary": "ナガノによるX発マンガ『ちいかわ』のしかけ絵本「とびだす アニメちいかわ」（講談社）が、10月19日（月）から、全国の書店などで販売中だ。【写真】アニメ1話～33話を収録！ 『ちいかわ』初の公式ストー"
+    },
+    {
+      "id": "d7089f9f3216f8932998",
+      "title": "夢のファッションショーで和染めと伊豆の魅力紹介 大平の染色家三橋さん―伊豆(伊豆新聞)",
+      "url": "https://news.yahoo.co.jp/articles/189b16639955882274219e9984f773e400ce1b91?source=rss",
+      "source": "Yahoo!ニュース／地域",
+      "source_id": "yahoo_local",
+      "category": "society",
+      "importance": "B",
+      "published_at": "2026-10-21T10:09:41+09:00",
+      "summary": "伊豆市大平で「蔵ギャラリーみつはし」を主宰する染色家三橋由美子さん（73）＝大平＝は11月3日、自身初のファッションショーを修善寺総合会館で開く。伊豆産の自然素材だけで製作した藍染め、草木染の衣服をモ"
+    },
+    {
+      "id": "c5c4d8d3abd7f958dde8",
+      "title": "北海道新聞記者が拘束 欧州局長がモスクワ訪問 ロシア外務省高官と会談も事態進展見えず(テレビ朝日系（ANN）)",
+      "url": "https://news.yahoo.co.jp/articles/bcbc3b31f2270747886fc666036b4bf600a482c3?source=rss",
+      "source": "Yahoo!ニュース／国内",
+      "source_id": "yahoo_domestic",
+      "category": "society",
+      "importance": "B",
+      "published_at": "2026-10-21T10:08:40+09:00",
+      "summary": "ロシアで北海道新聞の記者がスパイ容疑で拘束されたことをめぐり、外務省の中村欧州局長がモスクワを訪問し、ロシア外務省の高官と会談しました。外務省によりますと、中村欧州局長は20日、ロシア外務省を訪れ、ボ"
+    },
+    {
+      "id": "b7c86725a27de40bc5df",
+      "title": "Ｈ３ロケット１０号機打ち上げ 宮崎県からも光の軌跡確認(宮崎日日新聞)",
+      "url": "https://news.yahoo.co.jp/articles/818a39104b960d77445b256d836e19a0246a1e93?source=rss",
+      "source": "Yahoo!ニュース／地域",
+      "source_id": "yahoo_local",
+      "category": "society",
+      "importance": "B",
+      "published_at": "2026-10-21T10:08:35+09:00",
+      "summary": "宇宙航空研究開発機構（ＪＡＸＡ）が２０日未明に鹿児島県の種子島宇宙センターから打ち上げたＨ３ロケット１０号機の光の軌跡は、本県からも確認された。"
+    },
+    {
+      "id": "bc5efb619cd6b1d580e3",
+      "title": "コスモス４００万本見頃 都城 南部ふれあい広場(宮崎日日新聞)",
+      "url": "https://news.yahoo.co.jp/articles/4300caf78a74bc3be46ac4289a12de7b10614485?source=rss",
+      "source": "Yahoo!ニュース／地域",
+      "source_id": "yahoo_local",
+      "category": "society",
+      "importance": "B",
+      "published_at": "2026-10-21T10:08:27+09:00",
+      "summary": "都城市大岩田町の市南部ふれあい広場で、約４００万本のコスモスが見頃を迎え、来場者の目を楽しませている。入場無料。"
+    },
+    {
+      "id": "8412131d0a84cecc610e",
+      "title": "スマート農業に手応え 福島・楢葉でサツマイモ栽培実証、高精度作業で安定生産(福島民友新聞)",
+      "url": "https://news.yahoo.co.jp/articles/62655e98731045fb93f92019cbdb647355ce8318?source=rss",
+      "source": "Yahoo!ニュース／地域",
+      "source_id": "yahoo_local",
+      "category": "society",
+      "importance": "B",
+      "published_at": "2026-10-21T10:08:24+09:00",
+      "summary": "福島イノベーション・コースト構想推進機構は本年度、福島県楢葉町でサツマイモ栽培のスマート農業の実証事業に取り組んでいる。人手不足などの農業課題解決を図り、農業者の帰還や企業の参入を促して地域農業の再生"
+    },
+    {
+      "id": "ebe64eb4ea154ed9017f",
+      "title": "【U-17女子W杯】アメリカが衝撃の17-0圧勝！ 男女通じてW杯史上最大の得点差、FWディマリアは驚異の6ゴール(フットボールチャンネル)",
+      "url": "https://news.yahoo.co.jp/articles/6773c59a6a5c62120ff7c1543752d0df7abb4618?source=rss",
+      "source": "Yahoo!ニュース／スポーツ",
+      "source_id": "yahoo_sports",
+      "category": "culture",
+      "importance": "B",
+      "published_at": "2026-10-21T10:08:18+09:00",
+      "summary": "FIFA U-17女子ワールドカップ2026（U-17女子W杯）のグループE第1節が現地時間19日に行われ、U-17アメリカ合衆国女子代表がU-17サモア女子代表に17-0で大勝した。男女や年代別を含"
+    },
+    {
+      "id": "e7babaecf08d329aa2b9",
+      "title": "武部農水大臣“違法献金疑惑”を陳謝 事実関係を確認後に返金や報告書訂正を指示(テレビ朝日系（ANN）)",
+      "url": "https://news.yahoo.co.jp/articles/f0e2e7911b20afad96ffc136a157b36432e41469?source=rss",
+      "source": "Yahoo!ニュース／国内",
+      "source_id": "yahoo_domestic",
+      "category": "society",
+      "importance": "B",
+      "published_at": "2026-10-21T10:08:17+09:00",
+      "summary": "武部農水大臣“違法献金疑惑”を陳謝。事実関係を確認後に返金や報告書訂正を指示。"
+    },
+    {
+      "id": "527a100de63c7613b3cb",
+      "title": "防災ヘリ「あおぞら」格好良い 串間・大束小児童、園児ら見学(宮崎日日新聞)",
+      "url": "https://news.yahoo.co.jp/articles/c92b84283c0a02c7721614e390e954b5a9ae4573?source=rss",
+      "source": "Yahoo!ニュース／地域",
+      "source_id": "yahoo_local",
+      "category": "society",
+      "importance": "B",
+      "published_at": "2026-10-21T10:08:14+09:00",
+      "summary": "串間市消防本部と県防災救急航空隊との連携訓練が１５、１６日に同市で行われたのに合わせ、市内の子どもたちが県防災救急ヘリ「あおぞら」を使った訓練の様子や機体の内部を見学した。"
+    },
+    {
+      "id": "83ddb9a00e6545c17171",
+      "title": "青森国スポ閉幕 感動のバトン宮崎県へ 来年開催へ関係者決意(宮崎日日新聞)",
+      "url": "https://news.yahoo.co.jp/articles/44279e4f1545fe6f8c0c458d6c3e414a6c84df51?source=rss",
+      "source": "Yahoo!ニュース／地域",
+      "source_id": "yahoo_local",
+      "category": "society",
+      "importance": "B",
+      "published_at": "2026-10-21T10:08:04+09:00",
+      "summary": "青森県を主会場に開催され、２０日に熱戦の幕を下ろした「青の煌（きら）めきあおもり国スポ」。スポーツを通して北国で生まれた感動、絆、おもてなしの心…。バトンは「北の青空から南の太陽へ」と託された。「宮崎"
+    },
+    {
+      "id": "9a9bdf5038135cb65615",
+      "title": "共和党劣勢の南部州で支持層鼓舞 トランプ氏、巻き返せるか不透明(共同通信)",
+      "url": "https://news.yahoo.co.jp/articles/1a1f1d3958549d00215a9e9719def950f1ead633?source=rss",
+      "source": "Yahoo!ニュース／国際",
+      "source_id": "yahoo_world",
+      "category": "international",
+      "importance": "B",
+      "published_at": "2026-10-21T10:07:57+09:00",
+      "summary": "【ワシントン共同】トランプ米大統領は20日、投票まで2週間となった11月3日の中間選挙に向けて南部ノースカロライナ州グリーンビルで集会を開いた。同州の連邦上院選では与党共和党が劣勢となっており、熱狂的"
+    },
+    {
+      "id": "bb4071b69d51b91ff0e2",
+      "title": "日米共同演習、霧島演習場で本格開始 陸自ヘリ飛来、トラブルなし(宮崎日日新聞)",
+      "url": "https://news.yahoo.co.jp/articles/502d3dfbbbba7bb814d7e02f4dfe29f70686e5e0?source=rss",
+      "source": "Yahoo!ニュース／地域",
+      "source_id": "yahoo_local",
+      "category": "society",
+      "importance": "B",
+      "published_at": "2026-10-21T10:07:51+09:00",
+      "summary": "えびの市と鹿児島県湧水町にまたがる陸上自衛隊霧島演習場で２０日、日米共同統合演習「キーン・ソード２７」が本格的に始まった。陸自の多用途ヘリＵＨ１が飛来した。市によると騒音被害やトラブルは確認されていな"
+    },
+    {
+      "id": "5fae8d8c4faca87b235b",
+      "title": "【韓流】SEVENTEEN、１年間のアジア公演売り上げ１位 TWICEら抑える(日刊スポーツ)",
+      "url": "https://news.yahoo.co.jp/articles/7b38937f864f5de8767c7835b7390b1736e738ad?source=rss",
+      "source": "Yahoo!ニュース／文化芸能",
+      "source_id": "yahoo_entertainment",
+      "category": "culture",
+      "importance": "B",
+      "published_at": "2026-10-21T10:07:28+09:00",
+      "summary": "SEVENTEEN（セブンティーン）が、アジアでのツアーの売り上げ1位となった。韓国メディアが報じた。米国の専門誌ポールスターがこのほど「2026 アジアフォーカス」を発表し、昨年8月から今年7月まで"
+    },
+    {
+      "id": "e6e89c27787b81ca48b8",
+      "title": "「パンどろぼう」公式Xが謝罪 誤操作で意図しない「いいね」確認 「厳しく受け止め」再発防止誓う(スポニチアネックス)",
+      "url": "https://news.yahoo.co.jp/articles/d9c5a7edc5f9407fd0fc44a6315ffc20099f9574?source=rss",
+      "source": "Yahoo!ニュース／文化芸能",
+      "source_id": "yahoo_entertainment",
+      "category": "culture",
+      "importance": "B",
+      "published_at": "2026-10-21T10:07:19+09:00",
+      "summary": "人気絵本シリーズ「パンどろぼう」の公式X（旧ツイッター）が20日、誤操作によって意図しないリアクションをしたとして謝罪した。 公式Xは「当公式アカウントにおいて、昨日、誤操作により意図しないリアクショ"
+    },
+    {
+      "id": "634a1211d33c37d98aa6",
+      "title": "【ヤフコメで話題】「坂本勇人の兼任監督案に賛否」「名選手と名監督は別との声」 - 巨人の監督人事を巡る議論が活発化(Yahoo!ニュース オリジナル THE PAGE)",
+      "url": "https://news.yahoo.co.jp/articles/3bee47daf4ca867c088b0f43e834eb58358a4fc4?source=rss",
+      "source": "Yahoo!ニュース／スポーツ",
+      "source_id": "yahoo_sports",
+      "category": "culture",
+      "importance": "B",
+      "published_at": "2026-10-21T10:07:00+09:00",
+      "summary": "巨人の坂本勇人選手を次期監督、さらには現役兼任監督に推す案について、Yahoo!ニュースのコメント欄で話題になっています。コメントでは、坂本選手が長年チームの顔として活躍してきたことから将来の監督候補"
+    },
+    {
+      "id": "f235f23a925314efe26b",
+      "title": "「Liminal – 池内ヨシカツ展」（京都市京セラ美術館）レポート。「見る」「聴く」のあいだに生まれる関係や変化を体感する(Tokyo Art Beat)",
+      "url": "https://news.yahoo.co.jp/articles/fcec8d10818baecaf54fc9f06182f169a56de6ed?source=rss",
+      "source": "Yahoo!ニュース／生活",
+      "source_id": "yahoo_life",
+      "category": "society",
+      "importance": "B",
+      "published_at": "2026-10-21T10:06:13+09:00",
+      "summary": "京都市京セラ美術館で「Liminal – 池内ヨシカツ展」が10月25日まで開催されている。作曲家・美術家の池内ヨシカツの新作絵画を中心に音によるアート作品も併せて展示する個展。入場無料。ほかの画像は"
+    },
+    {
+      "id": "29d55f72e51ff264d25e",
+      "title": "徴兵：キム・ヨンデ 軍服着て近況報告…ビジュアルも一段とりりしく(朝鮮日報日本語版)",
+      "url": "https://news.yahoo.co.jp/articles/29d108c2e540af498b9225b948ca4ccc03a3dd99?source=rss",
+      "source": "Yahoo!ニュース／文化芸能",
+      "source_id": "yahoo_entertainment",
+      "category": "culture",
+      "importance": "B",
+      "published_at": "2026-10-21T10:06:12+09:00",
+      "summary": "【NEWSIS】兵役中の俳優キム・ヨンデが近況を写真で公開した。 キム・ヨンデの交流サイト（SNS）アカウントには19日、写真が数枚アップロードされた。【写真】 キム・ヨンデ、黒スーツを着て「格の違う"
+    },
+    {
+      "id": "1757e1f268cb26ce6d08",
+      "title": "151万4700円から買えるハイブリッド!! スズキ ラパン最安Gは実はかなりお買い得か(ベストカーWeb)",
+      "url": "https://news.yahoo.co.jp/articles/bc92694282b2363bcacee118587659512d14b1bf?source=rss",
+      "source": "Yahoo!ニュース／経済",
+      "source_id": "yahoo_business",
+      "category": "finance",
+      "importance": "B",
+      "published_at": "2026-10-21T10:06:02+09:00",
+      "summary": "軽自動車も200万円級が珍しくなくなった今、スズキ アルトラパンには151万4700円で買えるHYBRID Gがある。しかも2025年の改良で、最安グレードまでマイルドハイブリッド化。燃費も上級グレー"
+    },
+    {
+      "id": "f952c0fa8b9929283da9",
+      "title": "映画前売券会社のメイジャーが映画配給に乗り出す…“泥臭さ”を忘れずに(シネマトゥデイ)",
+      "url": "https://news.yahoo.co.jp/articles/99ef3f7873d5c438929f9ab73db0ed8c90b64599?source=rss",
+      "source": "Yahoo!ニュース／文化芸能",
+      "source_id": "yahoo_entertainment",
+      "category": "culture",
+      "importance": "B",
+      "published_at": "2026-10-21T10:06:01+09:00",
+      "summary": "“映画前売券のことならメイジャー”のキャッチコピーで、およそ半世紀近い歴史を持つ老舗の映画会社メイジャーが、台湾の高校マーチングバンド部を舞台にした青春映画『進行曲 マーチングボーイズ』で初の配給・宣"
+    },
+    {
+      "id": "b2988c2280f0b1ecc929",
+      "title": "青森企業の6割が「給与アップ」の一方で時給1,500円の政府目標は「不可能」が5割近く 最低賃金引き上げに関する調査結果(青森放送)",
+      "url": "https://news.yahoo.co.jp/articles/5d8027f57498f0521dcc5d464aeea975efe17c91?source=rss",
+      "source": "Yahoo!ニュース／地域",
+      "source_id": "yahoo_local",
+      "category": "companies",
+      "importance": "B",
+      "published_at": "2026-10-21T10:06:00+09:00",
+      "summary": "最低賃金の引き上げを受け、民間の信用調査会社が行った調査で青森県内の企業の6割近くが給与を上げることが分かりました。調査は東京商工リサーチ青森支店が県内に本社を置く57社を対象に行いました。それにより"
+    },
+    {
+      "id": "d2e27ecc8fdc52f0aa05",
+      "title": "【速報】大阪で午前9時46分に気温30.0度を観測 史上最も遅い「真夏日」に(ABCニュース)",
+      "url": "https://news.yahoo.co.jp/articles/da1e10c8e8ff83e4589a47aee4876012ccee3bde?source=rss",
+      "source": "Yahoo!ニュース／地域",
+      "source_id": "yahoo_local",
+      "category": "society",
+      "importance": "B",
+      "published_at": "2026-10-21T10:05:42+09:00",
+      "summary": "速報です。気象庁によりますと、大阪市では午前９時４６分に気温３０．０度を観測しました。観測史上、「最も遅い真夏日」となります。ＡＢＣテレビ・津田理帆アナウンサーが一日警察署長に 特殊詐欺被害の防止呼び"
+    },
+    {
+      "id": "8aa89d018cab1b41ce35",
+      "title": "文在寅元大統領の「収賄容疑」めぐる国民参与裁判、来年1月11日に開始…証人18人(中央日報日本語版)",
+      "url": "https://news.yahoo.co.jp/articles/27af0e5cf590ad942b6ad22a2b76f0eaa5dd3b44?source=rss",
+      "source": "Yahoo!ニュース／国際",
+      "source_id": "yahoo_world",
+      "category": "international",
+      "importance": "B",
+      "published_at": "2026-10-21T10:05:39+09:00",
+      "summary": "文在寅（ムン・ジェイン）元大統領の収賄容疑をめぐる国民参与裁判が来年1月11日に始まる。陪審員団は陪審員9人と正規陪審員が職務を遂行できなくなった場合に備える予備陪審員2人の計11人で構成することにな"
+    },
+    {
+      "id": "793cda59ad4cf3b0b9f1",
+      "title": "内村航平 体操ニッポンの金メダルに「頼もしい後輩」も「まだまだやれることも…」(東スポWEB)",
+      "url": "https://news.yahoo.co.jp/articles/0261573c5720d975357a023965253955e431c44f?source=rss",
+      "source": "Yahoo!ニュース／スポーツ",
+      "source_id": "yahoo_sports",
+      "category": "culture",
+      "importance": "B",
+      "published_at": "2026-10-21T10:05:25+09:00",
+      "summary": "体操の世界選手権第4日（20日＝日本時間21日、オランダ・ロッテルダム）男子団体総合決勝で日本が6種目合計251・928点で金メダルを獲得し、2連覇を果たした。予選1位の日本は橋本大輝（日本生命・セン"
+    },
+    {
+      "id": "2cee9cec58024115e2a2",
+      "title": "35歳美人アナ、くっきりニット姿にファン騒然「スタイル抜群だね」「今回も釘付けです」(ENCOUNT)",
+      "url": "https://news.yahoo.co.jp/articles/1b73f71fcd69eb8043b4912f4cafcaeeba04da51?source=rss",
+      "source": "Yahoo!ニュース／文化芸能",
+      "source_id": "yahoo_entertainment",
+      "category": "culture",
+      "importance": "B",
+      "published_at": "2026-10-21T10:05:16+09:00",
+      "summary": "フリーアナウンサーの上野愛奈（35）が20日、自身のインスタグラムを更新し、最近の番組衣装を紹介した。【写真】「一段と綺麗に」…35歳美人アナ、スタイルくっきりの全身ショット 上智大出身の上野は現在、"
+    },
+    {
+      "id": "062bc7a5d3db42dfe4ae",
+      "title": "初来日公演を控えるフレイヤ・スカイ、Spotifyホリデー企画で プリテンダーズ「2000 Miles」カバー(Billboard JAPAN)",
+      "url": "https://news.yahoo.co.jp/articles/94db8dff12b8d58063df5cb6f334ef5c7b5dc496?source=rss",
+      "source": "Yahoo!ニュース／文化芸能",
+      "source_id": "yahoo_entertainment",
+      "category": "culture",
+      "importance": "B",
+      "published_at": "2026-10-21T10:05:02+09:00",
+      "summary": "来年2月に初来日公演が決定している17歳の新星ポップ・スター、フレイヤ・スカイがSpotifyのホリデー企画『Spotify Singles: Holiday Collection』の新作として、プリ"
+    },
+    {
+      "id": "32a591a27baa36626641",
+      "title": "go!go!vanillas、JUN SKY WALKER(S)初の主催ロックフェス【電撃BEPPU】に出演決定(Billboard JAPAN)",
+      "url": "https://news.yahoo.co.jp/articles/27e0ab3288f109d9ba6b8c299ca80ccf3ef09553?source=rss",
+      "source": "Yahoo!ニュース／文化芸能",
+      "source_id": "yahoo_entertainment",
+      "category": "culture",
+      "importance": "B",
+      "published_at": "2026-10-21T10:05:02+09:00",
+      "summary": "5月22日、23日に大分・別府ビーコンプラザで開催される、JUN SKY WALKER(S)が主催する初のロックフェス【電撃BEPPU】の第4弾出演アーティストとして、go!go!vanilasの出演"
+    },
+    {
+      "id": "5fa12ea7e76642eaa1b6",
+      "title": "ウォルナット材を使ったPCケース「Okinos Air Cross」にホワイトモデル(AKIBA PC Hotline!)",
+      "url": "https://news.yahoo.co.jp/articles/cc7462852060f47c7d8316014a370afe3838b7c2?source=rss",
+      "source": "Yahoo!ニュース／IT",
+      "source_id": "yahoo_it",
+      "category": "technology",
+      "importance": "B",
+      "published_at": "2026-10-21T10:05:00+09:00",
+      "summary": "フロント下部にウォルナット材を採用したミドルタワーPCケース「Okinos Air Cross White」が発売された。【この記事に関する別の画像を見る】 楽天市場の価格は14,539円。■ デュア"
+    },
+    {
+      "id": "1b76842cc1552d3e1319",
+      "title": "ケンタッキーのビスケット→82万再生の“驚きの食べ方”に「これは想定していない」「ちょっと気になる」「やってみます」(ねとらぼ)",
+      "url": "https://news.yahoo.co.jp/articles/fba83ce1d9191f5cfac847c895b73802e75396c5?source=rss",
+      "source": "Yahoo!ニュース／生活",
+      "source_id": "yahoo_life",
+      "category": "society",
+      "importance": "B",
+      "published_at": "2026-10-21T10:05:00+09:00",
+      "summary": "ケンタッキー・フライド・チキン（KFC）の看板サイドメニュー「ビスケット」（290円）を、3つのアレンジで食べ比べる様子がYouTubeで話題です。動画は記事執筆時点で82万回以上再生されています。【"
+    },
+    {
+      "id": "d05fcd8a575735ecd4ed",
+      "title": "明石家さんま、ファンだった“タカラジェンヌ”明かす「大昔は見てましたよ！」意外な関係性に後輩芸人も驚き(オリコン)",
+      "url": "https://news.yahoo.co.jp/articles/35529ed2b785308af9ef841644b7cea0f4a224b4?source=rss",
+      "source": "Yahoo!ニュース／文化芸能",
+      "source_id": "yahoo_entertainment",
+      "category": "culture",
+      "importance": "B",
+      "published_at": "2026-10-21T10:05:00+09:00",
+      "summary": "日本テレビ系『踊る！さんま御殿!!』（後8：00）が20日に放送され、MCの明石家さんまが、大ファンだった“タカラジェンヌ”を明かした。【写真】圧巻…元タカラジェンヌが大集合！総勢11名の豪華ショット"
+    },
+    {
+      "id": "9d3755afbc9f85abcc51",
+      "title": "「フジテレビは番組宣伝システムに第三者による不正アクセスが発生したことを確認」…「めざましテレビ」報道「視聴者の個人情報は登録されていません」(スポーツ報知)",
+      "url": "https://news.yahoo.co.jp/articles/d24fe901facec602ec7d4f1cf64f270e76fccba1?source=rss",
+      "source": "Yahoo!ニュース／文化芸能",
+      "source_id": "yahoo_entertainment",
+      "category": "culture",
+      "importance": "B",
+      "published_at": "2026-10-21T10:04:14+09:00",
+      "summary": "フジテレビ系「めざましテレビ」（月～金曜・午前５時２５分）は２１日、同局が１９日夜に番組宣伝システムに第三者による不正アクセスが発生したことを確認したことを報じた。 番組では「このシステムに登録されて"
+    },
+    {
+      "id": "83358d6c0590915c5a71",
+      "title": "【台風情報】大型で猛烈な台風30号（チャンパー）22日には「猛烈な」勢力を維持したまま沖縄の南へ 中心気圧は915hPa 最大瞬間風速は75m/s（21日午前9時45分・気象庁発表）【26日（月）までの雨風シミュレーション】26日の予報円には九州地方などが入る(ＳＢＣ信越放送)",
+      "url": "https://news.yahoo.co.jp/articles/d3aa8da04140a9b1e8e2d429b5dc898c0dc0be6a?source=rss",
+      "source": "Yahoo!ニュース／地域",
+      "source_id": "yahoo_local",
+      "category": "society",
+      "importance": "B",
+      "published_at": "2026-10-21T10:04:13+09:00",
+      "summary": "気象庁によりますと、大型で猛烈な台風30号は、21日午前9時には、フィリピンの東を西北西へ時速25キロで進んでいます。【画像を確認】台風の予想進路は?3時間ごとの雨風シミュレーション21日午前9時の実"
+    },
+    {
+      "id": "633c8f92c9940cf1b72a",
+      "title": "折りたたみ電動四輪のシニア用モビリティ クルマに積載しやすく旅も楽しめる(家電 Watch)",
+      "url": "https://news.yahoo.co.jp/articles/2c1c2d314afd5b3dfb1ac2106d68a29e7e988ae5?source=rss",
+      "source": "Yahoo!ニュース／経済",
+      "source_id": "yahoo_business",
+      "category": "finance",
+      "importance": "B",
+      "published_at": "2026-10-21T10:04:00+09:00",
+      "summary": "2025年11月に発売された電動四輪のシニアカー「ROBOOTER J＋VISION(ロボーター ジェイプラス ビジョン)」。免許不要で歩道を歩行者扱いで移動できる電動モビリティ(最高速度6km/h)"
+    },
+    {
+      "id": "605d1233444c364b7d28",
+      "title": "ホロライブVTuberのX発言めぐり“局部画像の送り付け”被害を公表「セクハラ男オタク達」投稿の言葉選びには謝罪(オタク総研)",
+      "url": "https://news.yahoo.co.jp/articles/4ad61b6f67de6c986891a4eff846f3f331cb6d2a?source=rss",
+      "source": "Yahoo!ニュース／文化芸能",
+      "source_id": "yahoo_entertainment",
+      "category": "culture",
+      "importance": "B",
+      "published_at": "2026-10-21T10:04:00+09:00",
+      "summary": "カバーは20日、ホロライブプロダクション所属のラプラス・ダークネスが10月17日にXへ行った投稿について、経緯と会社の対応を公式サイトで発表した。【関連】本人からは「後日説明」との投稿も今回問題となっ"
+    },
+    {
       "id": "ba77130293c88d085b06",
       "title": "タイガー・ジェット・シン、トークイベントで慈善活動への思いを明かす「『ありがとう』と言われる…何よりも大きな報酬」…２年前「旭日双光章」受章(スポーツ報知)",
       "url": "https://news.yahoo.co.jp/articles/c040ed63139f04421e621edd4a8b986e1c1d9dd7?source=rss",
@@ -77,6 +506,28 @@
       "importance": "B",
       "published_at": "2026-10-21T10:03:35+09:00",
       "summary": "１４年ぶりに来日したプロレスラーの“インドの狂虎”タイガー・ジェット・シン（本名・ジャグジット・シン・ハンス）が１９日に成田空港発の航空機でカナダへ帰国した。 昭和時代の新日本プロレスでアントニオ猪木"
+    },
+    {
+      "id": "d0ba6e4fe2990cf33edc",
+      "title": "大谷翔平が投稿した1枚に「非常に共感」 米ファンも虜「最高」「常に登場しないといけない」(Full-Count)",
+      "url": "https://news.yahoo.co.jp/articles/7ce9aadf2fb5d20feb057f2134e91c7f650645d3?source=rss",
+      "source": "Yahoo!ニュース／スポーツ",
+      "source_id": "yahoo_sports",
+      "category": "culture",
+      "importance": "B",
+      "published_at": "2026-10-21T10:03:32+09:00",
+      "summary": "“愛犬”の登場に、米国のファンも沸いた。ドジャースの大谷翔平投手は20日（日本時間21日）、自身のインスタグラムを更新。ファンに感謝を伝えるとともに、デコピンの写真も公開した。米メディアも「彼の愛犬デ"
+    },
+    {
+      "id": "6ed811b60269fcf4b3a7",
+      "title": "ワールドシリーズ120年ぶり珍事 ほぼ全選手〝未経験〟 総年俸下位チーム同士の『頂上決戦』 両軍合計1位メッツと177億円差(サンケイスポーツ)",
+      "url": "https://news.yahoo.co.jp/articles/fd842ae609f31fc17246f095ee5716e27bdc9a0c?source=rss",
+      "source": "Yahoo!ニュース／スポーツ",
+      "source_id": "yahoo_sports",
+      "category": "culture",
+      "importance": "B",
+      "published_at": "2026-10-21T10:03:30+09:00",
+      "summary": "米大リーグ公式サイトのサラ・ラングス記者が、ワールドシリーズに出場するブルワーズ、レイズ両軍のワールドシリーズ経験者による出場が1906年以来、過去最少になると20日（日本時間21日）、伝えた。ヤンデ"
     },
     {
       "id": "ef17ff1a2188a1133307",
@@ -110,6 +561,17 @@
       "importance": "B",
       "published_at": "2026-10-21T10:03:15+09:00",
       "summary": "新宿・歌舞伎町で違法な客引きや、トー横に集まる少年・少女たちを取り締まる警視庁専属のユニットチームが一斉パトロールを行いました。【映像】パトロールを行う警視庁専属のユニットチーム 警視庁・新宿警察署は"
+    },
+    {
+      "id": "0b9d11d90f3cc436ffe6",
+      "title": "山下美月、変装なしで東京ディズニーシー満喫 「美脚が素敵」「ビジュ良すぎ」ファン歓喜(クランクイン！)",
+      "url": "https://news.yahoo.co.jp/articles/ed8229299754b643ded9b58465b9c41defb00e07?source=rss",
+      "source": "Yahoo!ニュース／文化芸能",
+      "source_id": "yahoo_entertainment",
+      "category": "culture",
+      "importance": "B",
+      "published_at": "2026-10-21T10:03:00+09:00",
+      "summary": "元乃木坂46で女優の山下美月が、10月20日（火）にInstagramを更新。東京ディズニーシーを変装なしで満喫する様子が写し出されており、ファンから「ビジュ良すぎ」「秋服かわいい」などと反響が集まっ"
     },
     {
       "id": "b507bd3cfec57b807e60",
@@ -189,6 +651,17 @@
       "summary": "二戸郵便局（鈴木康弘局長）は16日、局内でクマ撃退スプレーの使い方を学ぶクマ対策講座を開いた。二戸市職員を講師に招き、参加した局員約20人が訓練用のスプレー噴射を体験するなどして、万が一に備えた。 同"
     },
     {
+      "id": "d0e8bb49e026c776b4af",
+      "title": "「冷蔵果」 化学繊維用いた〝透明手織錦〟でみずみずしさを表現 「山鹿清華」展作品紹介③(産経新聞)",
+      "url": "https://news.yahoo.co.jp/articles/20258a96d95a614d3ee8cfa1de0d2b778987665d?source=rss",
+      "source": "Yahoo!ニュース／生活",
+      "source_id": "yahoo_life",
+      "category": "society",
+      "importance": "B",
+      "published_at": "2026-10-21T10:02:15+09:00",
+      "summary": "科学技術の発展は、暮らしにさまざまな変化をもたらす。染織作家の山鹿清華（やまがせいか）はそうした変化に敏感で、作品にも積極的に取り込んでいった。昭和5（1930）年、芝浦製作所（現東芝）が日本初の家庭"
+    },
+    {
       "id": "88ac12bca49649bee3f4",
       "title": "ステージ4の舌癌から7年…堀ちえみのボイトレ動画に反響「声が戻って、感動しました」「歌声が胸に響きます」(西スポWEB OTTO!)",
       "url": "https://news.yahoo.co.jp/articles/60dc0af09a70374e2153f4c11574100d3742fbf7?source=rss",
@@ -242,6 +715,17 @@
       "importance": "B",
       "published_at": "2026-10-21T10:01:01+09:00",
       "summary": "自動車の電動化を積極的に推進してきたのが欧州だが、このところ特に大型バッテリーEVトラックで中国や米国メーカーの参入が相次いでいる。【画像ギャラリー】米中メーカーの欧州向け大型トラック(16枚)ドイツ"
+    },
+    {
+      "id": "4dead009776e5d57a94e",
+      "title": "【沢田康文の欧州競馬リポート】英チャンピオンズSはオンブズマンが昨年2着の雪辱を果たす(サンケイスポーツ)",
+      "url": "https://news.yahoo.co.jp/articles/4db41a5444a3852df4468b84cf1447c3e3920466?source=rss",
+      "source": "Yahoo!ニュース／スポーツ",
+      "source_id": "yahoo_sports",
+      "category": "culture",
+      "importance": "B",
+      "published_at": "2026-10-21T10:01:00+09:00",
+      "summary": "17日に行われた英チャンピオンSはオンブズマン（英＝J＆T・ゴスデン、牡5、父ナイトオブサンダー）が優勝し、昨年2着の雪辱を果たした。ワールドベストレースホースランキングでは春のプリンスオブウェールズ"
     },
     {
       "id": "605a501fcb4c5926815b",
@@ -319,6 +803,17 @@
       "importance": "B",
       "published_at": "2026-10-21T10:00:38+09:00",
       "summary": "アメリカのトランプ大統領はロシアが戦場で優位な状況にあるとして、ウクライナに対し戦闘終結に向けた合意に応じるよう求めました。【映像】ウクライナに合意応じるよう求めるトランプ氏 トランプ大統領は20日、"
+    },
+    {
+      "id": "9eb83eb3b60f33a24213",
+      "title": "哲学者・永井玲衣さんの心に残る、ひとりでは気づかない新しい風を吹き込んでくれる３冊【成長するための読書案内】(クウネル・サロン)",
+      "url": "https://news.yahoo.co.jp/articles/512788289db78cced219a85a484d5704f6fd678c?source=rss",
+      "source": "Yahoo!ニュース／生活",
+      "source_id": "yahoo_life",
+      "category": "society",
+      "importance": "B",
+      "published_at": "2026-10-21T10:00:37+09:00",
+      "summary": "読書を通じて他者の多様な考えに触れて、人は大人になっても自分を見直し、変わっていくことができます。本がもたらす発見と喜び。読書好きな人に聞いたあなたを成長させた本とは。哲学者・永井玲衣さんに伺いました"
     },
     {
       "id": "a92745d3e9f59f52e495",
@@ -605,6 +1100,50 @@
       "importance": "B",
       "published_at": "2026-10-21T10:00:00+09:00",
       "summary": "クレイアニメ『ひつじのショーン』をモチーフのしたオリジナルおせち「ひつじのショーンおせち2027」の予約販売が、12月18日（金）まで、グルメ通販サイト「オンワード・マルシェ」で受付中だ。【写真】純金"
+    },
+    {
+      "id": "fb364a43f5282bc8aa5e",
+      "title": "FX自動売買専用VPS「お名前.com デスクトップクラウド」、不正アクセス受けサーバー停止(INTERNET Watch)",
+      "url": "https://news.yahoo.co.jp/articles/53a9412176f3526091d673d643c6a8328d7d7c8f?source=rss",
+      "source": "Yahoo!ニュース／IT",
+      "source_id": "yahoo_it",
+      "category": "technology",
+      "importance": "B",
+      "published_at": "2026-10-21T10:00:00+09:00",
+      "summary": "GMOインターネット株式会社は10月21日、FX自動売買専用VPS「お名前.com デスクトップクラウド」のサーバーが第三者による不正アクセスを受けたとして、情報を発表した。 発表によると、10月20"
+    },
+    {
+      "id": "f15001e460b66491c291",
+      "title": "学費・通い方・生徒の声が充実、NIJIN高等学院が公式サイトを刷新(こどもとIT)",
+      "url": "https://news.yahoo.co.jp/articles/67f86bbb2b3ebbada59e3cf20a58effcd6542ef6?source=rss",
+      "source": "Yahoo!ニュース／IT",
+      "source_id": "yahoo_it",
+      "category": "technology",
+      "importance": "B",
+      "published_at": "2026-10-21T10:00:00+09:00",
+      "summary": "株式会社NIJINは、オンラインで学べる「NIJIN高等学院」の公式サイトを全面リニューアルしたと2026年10月20日に発表した。入学を検討する中高生や保護者に向けて、教育モデルや学校生活、生徒の活"
+    },
+    {
+      "id": "b013390afa0536dec8a7",
+      "title": "シートベルト着用へ体操 高齢者死亡事故減目指す 茨城県警・県立医療大生が考案(茨城新聞クロスアイ)",
+      "url": "https://news.yahoo.co.jp/articles/8cf89f801a92b1a907baeb2fce7b7ab7268a70a6?source=rss",
+      "source": "Yahoo!ニュース／地域",
+      "source_id": "yahoo_local",
+      "category": "society",
+      "importance": "B",
+      "published_at": "2026-10-21T10:00:00+09:00",
+      "summary": "茨城県内で車に乗っていた高齢者の死亡事故が増える中、シートベルト着用の習慣化が大きな課題となっている。県警はシニア特有の筋肉の衰えがシートベルトを敬遠する一因とみて、スムーズな着脱を助ける「健康体操」"
+    },
+    {
+      "id": "62ec0800d866dfe6fcf6",
+      "title": "壱岐「湯本温泉港まつり」 湯本温泉街で多彩な催し、温泉巡りは100円(みんなの経済新聞ネットワーク)",
+      "url": "https://news.yahoo.co.jp/articles/2b06a94819e012b15182e332de8bc48cd42e0a3d?source=rss",
+      "source": "Yahoo!ニュース／地域",
+      "source_id": "yahoo_local",
+      "category": "society",
+      "importance": "B",
+      "published_at": "2026-10-21T10:00:00+09:00",
+      "summary": "「第55回湯本温泉港まつり」が10月25日、湯本温泉地域（壱岐市勝本町）で開かれる。主催は湯本温泉港まつり実行委員会。（壱岐対馬経済新聞）【写真】湯本温泉港まつり 同まつりは、1969（昭和44）年に"
     },
     {
       "id": "b2394f236cd0ad780266",
@@ -946,6 +1485,17 @@
       "importance": "B",
       "published_at": "2026-10-21T09:50:29+09:00",
       "summary": "石橋静河が主演を務めるNHK朝ドラ『ブラッサム』が放送。本作は、作家・宇野千代をモデルに、激動の明治・大正・昭和を駆け抜けた葉野珠が、苦難の中でも“幸せのかけら”を見つけていく物語だ。さっそく、明日1"
+    },
+    {
+      "id": "606090eb6206c522b241",
+      "title": "PHPに「緊急」レベルの脆弱性2件 修正版を日本時間21日深夜に公開へ、事前準備を呼び掛け",
+      "url": "https://www.itmedia.co.jp/news/article/2610/21/2000002446/",
+      "source": "ITmedia NEWS",
+      "source_id": "itmedia_news",
+      "category": "technology",
+      "importance": "B",
+      "published_at": "2026-10-21T09:50:24+09:00",
+      "summary": "PHPの開発プロジェクトは最大深刻度「Critical」の2件の重大な脆弱性を修正するアップデートの公開を予告した。リモートコード実行の恐れがあり、旧バージョンを含む広範な環境が影響を受ける可能性がある。専門組織は事前準備や、即時適用が困難な場合は外部からの切り離しを推奨している。"
     },
     {
       "id": "5b0251d915f5d41f0bfd",
@@ -1694,6 +2244,17 @@
       "importance": "B",
       "published_at": "2026-10-21T09:32:21+09:00",
       "summary": "◇NBA 76ersーニックス（2026年10月20日 マディソン・スクエア・ガーデン）【写真】24年目シーズン突入！黒スーツ姿で会場入りするレブロン・ジェームズ NBAの2026-27年シーズンが2"
+    },
+    {
+      "id": "b02aeb4a49f14c6b395c",
+      "title": "Google Cloud障害で英国が混乱「ATMで引き出せない」「裁判延期」……ロンドン拠点の電源不具合、約8時間にわたり",
+      "url": "https://www.itmedia.co.jp/news/article/2610/21/2000002445/",
+      "source": "ITmedia NEWS",
+      "source_id": "itmedia_news",
+      "category": "technology",
+      "importance": "B",
+      "published_at": "2026-10-21T09:32:07+09:00",
+      "summary": "障害の影響により、英国の複数の大手銀行で、顧客が送金やカード決済などができなくなった他、裁判所の遠隔審理システムが利用できなくなり、審理が延期されるといった影響が出たという。"
     },
     {
       "id": "13004e385feb210b6cf1",
@@ -3355,6 +3916,17 @@
       "importance": "B",
       "published_at": "2026-10-21T09:00:00+09:00",
       "summary": "パナソニック ホールディングスは、ガラス型ペロブスカイト太陽電池「ENEFACE(エネフェイス)」の事業活動を開始した。2026年9月に大阪府の守口拠点で先行量産品の出荷を開始。本格量産は従来の2030年4月から1年前倒しし、2029年4月に滋賀県の長浜拠点で開始する。"
+    },
+    {
+      "id": "1532ea692bc9550d1976",
+      "title": "生後24日のわが子→写真を撮ったら……「だれがきよしやねん」 “奇跡の1枚”に「逸材過ぎる」「師匠って呼んでいいですか？」(ねとらぼ)",
+      "url": "https://news.yahoo.co.jp/articles/5a4d5f8b955398750d991eefaa955b6262c57324?source=rss",
+      "source": "Yahoo!ニュース／生活",
+      "source_id": "yahoo_life",
+      "category": "society",
+      "importance": "B",
+      "published_at": "2026-10-21T09:00:00+09:00",
+      "summary": "生まれたばかりのわが子の、珍しい表情を撮ろうとしたら……。なぜか有名タレントそっくりになってしまった、“奇跡の1枚”がThreadsで話題です。投稿は記事執筆時点で7万回以上表示され、2800件以上の"
     },
     {
       "id": "33609bd874c38fc4f112",
