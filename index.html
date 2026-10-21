@@ -25,6 +25,7 @@
   <link rel="stylesheet" href="./assets/editorial.css?v=2">
   <link rel="stylesheet" href="./assets/insight.css?v=3">
   <link rel="stylesheet" href="./assets/reader.css?v=1">
+  <link rel="stylesheet" href="./assets/digest.css?v=1">
 </head>
 <body>
 <div class="app-shell">
@@ -40,6 +41,32 @@
       <div class="hero"><div><p class="overline"><span class="live-circle"></span><span id="statusTag">DEMO PREVIEW</span> <span class="overline-sep">/</span> NEWS DASHBOARD</p><h1>今日のニュース<span class="h1-dot">.</span></h1><p class="lead">必要なニュースを、一目で。<br class="lead-break">読みたい記事だけ、深く。</p></div><div class="date-panel"><span class="date-label">ISSUE DATE</span><div id="dateBig" class="date-big">—</div><div id="dayBig" class="day-big">—</div></div></div>
       <div id="alertBanner" class="notice" role="status"></div>
       <section class="metrics" aria-label="ニュース集計"><div class="metric"><span class="metric-title">掲載記事</span><strong id="totalCount">—</strong><span class="metric-unit">HEADLINES</span></div><div class="metric"><span class="metric-title">重要度 A</span><strong id="aCount">—</strong><span class="metric-unit">HIGH PRIORITY</span></div><div class="metric"><span class="metric-title">重要度 B</span><strong id="bCount">—</strong><span class="metric-unit">MEDIUM PRIORITY</span></div><div class="metric"><span class="metric-title">情報源</span><strong id="sourceCount">—</strong><span class="metric-unit">PUBLICATIONS</span></div></section>
+      <section id="dailyEdition" class="daily-edition" aria-label="ChatGPTの日次ニュース編集版">
+        <div class="digest-head">
+          <div>
+            <div class="digest-eyebrow">CHATGPT EDITION / THE DAILY INTELLIGENCE</div>
+            <h2 class="digest-title">今日のニュース・AI編集版</h2>
+            <p class="digest-subtitle">毎朝8時に全分野を調査・評価。重要度は★1〜5、見出しをタップして背景と社会への影響を確認できます。</p>
+          </div>
+          <span id="digestStatus" class="digest-status" role="status" aria-live="polite">最新の編集版を確認しています…</span>
+        </div>
+        <p id="digestLead" class="digest-lead">AI編集版のデータを確認しています。下のRSS一覧はこれまでどおり利用できます。</p>
+        <div class="digest-toolbar" aria-label="AI編集ニュースの絞り込み">
+          <input id="digestDate" type="date" aria-label="AIニュース配信日">
+          <button id="digestLatest" class="digest-latest" type="button">最新の配信</button>
+          <select id="digestCategory" aria-label="AIニュースの分野"><option value="all">すべての分野</option></select>
+          <select id="digestImportance" aria-label="AIニュースの最低重要度">
+            <option value="1">すべての重要度</option>
+            <option value="3">★3以上</option>
+            <option value="4">★4以上</option>
+            <option value="5">★5のみ</option>
+          </select>
+          <input id="digestSearch" type="search" placeholder="AIニュースを検索" aria-label="AIニュース内を検索">
+          <span id="digestCount" class="digest-count">—</span>
+        </div>
+        <div id="digestSections" aria-live="polite"></div>
+        <div id="digestWarnings" class="digest-warnings"></div>
+      </section>
       <section id="browse" class="browse" aria-label="ニュース一覧"><div class="section-heading"><div><span class="kicker">THE NEWSROOM</span><h2>ヘッドライン <span id="filteredCount" class="heading-count">—</span></h2></div><div class="refresh-stamp">最終取得 <span id="updatedAt">未取得</span></div></div>
         <div class="filters" id="filters"><div class="filter-row"><div class="search-wrap"><span aria-hidden="true">⌕</span><input id="searchBox" type="search" placeholder="記事を検索する（キーワード・媒体名）" autocomplete="off" aria-label="記事検索"></div><select id="categorySelect" class="mobile-category" aria-label="カテゴリー"></select><select id="dateSelect" aria-label="配信日"></select><select id="sortSelect" aria-label="記事の並び順"><option value="priority">重要度順</option><option value="recent">新しい順</option><option value="oldest">古い順</option></select></div><div class="filter-row second-row"><div id="priorityFilters" class="pills" aria-label="重要度フィルター"><button class="pill selected" data-level="all" aria-pressed="true">すべて</button><button class="pill" data-level="A" aria-pressed="false">A 重要</button><button class="pill" data-level="B" aria-pressed="false">B 注目</button><button class="pill" data-level="C" aria-pressed="false">C その他</button></div><div class="toggles"><label class="check-label"><input type="checkbox" id="unreadOnly"> 未読のみ</label><label class="check-label"><input type="checkbox" id="savedOnly"> 保存のみ</label><button class="reset-btn" id="resetBtn">条件をリセット</button></div></div></div>
         <div class="list-meta"><span id="viewDescription">すべてのニュース</span><span>記事を選ぶと概要とリンクを表示 <span aria-hidden="true">↓</span></span></div><div id="newsList" class="news-list" aria-live="polite"></div><div id="emptyState" class="empty-state" hidden><strong>該当するニュースがありません</strong><p>検索語やフィルターを変えてください。</p></div><div class="load-wrap"><button id="loadMore" class="load-btn" hidden>次の100件を表示 <span>↓</span></button></div>
@@ -107,6 +134,7 @@ window.DEMO_NEWS = (() => {
 })();
 
 </script>
+<script src="./assets/digest.js?v=1"></script>
 <script src="./assets/reader.js?v=1"></script>
 <script src="./assets/insight.js?v=3"></script>
 <script>
