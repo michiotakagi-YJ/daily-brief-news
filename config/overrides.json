@@ -1,0 +1,20 @@
+{
+  "by_id": {},
+  "rules": [
+    {
+      "contains": "金融政策決定会合",
+      "importance": "A",
+      "category": "finance"
+    },
+    {
+      "contains": "政策金利",
+      "importance": "A",
+      "category": "finance"
+    },
+    {
+      "contains": "法改正",
+      "importance": "A",
+      "category": "politics"
+    }
+  ]
+}
