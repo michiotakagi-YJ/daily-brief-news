@@ -44,3 +44,7 @@
   .insight-relhead{margin-top:18px;padding-top:17px}
 }
 @media(prefers-reduced-motion:reduce){.insight-loading:before{animation:none}}
+
+/* Expanded dossier replaces the preliminary RSS preview instead of repeating it. */
+.article-detail:has(.insight-panel:not([hidden])) > .detail-summary,
+.article-detail:has(.insight-panel:not([hidden])) > .detail-note{display:none}
