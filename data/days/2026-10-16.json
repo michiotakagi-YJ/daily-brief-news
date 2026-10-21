@@ -1,0 +1,49 @@
+{
+  "date": "2026-10-16",
+  "articles": [
+    {
+      "id": "9e68311258c2ca53dc68",
+      "title": "コミックシーモア、会員のメールアドレスや生年月日など流出 件数は精査中",
+      "url": "https://www.itmedia.co.jp/news/article/2610/16/2000002345/",
+      "source": "ITmedia NEWS",
+      "source_id": "itmedia_news",
+      "category": "technology",
+      "importance": "B",
+      "published_at": "2026-10-16T18:55:11+09:00",
+      "summary": "電子書籍ストア「コミックシーモア」を運営するNTTソルマーレは10月16日、不正アクセスを受け、一部会員の情報が外部に流出したと発表した。流出件数は精査中としている。同社は15日以降、不正アクセスの可能性があるとしてコミックシーモアのサービスを停止していた。"
+    },
+    {
+      "id": "f19e1ee10c3281caf159",
+      "title": "うるう秒、27年5月に廃止 国際度量衡総会で決定 通信や情報システムの障害防止へ",
+      "url": "https://www.itmedia.co.jp/news/article/2610/16/2000002343/",
+      "source": "ITmedia NEWS",
+      "source_id": "itmedia_news",
+      "category": "technology",
+      "importance": "B",
+      "published_at": "2026-10-16T17:48:15+09:00",
+      "summary": "仏ベルサイユで開かれた計量単位などを決める国際会議「国際度量衡総会」は15日（現地時間）、時刻調整に使う「うるう秒」を27年5月20日に廃止する決議を採択した。1972年の導入以来27回実施してきた仕組みが半世紀余りで役目を終える。"
+    },
+    {
+      "id": "370595fef6cb7e56e00d",
+      "title": "相次ぐ不正アクセス「実態解明進めなければならない」 警察庁長官、担当幹部会議で指示",
+      "url": "https://www.itmedia.co.jp/news/article/2610/16/2000002341/",
+      "source": "ITmedia NEWS",
+      "source_id": "itmedia_news",
+      "category": "technology",
+      "importance": "B",
+      "published_at": "2026-10-16T17:29:39+09:00",
+      "summary": "警察庁は10月16日、全国警察のサイバー担当課長らを集めた会議を東京都内で開いた。楠芳伸長官は、相次ぐ企業などへの不正アクセスについて「所要の捜査を推進し、実態解明と注意喚起を進めなければならない」と訴えた。"
+    },
+    {
+      "id": "cb3654b63268be65e6ce",
+      "title": "循環経済（サーキュラーエコノミー）に関する世論調査",
+      "url": "https://survey.gov-online.go.jp",
+      "source": "内閣府／報道発表",
+      "source_id": "cabinet_office",
+      "category": "politics",
+      "importance": "B",
+      "published_at": "2026-10-16T17:13:00+09:00",
+      "summary": ""
+    }
+  ]
+}

@@ -1,7 +1,71 @@
 {
-  "updated_at": null,
-  "sources_ok": 0,
-  "sources_total": 0,
-  "sources_failed": [],
-  "days": []
+  "updated_at": "2026-10-21T10:01:49.964898+09:00",
+  "days": [
+    {
+      "date": "2026-10-21",
+      "count": 428,
+      "importance_A": 6,
+      "importance_B": 408
+    },
+    {
+      "date": "2026-10-20",
+      "count": 65,
+      "importance_A": 0,
+      "importance_B": 62
+    },
+    {
+      "date": "2026-10-19",
+      "count": 32,
+      "importance_A": 0,
+      "importance_B": 32
+    },
+    {
+      "date": "2026-10-18",
+      "count": 11,
+      "importance_A": 1,
+      "importance_B": 10
+    },
+    {
+      "date": "2026-10-17",
+      "count": 4,
+      "importance_A": 0,
+      "importance_B": 4
+    },
+    {
+      "date": "2026-10-16",
+      "count": 4,
+      "importance_A": 0,
+      "importance_B": 4
+    },
+    {
+      "date": "2026-10-15",
+      "count": 3,
+      "importance_A": 0,
+      "importance_B": 3
+    },
+    {
+      "date": "2026-10-13",
+      "count": 1,
+      "importance_A": 0,
+      "importance_B": 1
+    },
+    {
+      "date": "2026-10-09",
+      "count": 2,
+      "importance_A": 0,
+      "importance_B": 2
+    },
+    {
+      "date": "2026-10-08",
+      "count": 2,
+      "importance_A": 0,
+      "importance_B": 2
+    }
+  ],
+  "sources_ok": 14,
+  "sources_total": 15,
+  "sources_failed": [
+    "impress_crypto"
+  ],
+  "new_items": 552
 }

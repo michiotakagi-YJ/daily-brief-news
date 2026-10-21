@@ -1,0 +1,49 @@
+{
+  "date": "2026-10-17",
+  "articles": [
+    {
+      "id": "da7d58931d8b96ce9db9",
+      "title": "「緑色の恒星」を初めて発見、特殊な白色矮星のケース 英天文学チーム(CNN.co.jp)",
+      "url": "https://news.yahoo.co.jp/articles/f870b6563d1513fe15fd7f2dad617b2649e8062a?source=rss",
+      "source": "Yahoo!ニュース／科学",
+      "source_id": "yahoo_science",
+      "category": "technology",
+      "importance": "B",
+      "published_at": "2026-10-17T12:46:00+09:00",
+      "summary": "（CNN） 白色矮星（わいせい）の分析に取り組む天文学者のチームが、人間の目に緑色に見える星を初めて発見した――。そんな新しい研究が発表された。【写真特集】緑やピンクの恒星を発見研究の筆頭著者を務めた"
+    },
+    {
+      "id": "6d289c011c7e04fd8fde",
+      "title": "「skyticket」クレカ情報も流出、カード番号など最大6140人分 「流出なし」の初報を訂正",
+      "url": "https://www.itmedia.co.jp/news/article/2610/17/2000002350/",
+      "source": "ITmedia NEWS",
+      "source_id": "itmedia_news",
+      "category": "technology",
+      "importance": "B",
+      "published_at": "2026-10-17T10:42:34+09:00",
+      "summary": "9日の初報では「カード情報の流出はない」としていたが、その後の調査で流出を確認し、訂正した。"
+    },
+    {
+      "id": "8e7cd9f0f9c5795255ff",
+      "title": "タイムズカー、退会後も7年間保管していた免許証画像を全削除へ 約660万アカウント分の漏えい受け",
+      "url": "https://www.itmedia.co.jp/news/article/2610/16/2000002346/",
+      "source": "ITmedia NEWS",
+      "source_id": "itmedia_news",
+      "category": "technology",
+      "importance": "B",
+      "published_at": "2026-10-17T10:16:08+09:00",
+      "summary": "駐車場事業などを手掛けるパーク24は10月16日、グループ会社のタイムズモビリティが運営するカーシェアリングサービス「タイムズカー」で、会員登録時に提出された運転免許証などの本人確認書類の画像を、登録確認後すぐに削除するよう社内ルールを変更すると発表した。同サービスでは9月に不正アクセスが発生し、約660万アカウント分の個人情報が漏えい。うち約160万アカウ"
+    },
+    {
+      "id": "7e6299e6177226b31959",
+      "title": "BASE子会社の漏えい、約2335万人分に 209万人分はクレカ番号「先頭6桁と下4桁」「有効期限」も",
+      "url": "https://www.itmedia.co.jp/news/article/2610/17/2000002349/",
+      "source": "ITmedia NEWS",
+      "source_id": "itmedia_news",
+      "category": "technology",
+      "importance": "B",
+      "published_at": "2026-10-17T09:32:41+09:00",
+      "summary": "約2335万6000人分の情報が漏えいしたと公表した。うち約209万6900人分には、カード名義、カード番号の一部（先頭6桁と下4桁）、有効期限が含まれていた。"
+    }
+  ]
+}
