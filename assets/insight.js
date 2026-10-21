@@ -94,7 +94,7 @@
     const anchor=Date.parse(date+"T00:00:00+09:00");
     return (indexDays||[]).map(d=>d.date).filter(d=>{
       const timestamp=Date.parse(d+"T00:00:00+09:00");
-      return Number.isFinite(timestamp) && timestamp<=anchor+86400000 && timestamp>=anchor-7*86400000;
+      return Number.isFinite(timestamp) && timestamp<=anchor && timestamp>=anchor-7*86400000;
     }).slice(0,MAX_DAYS);
   }
   async function getDay(date) {
