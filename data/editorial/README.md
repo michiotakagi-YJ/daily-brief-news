@@ -53,3 +53,25 @@ ChatGPTの日次ニュース・全分野ヘッドラインの内容を、この�
 `assets/digest.js` が最新の日付から過去の `data/editorial/YYYY-MM-DD.json` を取得。
 日付と重要度・分野・記事検索で絞り込み、記事詳細をページ内で展開する。
 データがない場合は「未配信」を表示し、架空のニュースで埋めない。
+
+## 2026-10-22: 定期タスク連携診断
+
+GitHub Actionsは3時間ごとのRSS収集後、`scripts/check_editorial.py` によって
+`data/editorial/health.json` を生成する。これには `current_day_present`、`last_published`、
+`invalid_editions`、`attempt` が含まれる。RSS収集成功とAI編集版の書き込み成功は別物。
+
+ChatGPT定期タスクはニュース調査に先立って
+`data/editorial/attempts/YYYY-MM-DD.json` に
+`{ "schema_version": 1, "date": "YYYY-MM-DD", "source": "chatgpt_scheduled_task", "status": "started", "started_at": "...+09:00" }`
+を作成・読戻しする。AI編集版のJSONを保存・読戻しできた場合にだけ `status: published`、
+`published_commit_sha`、`published_at` に変更する。保存に失敗して更新できる場合は
+`status: failed`、`error` を残す。
+
+状態の解釈：
+- 当日のattemptなし：定期タスク内でGitHub書き込みを実行できたか不明。接続・承認・指示の実行状況を確認。
+- attemptがstarted：小さな書き込みは成功したが編集版本体の確定保存が未了。
+- attemptがfailed：記録されたエラーから原因を追う。
+- attemptがpublished、当日のJSONが有効：GitHub書き込みは成功。ただしPagesの配備成功とは区別。
+
+公開リポジトリなので、実行ログに個人情報、ChatGPT会話の秘密、APIキーなどを書かない。
+GitHub連携がタスク中に使えなくてもChatGPTの従来のニュース配信は維持する。
