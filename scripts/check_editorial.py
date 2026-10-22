@@ -70,6 +70,15 @@ def main():
         else:
             published.append({"date":path.stem,"count":sum(len(s["items"]) for s in d["sections"])})
     latest = max(published,key=lambda d:d["date"]) if published else None
+    attempt_file = DEST / "attempts" / (today.isoformat() + ".json")
+    attempt = None
+    if attempt_file.exists():
+        try:
+            attempt = json.loads(attempt_file.read_text(encoding="utf-8"))
+            if not isinstance(attempt, dict) or attempt.get("date") != today.isoformat():
+                attempt = {"status":"invalid_receipt"}
+        except Exception:
+            attempt = {"status":"invalid_receipt"}
     expected = today.isoformat()
     status = {
         "schema_version":1,
@@ -78,6 +87,7 @@ def main():
         "last_published":latest,
         "current_day_present":any(x["date"]==expected for x in published),
         "invalid_editions":invalid[-12:],
+        "attempt":attempt,
         "status":"ready" if any(x["date"]==expected for x in published) else "awaiting_edition"
     }
     (DEST/"health.json").write_text(json.dumps(status,ensure_ascii=False,indent=2)+"\n",encoding="utf-8")
