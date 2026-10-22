@@ -1,9 +1,10 @@
 {
   "schema_version": 1,
-  "checked_at": "2026-10-22T09:26:19+09:00",
+  "checked_at": "2026-10-22T09:27:23+09:00",
   "expected_date": "2026-10-22",
   "last_published": null,
   "current_day_present": false,
   "invalid_editions": [],
+  "attempt": null,
   "status": "awaiting_edition"
 }
