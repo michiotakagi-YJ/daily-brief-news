@@ -196,6 +196,10 @@
       if(resp.ok) health=await resp.json();
     }catch {}
     if(serial!==requestSerial)return;
+    const attemptState=health?.attempt?.status;
+    const attemptNote=attemptState==="failed" ? "保存エラー: "+String(health.attempt.error||"原因不明") :
+      attemptState==="started" ? "タスクのGitHub書き込み開始は確認できましたが、編集版の確定保存は未確認です。" :
+      !attemptState ? "GitHubにタスクの開始記録がありません。タスクのアプリ接続・承認状態を確認してください。" : "";
     const candidates=[];
     if(health?.last_published?.date && validDate(health.last_published.date)){
       candidates.push(health.last_published.date);
@@ -212,7 +216,7 @@
         if(d!==today){
           setStatus("最新AI編集版 "+d+" ／ 本日分は未配信","empty");
           const warning=$("digestWarnings");
-          const text="本日 "+today+" のAI編集版はGitHubへの保存を確認できません。RSSニュースは通常どおり利用できます。";
+          const text="本日 "+today+" のAI編集版はGitHubへの保存を確認できません。"+attemptNote+" RSSニュースは通常どおり利用できます。";
           warning.textContent=warning.textContent?text+" "+warning.textContent:text;
         }
         return;
@@ -224,8 +228,8 @@
     lead.textContent="AI編集版はまだ公開されていません。ChatGPT日次タスクがGitHubへの保存に成功するまで、通常のRSS見出しをご利用ください。";
     count.textContent="—";
     dateInput.value=today;
-    $("digestWarnings").textContent=health?.invalid_editions?.length?
-      "AI編集版の検証エラー: "+health.invalid_editions.map(x=>x.date+": "+x.reason).join(" ／ "):"";
+    $("digestWarnings").textContent=(attemptNote ? attemptNote+" " : "") + (health?.invalid_editions?.length?
+      "AI編集版の検証エラー: "+health.invalid_editions.map(x=>x.date+": "+x.reason).join(" ／ "):"");
     setStatus("AI編集版 未配信／RSSヘッドラインは利用可能","empty");
   }
   category.addEventListener("change",render);
