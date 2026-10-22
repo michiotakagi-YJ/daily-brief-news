@@ -188,24 +188,45 @@
   }
   async function loadLatest() {
     const serial=++requestSerial;
-    setStatus("最新のAI編集版を確認しています…","loading");
+    setStatus("AI編集版の公開状態を確認しています…","loading");
     const today=isoJST();
+    let health=null;
+    try{
+      const resp=await fetch("./data/editorial/health.json",{cache:"no-store"});
+      if(resp.ok) health=await resp.json();
+    }catch {}
+    if(serial!==requestSerial)return;
+    const candidates=[];
+    if(health?.last_published?.date && validDate(health.last_published.date)){
+      candidates.push(health.last_published.date);
+    }
     for(let i=0;i<14;i++){
       const d=pastDay(today,i);
+      if(!candidates.includes(d))candidates.push(d);
+    }
+    for(const d of candidates){
       try{
         const data=await readEdition(d);
         if(serial!==requestSerial)return;
         display(data);
+        if(d!==today){
+          setStatus("最新AI編集版 "+d+" ／ 本日分は未配信","empty");
+          const warning=$("digestWarnings");
+          const text="本日 "+today+" のAI編集版はGitHubへの保存を確認できません。RSSニュースは通常どおり利用できます。";
+          warning.textContent=warning.textContent?text+" "+warning.textContent:text;
+        }
         return;
       }catch {}
     }
     if(serial!==requestSerial)return;
     edition=null;
     sectionsBox.replaceChildren();
-    lead.textContent="AI編集版はまだ配信されていません。明朝8時のタスク実行後、GitHubへの保存が成功すると表示されます。通常のRSSヘッドラインは下から閲覧できます。";
-    count.textContent="—";dateInput.value=today;
-    $("digestWarnings").textContent="";
-    setStatus("AI編集版 未配信／RSSヘッドラインは利用可能", "empty");
+    lead.textContent="AI編集版はまだ公開されていません。ChatGPT日次タスクがGitHubへの保存に成功するまで、通常のRSS見出しをご利用ください。";
+    count.textContent="—";
+    dateInput.value=today;
+    $("digestWarnings").textContent=health?.invalid_editions?.length?
+      "AI編集版の検証エラー: "+health.invalid_editions.map(x=>x.date+": "+x.reason).join(" ／ "):"";
+    setStatus("AI編集版 未配信／RSSヘッドラインは利用可能","empty");
   }
   category.addEventListener("change",render);
   rating.addEventListener("change",render);
