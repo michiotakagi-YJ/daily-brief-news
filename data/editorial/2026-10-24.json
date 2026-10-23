@@ -1,0 +1,543 @@
+{
+  "schema_version": 1,
+  "edition_date": "2026-10-24",
+  "generated_at": "2026-10-24T08:00:58.062+09:00",
+  "window_start": "2026-10-23T08:00:00+09:00",
+  "window_end": "2026-10-24T08:00:58.062+09:00",
+  "lead": "全国の9月消費者物価は生鮮食品を除いて前年比2.1％上昇し、日銀はAI投資の収益期待後退が海外ノンバンクを通じ国内金融システムへ波及するリスクを指摘した。政府はガソリン補助金縮小を検討する一方、PHP脆弱性に伴う緊急速報の一時停止を受けてAIによるサイバー対策強化を表明。海外ではウクライナのデジタルインフラ攻撃、黒海の貨物船被害、コンゴを中心とするエボラ流行が続く。環境・教育・労働の一次資料も幅広く収録した。",
+  "sections": [
+    {
+      "id": "politics",
+      "name": "国内政治・法改正・行政",
+      "importance": 4,
+      "items": [
+        {
+          "id": "politics-001",
+          "title": "政府、ガソリン補助金を12月から縮小する案を検討",
+          "summary": "財政負担の拡大を受けて政府内でガソリン補助の段階的縮小案が浮上したが、実施は未決定。",
+          "importance": 4,
+          "event_date": "2026-10-23",
+          "sources": [
+            {
+              "name": "Reuters",
+              "url": "https://www.reuters.com/business/energy/japan-weighs-phasing-out-gasoline-subsidies-december-costs-mount-officials-say-2026-10-23/"
+            }
+          ]
+        },
+        {
+          "id": "politics-002",
+          "title": "消費者庁、リチウムイオン電池など重大製品事故28件を公表",
+          "summary": "リコール対象の電池を含む重大製品事故28件を公表し、対象製品の無償修理に注意を促した。",
+          "importance": 3,
+          "event_date": "2026-10-23",
+          "sources": [
+            {
+              "name": "消費者庁",
+              "url": "https://www.caa.go.jp/notice/entry/047900/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "economy",
+      "name": "国内経済・産業",
+      "importance": 5,
+      "items": [
+        {
+          "id": "economy-001",
+          "title": "9月の全国消費者物価、総合・生鮮食品除く指数とも前年比2.1％上昇",
+          "summary": "総務省が公表した9月の全国CPIは総合と生鮮食品除く総合がともに2.1％上昇、生鮮食品・エネルギー除く指数は2.4％上昇した。",
+          "importance": 5,
+          "event_date": "2026-10-23",
+          "sources": [
+            {
+              "name": "総務省統計局",
+              "url": "https://www.stat.go.jp/data/cpi/sokuhou/tsuki/index-z.htm"
+            },
+            {
+              "name": "Reuters",
+              "url": "https://www.reuters.com/world/asia-pacific/japan-core-inflation-exceeds-boj-target-cements-near-term-rate-hike-chance-2026-10-22/"
+            }
+          ]
+        },
+        {
+          "id": "economy-002",
+          "title": "10月の日本製造業PMI、拡大ペースが7か月ぶり低水準",
+          "summary": "速報調査では生産と新規受注の伸びが鈍化し、製造業の拡大ペースが7か月ぶりの低水準となった。",
+          "importance": 4,
+          "event_date": "2026-10-23",
+          "sources": [
+            {
+              "name": "Reuters",
+              "url": "https://www.reuters.com/world/asia-pacific/japan-manufacturing-growth-slows-7-month-low-october-pmi-shows-2026-10-23/"
+            }
+          ]
+        },
+        {
+          "id": "economy-003",
+          "title": "厚労省、8月の毎月勤労統計確報を公表",
+          "summary": "8月分の賃金・労働時間・雇用の確報を公表し、速報値を踏まえた労働市場分析の基礎資料を更新した。",
+          "importance": 3,
+          "event_date": "2026-10-23",
+          "sources": [
+            {
+              "name": "厚生労働省",
+              "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/monthly/r08/2608r/2608r.html"
+            }
+          ]
+        },
+        {
+          "id": "economy-004",
+          "title": "建設企業のベトナム人技術者採用へ、国交省が現地合同説明会を案内",
+          "summary": "国交省はホーチミンとハノイの学生を対象とする建設企業の合同就職説明会の開催を発表した。",
+          "importance": 3,
+          "event_date": "2026-10-23",
+          "sources": [
+            {
+              "name": "国土交通省",
+              "url": "https://www.mlit.go.jp/report/press/index.html"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "finance",
+      "name": "金融・企業",
+      "importance": 5,
+      "items": [
+        {
+          "id": "finance-001",
+          "title": "日銀、AI投資の期待後退と海外ノンバンク経由の金融波及を警戒",
+          "summary": "10月金融システムレポートは、AI投資の収益性への期待が低下した場合に海外ノンバンクの資産調整が国内金融機関へ波及する経路を点検した。",
+          "importance": 5,
+          "event_date": "2026-10-23",
+          "sources": [
+            {
+              "name": "日本銀行",
+              "url": "https://www.boj.or.jp/research/brp/fsr/fsr261023.htm"
+            },
+            {
+              "name": "Reuters",
+              "url": "https://www.reuters.com/world/asia-pacific/bank-japan-warns-risks-ai-market-shock-cyberattacks-2026-10-23/"
+            }
+          ],
+          "context": "金融機関の海外ノンバンク向け融資とAI関連投資の資金調達の結び付きが分析対象。",
+          "impact": "日銀は現時点の金融システムは全体として安定していると評価しつつ、株価調整やサイバー攻撃の波及に注意を促した。"
+        },
+        {
+          "id": "finance-002",
+          "title": "バーゼル委、G-SIB評価における期末残高調整への対応を公表",
+          "summary": "日銀はバーゼル委員会によるG-SIBのウィンドウ・ドレッシング対策の評価枠組み改訂と評価手法レビューの公表を案内した。",
+          "importance": 3,
+          "event_date": "2026-10-23",
+          "sources": [
+            {
+              "name": "日本銀行",
+              "url": "https://www.boj.or.jp/"
+            }
+          ]
+        },
+        {
+          "id": "finance-003",
+          "title": "Meta、議決権のないクラスC株導入を計画",
+          "summary": "AI設備投資の資金調達余地を確保しながら創業者の議決権支配を維持するため、議決権のない株式を導入する計画が明らかになった。",
+          "importance": 4,
+          "event_date": "2026-10-23",
+          "sources": [
+            {
+              "name": "Reuters",
+              "url": "https://www.reuters.com/business/why-is-meta-creating-new-class-non-voting-shares-amid-its-ai-growth-2026-10-23/"
+            }
+          ]
+        },
+        {
+          "id": "finance-004",
+          "title": "SKハイニックス、米メモリー子会社のIPO計画を棚上げ",
+          "summary": "AI関連企業の評価額に対する投資家の警戒感などを背景に、Solidigmの米国上場計画を取りやめたと報じられた。",
+          "importance": 4,
+          "event_date": "2026-10-23",
+          "sources": [
+            {
+              "name": "Wall Street Journal",
+              "url": "https://www.wsj.com/tech/sk-hynix-shelves-plans-for-u-s-listing-of-memory-chip-unit-solidigm-e9670506"
+            }
+          ]
+        },
+        {
+          "id": "finance-005",
+          "title": "フランスの財政懸念でユーロ下落、円は週間で堅調",
+          "summary": "フランスの債務問題とAI関連株の調整を背景にユーロが下落し、円が対ユーロ・ドルで相対的に買われた。",
+          "importance": 3,
+          "event_date": "2026-10-23",
+          "sources": [
+            {
+              "name": "Reuters",
+              "url": "https://www.reuters.com/world/asia-pacific/yen-shines-ai-jitters-spur-safe-haven-rush-2026-10-23/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "realestate",
+      "name": "不動産・住宅・建設",
+      "importance": 4,
+      "items": [
+        {
+          "id": "realestate-001",
+          "title": "日銀、三大都市圏の不動産価格上昇と商業不動産の利回り格差縮小を指摘",
+          "summary": "金融システムレポートは三大都市圏の不動産価格上昇ペースの加速と、東京の商業用不動産のイールドギャップ縮小に注意を促した。",
+          "importance": 4,
+          "event_date": "2026-10-23",
+          "sources": [
+            {
+              "name": "日本銀行",
+              "url": "https://www.boj.or.jp/research/brp/fsr/fsr261023.htm"
+            }
+          ]
+        },
+        {
+          "id": "realestate-002",
+          "title": "国交省、スマートインターチェンジの新規事業化箇所を決定",
+          "summary": "高速道路会社への事業許可と準備段階調査着手について、10月23日付で新規事業化箇所を公表した。",
+          "importance": 3,
+          "event_date": "2026-10-23",
+          "sources": [
+            {
+              "name": "国土交通省",
+              "url": "https://www.mlit.go.jp/report/press/index.html"
+            }
+          ]
+        },
+        {
+          "id": "realestate-003",
+          "title": "国交省、2026年熊本地震を踏まえた煙突の被害調査結果を公表",
+          "summary": "2026年の熊本地震による被害を踏まえ、煙突に関する調査結果を公表した。",
+          "importance": 3,
+          "event_date": "2026-10-23",
+          "sources": [
+            {
+              "name": "国土交通省",
+              "url": "https://www.mlit.go.jp/report/press/index.html"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "international",
+      "name": "外交・国際情勢",
+      "importance": 5,
+      "items": [
+        {
+          "id": "international-001",
+          "title": "米軍、日本の戦略拠点で中国BYD製車両を禁止へ",
+          "summary": "米軍は安全保障上の懸念を理由に、日本国内の航空基地で中国BYD製の車両を禁止すると発表した。",
+          "importance": 4,
+          "event_date": "2026-10-23",
+          "sources": [
+            {
+              "name": "Reuters",
+              "url": "https://www.reuters.com/world/asia-pacific/us-military-bans-byd-vehicles-strategic-air-base-japan-2026-10-23/"
+            }
+          ]
+        },
+        {
+          "id": "international-002",
+          "title": "オーストリア、スパイ活動疑惑でロシア外交官4人を追放",
+          "summary": "オーストリア政府は諜報活動に関係したとしてロシア外交官4人に国外退去を命じた。",
+          "importance": 4,
+          "event_date": "2026-10-23",
+          "sources": [
+            {
+              "name": "AP通信",
+              "url": "https://apnews.com/article/austria-russia-espionage-diplomats-expelled-5fe2ba66cf4862d4a82e154be51f9f29"
+            }
+          ]
+        },
+        {
+          "id": "international-003",
+          "title": "黒海のルーマニア近海で貨物船がドローン攻撃を受け沈没",
+          "summary": "貨物船への攻撃で乗組員1人が死亡、3人が行方不明となり、黒海の民間船舶の安全への懸念が強まった。",
+          "importance": 4,
+          "event_date": "2026-10-23",
+          "sources": [
+            {
+              "name": "AP通信",
+              "url": "https://apnews.com/article/black-sea-ship-romania-34175023d59ded8d4d3f82baa7087f1b"
+            }
+          ]
+        },
+        {
+          "id": "international-004",
+          "title": "ウクライナ、ロシアによるデータセンター攻撃の拡大を警告",
+          "summary": "ウクライナ首相はキーウのデータセンターが先月10か所攻撃されたと述べ、デジタルインフラへの攻撃増加を警告した。",
+          "importance": 5,
+          "event_date": "2026-10-23",
+          "sources": [
+            {
+              "name": "Reuters",
+              "url": "https://www.reuters.com/business/aerospace-defense/russia-steps-up-attacks-ukraines-digital-infrastructure-kyiv-says-2026-10-23/"
+            }
+          ]
+        },
+        {
+          "id": "international-005",
+          "title": "トランプ米大統領、対イラン戦争の早期終結可能性に言及",
+          "summary": "米大統領は対イラン戦争を迅速に終わらせる選択肢に言及したが、停戦の成立や条件の確定ではない。",
+          "importance": 4,
+          "event_date": "2026-10-23",
+          "sources": [
+            {
+              "name": "Reuters",
+              "url": "https://www.reuters.com/world/trump-weighs-quick-end-iran-war-against-letting-conflict-wither-2026-10-23/"
+            }
+          ]
+        },
+        {
+          "id": "international-006",
+          "title": "日本外務省、サモア訪問とミクロネシア大統領との会談を発表",
+          "summary": "外務省は藤井政務官のサモア訪問とミクロネシア連邦大統領を迎えた会談・夕食会を公表した。",
+          "importance": 2,
+          "event_date": "2026-10-23",
+          "sources": [
+            {
+              "name": "外務省",
+              "url": "https://www.mofa.go.jp/press/release/index.html"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "technology",
+      "name": "科学・AI・技術",
+      "importance": 5,
+      "items": [
+        {
+          "id": "technology-001",
+          "title": "日本政府、AIで攻撃を模擬するサイバー対策チームを設置へ",
+          "summary": "世界的なPHP脆弱性問題を受け、日本政府はAIで攻撃手法を模擬しシステムの弱点を探す体制を整える方針を示した。",
+          "importance": 5,
+          "event_date": "2026-10-23",
+          "sources": [
+            {
+              "name": "Reuters",
+              "url": "https://www.reuters.com/business/media-telecom/japan-simulate-cyberattacks-php-flaws-roil-global-internet-2026-10-23/"
+            }
+          ]
+        },
+        {
+          "id": "technology-002",
+          "title": "ソフトバンク、PHP脆弱性対策で緊急速報サービスを一時停止",
+          "summary": "PHPの脆弱性対応のため携帯利用者向け緊急速報サービスを一時停止し、地震・津波・避難情報の一部通知に影響が出た。",
+          "importance": 5,
+          "event_date": "2026-10-23",
+          "sources": [
+            {
+              "name": "Reuters",
+              "url": "https://www.reuters.com/business/media-telecom/japan-simulate-cyberattacks-php-flaws-roil-global-internet-2026-10-23/"
+            }
+          ]
+        },
+        {
+          "id": "technology-003",
+          "title": "環境省関連の複数メールマガジン、配信先情報流出の可能性",
+          "summary": "委託先メール配信サービスへの不正アクセスを受け、環境省は配信先情報流出の可能性を公表したが流出は未確認と説明した。",
+          "importance": 3,
+          "event_date": "2026-10-23",
+          "sources": [
+            {
+              "name": "環境省",
+              "url": "https://www.env.go.jp/press/press_05784.html"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "health",
+      "name": "医療・公衆衛生",
+      "importance": 5,
+      "items": [
+        {
+          "id": "health-001",
+          "title": "WHO、コンゴのエボラ累計9704例・死亡4687例を報告",
+          "summary": "WHOは10月20日時点のコンゴのブンディブギョ型エボラ確定例9704人と死亡4687人を報告し、ケニアとナイジェリアへの波及も確認した。",
+          "importance": 5,
+          "event_date": "2026-10-23",
+          "sources": [
+            {
+              "name": "WHO",
+              "url": "https://www.who.int/emergencies/disease-outbreak-news/item/2026-DON622"
+            }
+          ]
+        },
+        {
+          "id": "health-002",
+          "title": "エボラの新ワクチン候補、コンゴで第2/3相試験開始",
+          "summary": "WHOは10月23日にブンディブギョ型エボラに対するワクチン候補のTUMAINI試験で初回参加者が登録されたと発表した。",
+          "importance": 4,
+          "event_date": "2026-10-23",
+          "sources": [
+            {
+              "name": "WHO",
+              "url": "https://www.who.int/emergencies/disease-outbreak-news/item/2026-DON622"
+            }
+          ]
+        },
+        {
+          "id": "health-003",
+          "title": "ケニア、エボラ患者の2人目の死亡を発表",
+          "summary": "ケニア当局は隔離中の感染者の死亡を発表し、接触者の追跡と医療従事者を含む感染者の治療を継続している。",
+          "importance": 4,
+          "event_date": "2026-10-23",
+          "sources": [
+            {
+              "name": "AP通信",
+              "url": "https://apnews.com/article/c96067b4b2fc8d3e35a97e32455e996c"
+            }
+          ]
+        },
+        {
+          "id": "health-004",
+          "title": "Bristol Myers、多発性硬化症CAR-T治験の患者死亡を公表",
+          "summary": "初期段階の細胞療法試験で患者の死亡が報告され、基礎疾患や併用治療の影響を含め原因の評価が続いている。",
+          "importance": 4,
+          "event_date": "2026-10-23",
+          "sources": [
+            {
+              "name": "Reuters",
+              "url": "https://www.reuters.com/legal/litigation/bristol-myers-discloses-patient-death-early-stage-cell-therapy-study-2026-10-23/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "environment",
+      "name": "環境・エネルギー",
+      "importance": 5,
+      "items": [
+        {
+          "id": "environment-001",
+          "title": "文科省、8～9月の記録的大雨で温暖化が降水量を約2割増加させた可能性",
+          "summary": "気象研究所との共同解析は千葉の豪雨や台風に伴う大雨で、地球温暖化によって降水量が20％前後増えた可能性を示した。",
+          "importance": 5,
+          "event_date": "2026-10-23",
+          "sources": [
+            {
+              "name": "文部科学省",
+              "url": "https://www.mext.go.jp/b_menu/houdou/2026/mext_00003.html"
+            }
+          ]
+        },
+        {
+          "id": "environment-002",
+          "title": "太陽光パネルの再資源化法、下位法令の検討会を10月30日に開催へ",
+          "summary": "環境省はパネルの種類・重量や多量排出の閾値などを議論する第1回検討会の開催を発表した。",
+          "importance": 4,
+          "event_date": "2026-10-23",
+          "sources": [
+            {
+              "name": "環境省",
+              "url": "https://www.env.go.jp/press/press_05740.html"
+            }
+          ]
+        },
+        {
+          "id": "environment-003",
+          "title": "パリ協定6条4項会合、調理燃料転換などの方法論を採択",
+          "summary": "環境省は国連の監督機関会合で調理エネルギー転換・効率改善や反転リスク評価に関する方法論・ツールが採択されたと報告した。",
+          "importance": 3,
+          "event_date": "2026-10-23",
+          "sources": [
+            {
+              "name": "環境省",
+              "url": "https://www.env.go.jp/press/press_05719.html"
+            }
+          ]
+        },
+        {
+          "id": "environment-004",
+          "title": "釧路湿原国立公園の区域・保護規制・施設計画変更案で意見募集",
+          "summary": "環境省は公園区域や特別地域、自然体験活動・施設計画などの見直し案についてパブリックコメントを開始した。",
+          "importance": 3,
+          "event_date": "2026-10-23",
+          "sources": [
+            {
+              "name": "環境省",
+              "url": "https://www.env.go.jp/press/press_05727.html"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "society",
+      "name": "教育・労働・人口・文化・その他社会",
+      "importance": 4,
+      "items": [
+        {
+          "id": "society-001",
+          "title": "2023年卒の3年以内離職率、大卒31.2％・高卒36.9％",
+          "summary": "厚労省は2023年3月卒業者の就職後3年以内の離職率を公表し、前年卒に比べ大卒は2.6ポイント、高卒は1.0ポイント低下した。",
+          "importance": 4,
+          "event_date": "2026-10-23",
+          "sources": [
+            {
+              "name": "厚生労働省",
+              "url": "https://www.mhlw.go.jp/stf/houdou/0000177553_00011.html"
+            }
+          ]
+        },
+        {
+          "id": "society-002",
+          "title": "文科省、次期学習指導要領を検討する教育課程特別部会を案内",
+          "summary": "教育課程企画特別部会の第22回会合の開催を発表し、教育課程に関する検討を継続する。",
+          "importance": 3,
+          "event_date": "2026-10-23",
+          "sources": [
+            {
+              "name": "文部科学省",
+              "url": "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/kaisai/mext_00157.html"
+            }
+          ]
+        },
+        {
+          "id": "society-003",
+          "title": "国交省、2026年度都市景観大賞の表彰式を発表",
+          "summary": "都市景観に関する優れた取り組みを表彰する2026年度の都市景観大賞について、表彰式の開催を公表した。",
+          "importance": 2,
+          "event_date": "2026-10-23",
+          "sources": [
+            {
+              "name": "国土交通省",
+              "url": "https://www.mlit.go.jp/report/press/index.html"
+            }
+          ]
+        },
+        {
+          "id": "society-004",
+          "title": "自治体による無料の船員職業紹介事業、全国初の実施へ",
+          "summary": "国交省は地方公共団体による無料の船員職業紹介を全国で初めて実施すると発表した。",
+          "importance": 3,
+          "event_date": "2026-10-23",
+          "sources": [
+            {
+              "name": "国土交通省",
+              "url": "https://www.mlit.go.jp/report/press/index.html"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "warnings": [
+    "海外報道の一部は現地10月23日付で、発生・公開の正確な時刻を確認できていない。日本時間の厳密な時間境界に関する不確実性が残る。",
+    "国土交通省の一部項目は当日発表一覧を出典としており、個別資料の詳細までは確認できていない。",
+    "速報値、政策検討段階、調査結果、確定事項を区別して記載した。"
+  ]
+}
