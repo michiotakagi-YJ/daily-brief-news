@@ -1,0 +1,457 @@
+{
+  "schema_version": 1,
+  "edition_date": "2026-10-25",
+  "generated_at": "2026-10-25T08:02:36+09:00",
+  "window_start": "2026-10-24T08:00:00+09:00",
+  "window_end": "2026-10-25T08:02:36+09:00",
+  "lead": "10月24日は、改正皇室典範の施行、GMOインターネットの金融関連サイバー被害への政府対応要請、中朝首脳の国境往来、ウクライナでの衛星通信の復旧、西岸ヘブロンでの住民避難、フランス・イタリアの抗議行動が焦点となった。台風30号は台湾に被害をもたらし、日本の九州・西日本への接近が懸念される。医療分野ではがん治療薬の臨床試験結果が公表された。",
+  "sections": [
+    {
+      "id": "politics",
+      "name": "国内政治・法改正・行政",
+      "importance": 5,
+      "items": [
+        {
+          "title": "改正皇室典範が施行、女性皇族の婚姻後の身分維持と旧皇族男系男子の養子受入れを可能に",
+          "summary": "10月24日に改正皇室典範が施行され、結婚後も女性皇族が皇室に残る制度などが始まり、配偶者と子は皇族としない扱いが示された。",
+          "importance": 5,
+          "event_date": "2026-10-24",
+          "sources": [
+            {
+              "name": "FNNプライムオンライン",
+              "url": "https://www.fnn.jp/articles/-/1139061"
+            }
+          ],
+          "impact": "皇族数の確保に関わる制度変更であり、養子縁組の具体的な運用は引き続き検討される。",
+          "id": "politics-001"
+        }
+      ]
+    },
+    {
+      "id": "domestic_economy",
+      "name": "国内経済・産業",
+      "importance": 1,
+      "items": []
+    },
+    {
+      "id": "finance",
+      "name": "金融・企業",
+      "importance": 4,
+      "items": [
+        {
+          "title": "GMOインターネット、FX関連不正アクセスで政府に能動的サイバー防御を要請",
+          "summary": "10月24日、GMOインターネットがFX自動売買サーバーへの侵入を受け政府に能動的サイバー防御の適用を求め、不正取引の損失補償方針も示した。",
+          "importance": 4,
+          "event_date": "2026-10-24",
+          "sources": [
+            {
+              "name": "FNNプライムオンライン",
+              "url": "https://www.fnn.jp/articles/-/1139174"
+            },
+            {
+              "name": "毎日新聞",
+              "url": "https://mainichi.jp/articles/20261024/k00/00m/020/176000c"
+            }
+          ],
+          "impact": "民間の金融関連サービス被害への政府対応と、不正取引損失の補償範囲が焦点となる。適用決定は確認されていない。",
+          "id": "finance-001"
+        },
+        {
+          "title": "カナダの大規模銅鉱山でストライキ、操業能力を縮小",
+          "summary": "Teck Resourcesは24日、ブリティッシュコロンビア州Highland Valley Copper鉱山で従業員がストに入り、減産体制で操業を継続していると発表した。",
+          "importance": 3,
+          "event_date": "2026-10-24",
+          "sources": [
+            {
+              "name": "Reuters",
+              "url": "https://www.reuters.com/business/world-at-work/teck-says-strike-begins-highland-valley-copper-mine-british-columbia-2026-10-24/"
+            }
+          ],
+          "id": "finance-002"
+        },
+        {
+          "title": "米ハロウィーン菓子の販売出足鈍化、チョコレート高と家計負担が影響",
+          "summary": "AP通信は24日、米国でチョコレート価格の高さと生活費負担を背景にハロウィーン向け菓子の販売が鈍いと報じた。",
+          "importance": 2,
+          "event_date": "2026-10-24",
+          "sources": [
+            {
+              "name": "AP通信",
+              "url": "https://apnews.com/article/halloween-candy-sales-chocolate-prices-treats-0b1126f30969a21710ba995416c5b905"
+            }
+          ],
+          "id": "finance-003"
+        }
+      ]
+    },
+    {
+      "id": "real_estate",
+      "name": "不動産・住宅・建設",
+      "importance": 1,
+      "items": []
+    },
+    {
+      "id": "international",
+      "name": "外交・国際情勢",
+      "importance": 5,
+      "items": [
+        {
+          "title": "北朝鮮の金正恩氏が新鴨緑江大橋を渡り中国訪問、貿易拡大を協議",
+          "summary": "24日、金正恩氏が新たに開通した中朝国境の橋を経由して丹東を訪問し、中国側と人的往来・貿易の拡大を確認した。",
+          "importance": 5,
+          "event_date": "2026-10-24",
+          "sources": [
+            {
+              "name": "Reuters",
+              "url": "https://www.reuters.com/world/china/north-koreas-kim-jong-un-arrives-dandong-china-yonhap-says-2026-10-24/"
+            },
+            {
+              "name": "AP通信",
+              "url": "https://apnews.com/article/south-korea-north-kim-jong-un-china-2459fe49f876ceb0c1c17296c70627f7"
+            }
+          ],
+          "id": "international-001"
+        },
+        {
+          "title": "ウクライナ、Starlink・Starshieldの通信速度が復旧と発表、運用条件では対立",
+          "summary": "24日、ウクライナは衛星通信の速度制限が解除されたと発表したが、運営側は軍の利用条件違反を主張し、見解が食い違っている。",
+          "importance": 5,
+          "event_date": "2026-10-24",
+          "sources": [
+            {
+              "name": "Reuters",
+              "url": "https://www.reuters.com/world/europe/ukraine-says-starlink-starshield-operating-400-kph-after-week-throttling-2026-10-24/"
+            },
+            {
+              "name": "AP通信",
+              "url": "https://apnews.com/article/russia-ukraine-war-starlink-drones-a3a0139dfc23365550306dd66fe43daa"
+            }
+          ],
+          "impact": "民間衛星通信サービスへの軍事依存と運用上の制約が安全保障上のリスクとして浮き彫りになった。",
+          "id": "international-002"
+        },
+        {
+          "title": "イスラエル軍のヘブロン作戦でパレスチナ住民約1200人が避難と現地当局",
+          "summary": "24日、ヨルダン川西岸ヘブロンでイスラエル軍が作戦を実施し、パレスチナ側当局者は約1200人が家を離れたと述べた。",
+          "importance": 5,
+          "event_date": "2026-10-24",
+          "sources": [
+            {
+              "name": "Reuters",
+              "url": "https://www.reuters.com/world/middle-east/around-1200-palestinians-are-displaced-hebron-israel-begins-military-operation-2026-10-24/"
+            }
+          ],
+          "id": "international-003"
+        },
+        {
+          "title": "イランによる米国人標的の攻撃計画が進展と米情報当局が警告",
+          "summary": "24日報道で、米国家情報当局の内部文書がイランによる米国関係者への攻撃計画の進展を警告していたことが判明した。",
+          "importance": 4,
+          "event_date": "2026-10-24",
+          "sources": [
+            {
+              "name": "Reuters",
+              "url": "https://www.reuters.com/world/middle-east/iran-has-ramped-up-efforts-target-us-personnel-intelligence-memo-warns-2026-10-24/"
+            }
+          ],
+          "context": "米国とイランの対立が続く中、情報当局の評価を伝える報道であり、個別計画の実行を意味しない。",
+          "id": "international-004"
+        },
+        {
+          "title": "イラン大統領、米国との暫定合意の失敗を批判しつつ再交渉を提唱",
+          "summary": "イランのペゼシュキアン大統領は24日放送の発言で米国を批判しながらも、交渉を再び試みるべきだとの考えを示した。",
+          "importance": 4,
+          "event_date": "2026-10-24",
+          "sources": [
+            {
+              "name": "Reuters",
+              "url": "https://www.reuters.com/world/middle-east/irans-pezeshkian-blames-us-interim-deal-failure-urges-new-try-2026-10-24/"
+            },
+            {
+              "name": "AP通信",
+              "url": "https://apnews.com/article/pakistan-iran-us-talks-hormuz-45161652890bf4f3d570347b8aae6b22"
+            }
+          ],
+          "id": "international-005"
+        },
+        {
+          "title": "フランス全土で生活費高騰への抗議デモ、夜間に一部衝突",
+          "summary": "24日、フランス各地で抗議デモが実施され、内務省は参加者約41万人と発表、パリなどでは一部参加者と警察が衝突した。",
+          "importance": 4,
+          "event_date": "2026-10-24",
+          "sources": [
+            {
+              "name": "Reuters",
+              "url": "https://www.reuters.com/world/europe/france-mounts-huge-security-operation-protesters-prepare-march-2026-10-24/"
+            },
+            {
+              "name": "FNNプライムオンライン",
+              "url": "https://www.fnn.jp/articles/-/1139186"
+            }
+          ],
+          "impact": "社会不安は小売店の営業や観光需要に影響し得るが、経済損失の総額は未確認。",
+          "id": "international-006"
+        },
+        {
+          "title": "イタリアの主要都市でも生活費・戦争への抗議行動、一部で暴力",
+          "summary": "24日、ミラノなどイタリアの複数都市で抗議行動があり、一部で警察との衝突が報じられた。",
+          "importance": 3,
+          "event_date": "2026-10-24",
+          "sources": [
+            {
+              "name": "Reuters",
+              "url": "https://www.reuters.com/world/protests-sweep-italian-cities-amid-heavy-security-presence-some-violence-2026-10-24/"
+            }
+          ],
+          "id": "international-007"
+        },
+        {
+          "title": "ブラジル大統領選決選投票前の調査、ルラ氏とボルソナロ氏が接戦",
+          "summary": "24日に公表されたCNT/MDA調査で、翌日の大統領選決選投票を前に両候補の支持が拮抗していると示された。",
+          "importance": 4,
+          "event_date": "2026-10-24",
+          "sources": [
+            {
+              "name": "Reuters",
+              "url": "https://www.reuters.com/world/americas/flavio-bolsonaro-lula-about-even-ahead-brazil-election-runoff-cntmda-poll-shows-2026-10-24/"
+            }
+          ],
+          "id": "international-008"
+        },
+        {
+          "title": "ナイジェリアのティヌブ大統領、再選に向けた選挙運動を正式開始",
+          "summary": "24日、ティヌブ大統領がカドゥナで再選運動を開始し、物価高と経済改革の成果を争点に訴えた。",
+          "importance": 3,
+          "event_date": "2026-10-24",
+          "sources": [
+            {
+              "name": "Reuters",
+              "url": "https://www.reuters.com/world/africa/nigerias-tinubu-launches-re-election-campaign-economic-pain-tests-support-2026-10-24/"
+            }
+          ],
+          "id": "international-009"
+        },
+        {
+          "title": "ヨルダン国王、教会襲撃を受け治安機関に強力な対応を指示",
+          "summary": "24日、ヨルダンのアブドラ国王は前日の教会襲撃を受け、容疑者の捜索と治安対策の強化を指示した。",
+          "importance": 3,
+          "event_date": "2026-10-24",
+          "sources": [
+            {
+              "name": "Reuters",
+              "url": "https://www.reuters.com/business/media-telecom/us-embassy-says-security-ramped-up-jordan-after-deadly-church-attack-2026-10-24/"
+            }
+          ],
+          "id": "international-010"
+        },
+        {
+          "title": "米国防総省、孔子学院関連組織を安全保障上の脅威リストに追加",
+          "summary": "24日の日本での報道によると、米国防総省は約30大学に所在する約80の孔子学院関連組織を安全保障上の懸念対象に指定した。",
+          "importance": 3,
+          "event_date": "2026-10-24",
+          "sources": [
+            {
+              "name": "FNNプライムオンライン",
+              "url": "https://www.fnn.jp/articles/-/1139094"
+            }
+          ],
+          "context": "米側の指定内容に関する発表であり、各組織による違法行為が個別に立証されたことを意味しない。",
+          "id": "international-011"
+        }
+      ]
+    },
+    {
+      "id": "technology",
+      "name": "科学・AI・技術",
+      "importance": 4,
+      "items": [
+        {
+          "title": "米政権が過去にもStarlinkの利用制御を要請、複数の元当局者が証言",
+          "summary": "24日、ロイターは歴代米政権がウクライナや中東で衛星通信サービスのオン・オフ変更を要請した事例を複数の元当局者への取材で報じた。",
+          "importance": 4,
+          "event_date": "2026-10-24",
+          "sources": [
+            {
+              "name": "Reuters",
+              "url": "https://www.reuters.com/business/autos-transportation/us-has-years-asked-musk-alter-starlink-service-ukraine-middle-east-sources-say-2026-10-24/"
+            }
+          ],
+          "impact": "民間通信基盤の運用が国家の外交・軍事判断と結びつく構造的課題を示している。",
+          "id": "technology-001"
+        }
+      ]
+    },
+    {
+      "id": "health",
+      "name": "医療・公衆衛生",
+      "importance": 4,
+      "items": [
+        {
+          "title": "小細胞肺がん試験、Amgen薬と免疫療法の併用で死亡リスク低下と報告",
+          "summary": "24日に公表された臨床試験データで、AmgenのImdelltraと免疫療法薬の併用群は比較群より死亡リスクが58％低いと報告された。",
+          "importance": 4,
+          "event_date": "2026-10-24",
+          "sources": [
+            {
+              "name": "Reuters",
+              "url": "https://www.reuters.com/legal/litigation/amgen-drug-combined-with-immunotherapy-extends-survival-lung-cancer-trial-2026-10-24/"
+            }
+          ],
+          "context": "試験結果であり、適応追加や一般診療での使用が承認されたことを意味しない。",
+          "id": "health-001"
+        },
+        {
+          "title": "J&J、前立腺がん向け開発中の経口薬で腫瘍縮小を初期試験で確認",
+          "summary": "Johnson & Johnsonは24日、開発中の1日1回投与の経口薬について、初期臨床試験で一部患者の腫瘍縮小・消失を確認したと発表した。",
+          "importance": 3,
+          "event_date": "2026-10-24",
+          "sources": [
+            {
+              "name": "Reuters",
+              "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/johnson-johnsons-prostate-cancer-drug-shrinks-tumors-early-stage-trial-2026-10-24/"
+            }
+          ],
+          "context": "初期段階の臨床試験であり、長期生存や有効性の確証には追加試験が必要。",
+          "id": "health-002"
+        }
+      ]
+    },
+    {
+      "id": "environment",
+      "name": "環境・エネルギー・気象",
+      "importance": 5,
+      "items": [
+        {
+          "title": "台風30号が台湾に被害、九州・西日本にも接近予想",
+          "summary": "24日、台風30号が台湾で死者1人・負傷者多数を出したと報じられ、日本の気象当局も25〜26日の九州接近と大雨・高波に警戒を呼び掛けた。",
+          "importance": 5,
+          "event_date": "2026-10-24",
+          "sources": [
+            {
+              "name": "Reuters",
+              "url": "https://www.reuters.com/business/environment/typhoon-champi-sweeps-past-taiwan-leaving-1-dead-500-injured-2026-10-24/"
+            },
+            {
+              "name": "熊本日日新聞",
+              "url": "https://kumanichi.com/articles/2050222"
+            },
+            {
+              "name": "長崎文化放送",
+              "url": "https://www.ncctv.co.jp/news/article/16991729"
+            }
+          ],
+          "impact": "日本での影響は進路と雨雲の発達次第で変わるため、気象庁の最新情報による更新が必要。",
+          "id": "environment-001"
+        },
+        {
+          "title": "UAE北部の複数首長国で海上油流出、ビーチ閉鎖が拡大",
+          "summary": "24日、ラスアルハイマ首長国が全ビーチの閉鎖を発表し、近隣首長国でも海上油流出に伴う閉鎖が続いている。",
+          "importance": 3,
+          "event_date": "2026-10-24",
+          "sources": [
+            {
+              "name": "Reuters",
+              "url": "https://www.reuters.com/world/middle-east/uaes-ras-al-khaimah-shuts-all-beaches-as-neighbours-grapple-with-oil-spill-2026-10-24/"
+            }
+          ],
+          "id": "environment-002"
+        },
+        {
+          "title": "鳥取県琴浦町の風力発電設備1基で火災、けが人なし",
+          "summary": "24日、鳥取県琴浦町の風車上部から出火し約2時間半後に消火、警察と消防が原因を調査している。",
+          "importance": 3,
+          "event_date": "2026-10-24",
+          "sources": [
+            {
+              "name": "FNNプライムオンライン",
+              "url": "https://www.fnn.jp/articles/-/1139183"
+            }
+          ],
+          "id": "environment-003"
+        },
+        {
+          "title": "バヌアツ沖でマグニチュード7.2の地震",
+          "summary": "24日、米地質調査所はバヌアツのソラ西方沖でM7.2の地震を観測したと発表し、被害状況は記事時点で明らかでない。",
+          "importance": 4,
+          "event_date": "2026-10-24",
+          "sources": [
+            {
+              "name": "Reuters",
+              "url": "https://www.reuters.com/business/environment/magnitude-72-earthquake-strikes-waters-near-vanuatu-usgs-says-2026-10-24/"
+            }
+          ],
+          "id": "environment-004"
+        }
+      ]
+    },
+    {
+      "id": "society",
+      "name": "教育・労働・人口・文化・その他社会",
+      "importance": 3,
+      "items": [
+        {
+          "title": "ドイツの歴史的建造物『鷲の巣』で大規模火災、放火容疑で1人拘束",
+          "summary": "24日、ナチス時代に建設されたドイツの山岳施設で火災が発生し、警察が放火の疑いで人物を拘束した。",
+          "importance": 3,
+          "event_date": "2026-10-24",
+          "sources": [
+            {
+              "name": "AP通信",
+              "url": "https://apnews.com/article/germany-hitler-eagles-nest-berchtesgaden-alps-fire-338ec9bbec52ecf52d1c127546d01eed"
+            }
+          ],
+          "id": "society-001"
+        },
+        {
+          "title": "第95回日本音楽コンクール、ピアノ部門の1位が決定",
+          "summary": "24日、東京オペラシティで開かれた日本音楽コンクールのピアノ部門本選で菊野惇之介さんが1位となった。",
+          "importance": 2,
+          "event_date": "2026-10-24",
+          "sources": [
+            {
+              "name": "毎日新聞",
+              "url": "https://mainichi.jp/articles/20261024/k00/00m/200/211000c"
+            }
+          ],
+          "id": "society-002"
+        },
+        {
+          "title": "皇居で秋季雅楽演奏会、天皇陛下と愛子さまが鑑賞",
+          "summary": "24日、宮内庁楽部による秋季雅楽演奏会が皇居で開かれ、伝統音楽と舞楽が披露された。",
+          "importance": 2,
+          "event_date": "2026-10-24",
+          "sources": [
+            {
+              "name": "FNNプライムオンライン",
+              "url": "https://www.fnn.jp/articles/-/1139110"
+            },
+            {
+              "name": "毎日新聞",
+              "url": "https://mainichi.jp/articles/20261024/k00/00m/040/164000c"
+            }
+          ],
+          "id": "society-003"
+        },
+        {
+          "title": "松山大学の就職・インターンシップ説明会、243企業・自治体が参加",
+          "summary": "24日、就職活動の早期化を受けた松山大学の合同企業セミナーが始まり、前年度の2倍超となる243の企業・自治体が参加した。",
+          "importance": 2,
+          "event_date": "2026-10-24",
+          "sources": [
+            {
+              "name": "FNNプライムオンライン",
+              "url": "https://www.fnn.jp/articles/-/1139233"
+            }
+          ],
+          "id": "society-004"
+        }
+      ]
+    }
+  ],
+  "warnings": [
+    "対象期間内の国内経済・産業および不動産・住宅・建設について、十分な新規性を確認できた独立ニュースは採用しなかった。",
+    "週末のため国内官公庁・市場統計の新規発表は少なく、国際報道の比率が高い。",
+    "各記事の発生日は確認できた日付であり、厳密な発生時刻が不明なものがある。",
+    "台風進路・地震被害・紛争関連情報は発表後に変化し得る。"
+  ]
+}
