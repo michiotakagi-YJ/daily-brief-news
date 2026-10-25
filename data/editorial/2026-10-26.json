@@ -1,0 +1,379 @@
+{
+  "schema_version": 1,
+  "edition_date": "2026-10-26",
+  "generated_at": "2026-10-26T08:01:00.829+09:00",
+  "window_start": "2026-10-25T08:00:00+09:00",
+  "window_end": "2026-10-26T08:00:00+09:00",
+  "lead": "セルビア総選挙で学生主導勢力が勝利し、ブラジル大統領選では決選投票の集計が混乱した。日本では福島県知事選、新潟市長選、那覇市長選の結果が判明。中東ではサウジへの攻撃が続き、湾岸市場が下落した。SpaceXの巨額AI向け資金調達も注目される。台風30号から変わった低気圧による広域大雨への警戒が必要。週末で新規発表が乏しい国内経済・不動産・医療の分野は件数を水増しせず、確認できた新しい動きに絞った。",
+  "sections": [
+    {
+      "id": "politics",
+      "name": "国内政治・法改正・行政",
+      "importance": 4,
+      "items": [
+        {
+          "id": "politics-001",
+          "title": "自民国対委員長、衆院比例定数31削減案を基に今国会成立を目指す",
+          "summary": "自民党の村井英樹国対委員長は比例31議席削減と修正サンラグ式導入を柱とする案で合意を図る意向を表明し、野党側には賛否が分かれている。",
+          "importance": 4,
+          "event_date": "2026-10-25",
+          "sources": [
+            {
+              "name": "共同通信（nippon.com）",
+              "url": "https://www.nippon.com/ja/news/kd1486902086675366008/"
+            },
+            {
+              "name": "TBS NEWS DIG（ライブドア）",
+              "url": "https://news.livedoor.com/article/detail/32652396/"
+            }
+          ]
+        },
+        {
+          "id": "politics-002",
+          "title": "福島県知事選、現職の内堀雅雄氏が4選",
+          "summary": "25日投開票の福島県知事選で内堀氏の4選が確実となり、震災・原発事故からの復興と人口減少対策の継続が争点となった。",
+          "importance": 4,
+          "event_date": "2026-10-25",
+          "sources": [
+            {
+              "name": "福島テレビ",
+              "url": "https://www.fnn.jp/articles/-/1139606"
+            },
+            {
+              "name": "福島県伊達市（開票結果）",
+              "url": "https://www.city.fukushima-date.lg.jp/soshiki/83/88165.html"
+            }
+          ]
+        },
+        {
+          "id": "politics-003",
+          "title": "新潟市長選、現職中原八一氏が3選・投票率35.61％",
+          "summary": "中原氏が14万3724票で新人2人を破り、アリーナ構想や中心市街地の活性化、液状化対策を引き続き担う。",
+          "importance": 3,
+          "event_date": "2026-10-25",
+          "sources": [
+            {
+              "name": "NST新潟総合テレビ",
+              "url": "https://www.fnn.jp/articles/-/1139636"
+            },
+            {
+              "name": "TeNYテレビ新潟",
+              "url": "https://news.livedoor.com/article/detail/32654503/"
+            }
+          ]
+        },
+        {
+          "id": "politics-004",
+          "title": "那覇市長選、現職知念覚氏の再選が確実に",
+          "summary": "自民・維新・国民・公明・立民などの推薦を受けた知念氏が新人3人を破る見通しとなり、那覇軍港移設や子育て施策が争点となった。",
+          "importance": 3,
+          "event_date": "2026-10-25",
+          "sources": [
+            {
+              "name": "共同通信（ライブドア）",
+              "url": "https://news.livedoor.com/article/detail/32653716/"
+            },
+            {
+              "name": "琉球放送",
+              "url": "https://newsdig.tbs.co.jp/articles/-/3036811"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "economy",
+      "name": "国内経済・産業",
+      "importance": 1,
+      "items": []
+    },
+    {
+      "id": "finance",
+      "name": "金融・企業",
+      "importance": 4,
+      "items": [
+        {
+          "id": "finance-001",
+          "title": "サウジ株2.7％下落、フーシ派との交戦で湾岸市場に売り",
+          "summary": "25日のサウジ主要株価指数は2.7％下落し、エジプト主要指数も3.6％下落するなど中東の軍事緊張が金融市場に波及した。",
+          "importance": 4,
+          "event_date": "2026-10-25",
+          "sources": [
+            {
+              "name": "Reuters",
+              "url": "https://www.reuters.com/world/middle-east/gulf-bourses-slip-houthi-saudi-clashes-rattle-investors-2026-10-25/"
+            }
+          ]
+        },
+        {
+          "id": "finance-002",
+          "title": "イスラエル首相の暗号資産による制裁回避構想に中銀・経済学者が反発",
+          "summary": "ネタニヤフ首相の制裁回避に暗号資産を活用する可能性への言及に対し、イスラエル銀行や100人超の経済学者が経済的孤立への懸念を表明した。",
+          "importance": 4,
+          "event_date": "2026-10-25",
+          "sources": [
+            {
+              "name": "Reuters",
+              "url": "https://www.reuters.com/business/finance/netanyahu-rebuked-plan-use-crypto-bypass-economic-sanctions-2026-10-25/"
+            }
+          ]
+        },
+        {
+          "id": "finance-003",
+          "title": "インド株、10月の海外投資家売り越しが48056億ルピーに",
+          "summary": "10月25日までに公表された集計では海外ポートフォリオ投資家の10月のインド株売り越し額が48056億ルピーとなり、原油高と企業業績への懸念が背景に挙げられた。",
+          "importance": 3,
+          "event_date": "2026-10-25",
+          "sources": [
+            {
+              "name": "Times of India",
+              "url": "https://timesofindia.indiatimes.com/business/india-business/foreign-investors-withdraw-rs-48056-crore-in-october-as-market-selling-continues/articleshow/135187012.cms"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "real_estate",
+      "name": "不動産・住宅・建設",
+      "importance": 1,
+      "items": []
+    },
+    {
+      "id": "international",
+      "name": "外交・国際情勢",
+      "importance": 5,
+      "items": [
+        {
+          "id": "international-001",
+          "title": "セルビア総選挙、学生主導勢力が勝利へ・ブチッチ氏が敗北認める",
+          "summary": "予備集計で学生運動系リストが250議席中135～140議席を得る見通しとなり、長年続いた与党の支配が転換する可能性が高まった。",
+          "importance": 5,
+          "event_date": "2026-10-25",
+          "sources": [
+            {
+              "name": "Reuters",
+              "url": "https://www.reuters.com/world/europe/serbia-votes-students-seek-unseat-vucic-snap-election-2026-10-25/"
+            },
+            {
+              "name": "AP通信",
+              "url": "https://apnews.com/article/fdf5def8a20aebc8ae139fd719478775"
+            }
+          ]
+        },
+        {
+          "id": "international-002",
+          "title": "ブラジル大統領選決選投票、投票時間延長で集計に混乱",
+          "summary": "ルラ大統領とフラビオ・ボルソナロ上院議員の決選投票で交通障害などを受け投票時間が延長され、集計が一時中断した。",
+          "importance": 5,
+          "event_date": "2026-10-25",
+          "sources": [
+            {
+              "name": "Reuters",
+              "url": "https://www.reuters.com/world/americas/brazil-heads-polls-runoff-between-leftist-lula-bolsonaro-jr-2026-10-25/"
+            },
+            {
+              "name": "AP通信",
+              "url": "https://apnews.com/article/e2c9fe8fc4aa3e3675b9a8ec15405d93"
+            }
+          ]
+        },
+        {
+          "id": "international-003",
+          "title": "ベネズエラ野党指導者マチャド氏が亡命先から帰国",
+          "summary": "野党指導者マリア・コリナ・マチャド氏が25日に帰国し、大統領選の日程提示と民主的移行を求める動きが再び注目された。",
+          "importance": 4,
+          "event_date": "2026-10-25",
+          "sources": [
+            {
+              "name": "AP通信",
+              "url": "https://apnews.com/article/e6eff0c2ff962fd9b0f87270b24ef567"
+            }
+          ]
+        },
+        {
+          "id": "international-004",
+          "title": "アルバニアで反政府デモ再燃、政府は暴力化した抗議に高額罰金",
+          "summary": "ティラナで学生らの反政府デモが続き、ラマ政権は暴力化した抗議への参加に50万レクの罰金を設けると発表した。",
+          "importance": 4,
+          "event_date": "2026-10-25",
+          "sources": [
+            {
+              "name": "Reuters",
+              "url": "https://www.reuters.com/world/fresh-protests-tirana-despite-new-measures-curb-unrest-2026-10-25/"
+            }
+          ]
+        },
+        {
+          "id": "international-005",
+          "title": "イラン軍、バンダルアバス上空で米国製無人機を撃墜と主張",
+          "summary": "イラン軍は南部港湾都市上空で米国のLUCAS無人機を撃墜したと発表したが、米側の確認や独立した裏付けは示されていない。",
+          "importance": 4,
+          "event_date": "2026-10-25",
+          "sources": [
+            {
+              "name": "Reuters",
+              "url": "https://www.reuters.com/world/middle-east/iranian-army-says-it-shot-down-us-drone-over-bandar-abbas-tasnim-reports-2026-10-25/"
+            }
+          ]
+        },
+        {
+          "id": "international-006",
+          "title": "サウジ防空部隊、リヤドなどで無人機・ミサイルを迎撃と発表",
+          "summary": "サウジ主導連合は25日にリヤド周辺と南部で攻撃を迎撃したと発表し、前日から続くフーシ派との交戦がエネルギー・航空インフラのリスクとなった。",
+          "importance": 5,
+          "event_date": "2026-10-25",
+          "sources": [
+            {
+              "name": "Reuters",
+              "url": "https://www.reuters.com/world/middle-east/gulf-bourses-slip-houthi-saudi-clashes-rattle-investors-2026-10-25/"
+            },
+            {
+              "name": "AP通信",
+              "url": "https://apnews.com/article/4779a3deeb1a23f59414164532d5c885"
+            }
+          ]
+        },
+        {
+          "id": "international-007",
+          "title": "スリランカ、沖合の船舶19隻からイラン人船員40人を救助",
+          "summary": "スリランカ外務省は医療上の緊急事態に陥ったイラン人船員40人を救助し、治療後に帰国を支援したと発表した。",
+          "importance": 3,
+          "event_date": "2026-10-25",
+          "sources": [
+            {
+              "name": "Reuters",
+              "url": "https://www.reuters.com/world/asia-pacific/sri-lanka-rescues-40-iranian-sailors-spokesman-says-2026-10-25/"
+            }
+          ]
+        },
+        {
+          "id": "international-008",
+          "title": "イラン、米国との間接連絡継続を表明・中東の緊張は続く",
+          "summary": "イラン側は仲介者を通じて米国とメッセージを交換していると説明したが、交渉の進展や停戦の成立は確認されていない。",
+          "importance": 4,
+          "event_date": "2026-10-25",
+          "sources": [
+            {
+              "name": "AP通信",
+              "url": "https://apnews.com/article/4779a3deeb1a23f59414164532d5c885"
+            }
+          ]
+        },
+        {
+          "id": "international-009",
+          "title": "ガザで新たな攻撃による7人死亡を現地病院当局が報告",
+          "summary": "現地の病院当局は25日のイスラエル軍による攻撃で7人が死亡したと説明し、停戦後も民間人被害が続いている。",
+          "importance": 4,
+          "event_date": "2026-10-25",
+          "sources": [
+            {
+              "name": "AP通信",
+              "url": "https://apnews.com/article/4779a3deeb1a23f59414164532d5c885"
+            }
+          ]
+        },
+        {
+          "id": "international-010",
+          "title": "赤十字国際委員会、イスラエル拘束中のパレスチナ人名簿の受領を再開",
+          "summary": "イスラエル最高裁の命令を受け赤十字国際委員会が拘束者名簿の受領を再開したが、収容施設への訪問は再開していない。",
+          "importance": 3,
+          "event_date": "2026-10-25",
+          "sources": [
+            {
+              "name": "AP通信",
+              "url": "https://apnews.com/article/4779a3deeb1a23f59414164532d5c885"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "technology",
+      "name": "科学・AI・技術",
+      "importance": 5,
+      "items": [
+        {
+          "id": "technology-001",
+          "title": "SpaceX、AI向けGPU購入に400億ドルの借入調達を完了とマスク氏が説明",
+          "summary": "イーロン・マスク氏はSpaceXがNVIDIA製GPU購入向けに400億ドルの負債調達を完了したと述べたが、調達条件などは独立して確認されていない。",
+          "importance": 5,
+          "event_date": "2026-10-25",
+          "sources": [
+            {
+              "name": "Reuters",
+              "url": "https://www.reuters.com/business/media-telecom/musk-says-spacex-raised-40-billion-debt-gpus-2026-10-25/"
+            }
+          ],
+          "context": "AI計算基盤の資金調達負担が急拡大するなか、通信・宇宙事業の既存収益が調達能力の差につながる可能性がある。"
+        }
+      ]
+    },
+    {
+      "id": "health",
+      "name": "医療・公衆衛生",
+      "importance": 1,
+      "items": []
+    },
+    {
+      "id": "environment",
+      "name": "環境・エネルギー・気象",
+      "importance": 5,
+      "items": [
+        {
+          "id": "environment-001",
+          "title": "台風30号が温帯低気圧に変化、26日は九州から関東で警報級大雨の恐れ",
+          "summary": "25日夜に台風30号から変わった温帯低気圧と前線により、26日は四国で最大250ミリ、九州北部などで200ミリの雨が予想され、土砂災害と交通障害に警戒が必要。",
+          "importance": 5,
+          "event_date": "2026-10-26",
+          "sources": [
+            {
+              "name": "FNNプライムオンライン",
+              "url": "https://www.fnn.jp/articles/-/1139640"
+            }
+          ]
+        },
+        {
+          "id": "environment-002",
+          "title": "静岡県沼津市で大雨警報と道路冠水、複数の市道で通行規制",
+          "summary": "沼津市は25日に大雨警報が発表された後の道路冠水・通行規制状況を公表し、一部区間の規制解除と残る通行止めを案内した。",
+          "importance": 3,
+          "event_date": "2026-10-25",
+          "sources": [
+            {
+              "name": "沼津市",
+              "url": "https://www.city.numazu.shizuoka.jp/kikikanri/topics/1025.htm"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "society",
+      "name": "教育・労働・人口・文化・その他社会",
+      "importance": 3,
+      "items": [
+        {
+          "id": "society-001",
+          "title": "ローマ教皇レオ14世、肺がん手術後初の広場向け演説でイエメン停戦訴え",
+          "summary": "今月の肺がん手術から回復中の教皇が25日にバチカンの窓から公の演説を行い、イエメンでの戦闘停止と住民支援を求めた。",
+          "importance": 3,
+          "event_date": "2026-10-25",
+          "sources": [
+            {
+              "name": "Reuters",
+              "url": "https://www.reuters.com/world/middle-east/pope-leo-calls-yemen-violence-end-address-two-weeks-after-surgery-2026-10-25/"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "warnings": [
+    "週末のため国内経済・産業、不動産、医療の各分野で対象時間内の独立した新規ニュースを十分確認できず、0件とした。",
+    "ブラジル大統領選の最終結果は確認できず、投票時間延長と集計混乱のみを記載。",
+    "イランの米無人機撃墜はイラン軍の主張であり独立検証は未了。",
+    "SpaceXの400億ドル調達はマスク氏の説明に基づき契約条件の独立確認は未了。",
+    "海外ニュースの一部は現地発生日が確認できたが、日本時間の厳密な発生時刻は不明。"
+  ]
+}
