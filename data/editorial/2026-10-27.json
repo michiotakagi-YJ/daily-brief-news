@@ -1,0 +1,534 @@
+{
+  "schema_version": 1,
+  "edition_date": "2026-10-27",
+  "generated_at": "2026-10-27T08:03:30.779+09:00",
+  "window_start": "2026-10-26T08:00:00+09:00",
+  "window_end": "2026-10-27T08:01:38+09:00",
+  "lead": "ブラジル大統領選でルラ氏が再選し、中国共産党は重要会議を開始。中東ではフーシ派のサウジ石油関連施設への攻撃主張と外交協議が並行した。日本では政府がサイバー攻撃対策の緊急パッケージ策定を指示し、GMOが巨額の身代金要求を公表。日銀の次回会合と年内追加利上げの可能性にも注目が集まる。建設労働不足、住宅履歴の活用、医薬品開発、電力投資など各分野の変化も確認した。",
+  "sections": [
+    {
+      "id": "politics",
+      "name": "国内政治・法改正・行政",
+      "items": [
+        {
+          "id": "politics-001",
+          "title": "政府、相次ぐサイバー攻撃を受け来週中の緊急対策策定を指示",
+          "summary": "26日の関係閣僚会議で高市首相は、被害企業への支援強化とアクセス無害化措置を含む対応を指示し、財政措置も検討する方針を示した。",
+          "importance": 5,
+          "event_date": "2026-10-26",
+          "sources": [
+            {
+              "name": "首相官邸",
+              "url": "https://www.kantei.go.jp/jp/105/actions/202610/26kaigi_cyber.html"
+            }
+          ]
+        },
+        {
+          "id": "politics-002",
+          "title": "豪雨・台風被災地の災害査定を簡素化、書面審査の上限引き上げ",
+          "summary": "国交省は道路・河川などの復旧を早めるため、複数自治体で机上査定の上限額を引き上げ、現地で決定できる事業費も7億円未満に拡大した。",
+          "importance": 4,
+          "event_date": "2026-10-26",
+          "sources": [
+            {
+              "name": "国土交通省",
+              "url": "https://www.mlit.go.jp/report/press/mizukokudo06_hh_000365.html"
+            }
+          ]
+        },
+        {
+          "id": "politics-003",
+          "title": "福田康夫元首相の死去を26日に公表、90歳",
+          "summary": "2007～08年に首相を務め日中関係改善などに取り組んだ福田康夫氏が22日に死去したことが26日に明らかになった。",
+          "importance": 3,
+          "event_date": "2026-10-26",
+          "sources": [
+            {
+              "name": "時事通信／nippon.com",
+              "url": "https://www.nippon.com/ja/news/yjj2026102600617/"
+            }
+          ]
+        }
+      ],
+      "importance": 5
+    },
+    {
+      "id": "economy",
+      "name": "国内経済・産業",
+      "items": [
+        {
+          "id": "economy-001",
+          "title": "建設労働者の不足率1.3％、前年同月から0.2ポイント拡大",
+          "summary": "国交省の9月調査で全国8職種の不足率は前月と同じ1.3％となり、前年同月の1.1％より不足幅が拡大した。",
+          "importance": 3,
+          "event_date": "2026-10-26",
+          "sources": [
+            {
+              "name": "国土交通省",
+              "url": "https://www.mlit.go.jp/report/press/tochi_fudousan_kensetsugyo14_hh_000001_00385.html"
+            }
+          ]
+        },
+        {
+          "id": "economy-002",
+          "title": "10月の主要建設資材、7資材13品目すべて価格横ばい・需給均衡",
+          "summary": "国交省は10月1～5日の調査で生コン・鋼材・木材など全調査対象の価格が横ばい、需給が均衡、在庫が普通と発表した。",
+          "importance": 3,
+          "event_date": "2026-10-26",
+          "sources": [
+            {
+              "name": "国土交通省",
+              "url": "https://www.mlit.go.jp/report/press/tochi_fudousan_kensetsugyo14_hh_000001_00386.html"
+            }
+          ]
+        },
+        {
+          "id": "economy-003",
+          "title": "物流標準化の官民会議を11月開催、パレット規格とデータ連携を議論",
+          "summary": "国交省は標準仕様パレットの普及や企業間データ連携を進めるため、11月5日に官民物流標準化懇談会を開くと発表した。",
+          "importance": 3,
+          "event_date": "2026-10-26",
+          "sources": [
+            {
+              "name": "国土交通省",
+              "url": "https://www.mlit.go.jp/report/press/tokatsu01_hh_001047.html"
+            }
+          ]
+        }
+      ],
+      "importance": 3
+    },
+    {
+      "id": "finance",
+      "name": "金融・企業",
+      "items": [
+        {
+          "id": "finance-001",
+          "title": "日銀、今週の政策金利1.25％据え置き観測と12月利上げ余地が焦点",
+          "summary": "ロイターは日銀が10月30日までの会合で政策金利を据え置きつつ物価見通しを引き上げ、年内追加利上げの余地を示す可能性を報じた。",
+          "importance": 5,
+          "event_date": "2026-10-26",
+          "sources": [
+            {
+              "name": "Reuters",
+              "url": "https://www.reuters.com/world/asia-pacific/bank-japans-hawkish-pause-leave-scope-december-hike-2026-10-26/"
+            }
+          ]
+        },
+        {
+          "id": "finance-002",
+          "title": "GMO、サイバー攻撃で5,000万ドルの身代金要求を公表、株価約16％安",
+          "summary": "GMOインターネットグループはFXサービスへの侵入に関し5,000万ドル相当の暗号資産を要求されたと明かし、支払いを拒否する方針を示した。",
+          "importance": 4,
+          "event_date": "2026-10-26",
+          "sources": [
+            {
+              "name": "Reuters",
+              "url": "https://www.reuters.com/business/finance/japan-companies-compensate-users-cyberattacks-buffet-economy-2026-10-26/"
+            }
+          ]
+        },
+        {
+          "id": "finance-003",
+          "title": "米EQT、Range Resourcesを約130億ドルの株式交換で買収へ",
+          "summary": "米天然ガス大手EQTはRange Resourcesの全株式取得を発表し、AIデータセンターとLNG向け需要の拡大を見据えた大型再編を進める。",
+          "importance": 4,
+          "event_date": "2026-10-26",
+          "sources": [
+            {
+              "name": "Reuters",
+              "url": "https://www.reuters.com/business/eqt-buy-range-resources-over-50-billion-deal-2026-10-26/"
+            }
+          ]
+        },
+        {
+          "id": "finance-004",
+          "title": "ブラジル大統領選後、レアルが大幅安・株式も急落",
+          "summary": "ルラ大統領の再選を受け、財政政策への警戒などからブラジル通貨レアルが26日に8.1％下落したとロイターが報じた。",
+          "importance": 4,
+          "event_date": "2026-10-26",
+          "sources": [
+            {
+              "name": "Reuters",
+              "url": "https://www.reuters.com/world/americas/brazil-heads-back-future-flavio-bolsonaro-refuses-recognize-lula-win-2026-10-26/"
+            }
+          ]
+        },
+        {
+          "id": "finance-005",
+          "title": "HSBC、世界株の投資判断を最大強気から中立へ引き下げ",
+          "summary": "HSBCは中東情勢の緊迫とAI関連の規制・投資リスクを理由に、世界株式の見通しを最大オーバーウエートから中立に変更した。",
+          "importance": 3,
+          "event_date": "2026-10-26",
+          "sources": [
+            {
+              "name": "Reuters",
+              "url": "https://www.reuters.com/business/hsbc-cuts-global-equities-neutral-middle-east-ai-risks-2026-10-26/"
+            }
+          ]
+        },
+        {
+          "id": "finance-006",
+          "title": "インドルピーが3営業日続落、原油高と海外資金流出が重荷",
+          "summary": "26日のルピーは対ドルで約0.3％下落し、原油輸入コスト増と海外投資家の株式売却が通貨の下押し要因となった。",
+          "importance": 3,
+          "event_date": "2026-10-26",
+          "sources": [
+            {
+              "name": "Reuters",
+              "url": "https://www.reuters.com/world/india/indian-rupee-faces-pressure-oil-headwinds-lack-inflow-support-2026-10-26/"
+            }
+          ]
+        }
+      ],
+      "importance": 5
+    },
+    {
+      "id": "realestate",
+      "name": "不動産・住宅・建設",
+      "items": [
+        {
+          "id": "realestate-001",
+          "title": "国交省、住宅履歴情報の保存・活用を見直す作業部会を設置",
+          "summary": "設計・施工・修繕履歴を住宅の維持保全と中古住宅流通に生かす仕組みを検討する新たな作業部会の初会合を28日に開催すると発表した。",
+          "importance": 4,
+          "event_date": "2026-10-26",
+          "sources": [
+            {
+              "name": "国土交通省",
+              "url": "https://www.mlit.go.jp/report/press/house04_hh_001367.html"
+            }
+          ]
+        },
+        {
+          "id": "realestate-002",
+          "title": "建築BIMのデータ審査導入と標準化、国交省が28日に議論へ",
+          "summary": "国交省は第25回建築BIM環境整備部会で、BIMデータを使った審査導入や属性データの標準化に向けた取組を協議すると発表した。",
+          "importance": 3,
+          "event_date": "2026-10-26",
+          "sources": [
+            {
+              "name": "国土交通省",
+              "url": "https://www.mlit.go.jp/report/press/house05_hh_001157.html"
+            }
+          ]
+        }
+      ],
+      "importance": 4
+    },
+    {
+      "id": "world",
+      "name": "外交・国際情勢",
+      "items": [
+        {
+          "id": "world-001",
+          "title": "ブラジル大統領選、ルラ氏が決選投票で再選・通算4期目へ",
+          "summary": "選挙当局の集計でルラ大統領が約51.8％を得てフラビオ・ボルソナロ氏を破り、敗れた側は結果の受け入れを拒否した。",
+          "importance": 5,
+          "event_date": "2026-10-26",
+          "sources": [
+            {
+              "name": "AP通信",
+              "url": "https://apnews.com/article/e2c9fe8fc4aa3e3675b9a8ec15405d93"
+            }
+          ]
+        },
+        {
+          "id": "world-002",
+          "title": "中国共産党の5中全会が開幕、党内規律と反腐敗を重点協議",
+          "summary": "習近平国家主席は26日に始まった4日間の中央委員会総会で党の統治能力・規律強化に関する文書案を説明した。",
+          "importance": 4,
+          "event_date": "2026-10-26",
+          "sources": [
+            {
+              "name": "Reuters",
+              "url": "https://www.reuters.com/world/china/chinas-communist-party-opens-fifth-plenum-2026-10-26/"
+            }
+          ]
+        },
+        {
+          "id": "world-003",
+          "title": "フーシ派、サウジ石油送油施設と首都空港への攻撃を主張",
+          "summary": "イエメンのフーシ派はサウジの東西パイプライン関連施設とリヤド空港を攻撃したと主張したが、サウジ側の攻撃確認は得られていない。",
+          "importance": 5,
+          "event_date": "2026-10-26",
+          "sources": [
+            {
+              "name": "Reuters",
+              "url": "https://www.reuters.com/world/middle-east/houthis-say-they-attacked-east-west-oil-pumping-stations-no-saudi-confirmation-2026-10-26/"
+            }
+          ]
+        },
+        {
+          "id": "world-004",
+          "title": "サウジ・トルコ・パキスタンとイラン、テヘランで高官協議を模索",
+          "summary": "中東の戦闘拡大を受けて3か国の高官がイラン側と地域の安定化を話し合う方向と報じられ、協議の成果は未確定だ。",
+          "importance": 4,
+          "event_date": "2026-10-26",
+          "sources": [
+            {
+              "name": "Reuters",
+              "url": "https://www.reuters.com/world/asia-pacific/top-officials-mecca-pact-countries-meet-iranian-officials-tehran-monday-two-2026-10-26/"
+            }
+          ]
+        },
+        {
+          "id": "world-005",
+          "title": "イスラエル総選挙を前にネタニヤフ首相が米大統領の支持を強調",
+          "summary": "27日の投票を控え、ネタニヤフ首相はトランプ大統領の支持を訴え、対イラン軍事行動の再開可能性にも言及した。",
+          "importance": 4,
+          "event_date": "2026-10-26",
+          "sources": [
+            {
+              "name": "Reuters",
+              "url": "https://www.reuters.com/world/middle-east/netanyahu-touts-trump-endorsement-eve-vote-suggests-they-may-restart-war-iran-2026-10-26/"
+            }
+          ]
+        },
+        {
+          "id": "world-006",
+          "title": "国連調査委、ガザ停戦後もジェノサイドに当たる行為が続いたと報告",
+          "summary": "国連の調査委員会は停戦後のイスラエルの行動について重大な国際法違反を指摘したが、これは調査委の認定であり司法判断ではない。",
+          "importance": 5,
+          "event_date": "2026-10-26",
+          "sources": [
+            {
+              "name": "Reuters",
+              "url": "https://www.reuters.com/world/middle-east/un-inquiry-says-israel-kept-committing-genocide-gaza-after-truce-2026-10-26/"
+            }
+          ]
+        },
+        {
+          "id": "world-007",
+          "title": "ニュージーランド総選挙の期日前投票が開始、与野党が接戦",
+          "summary": "11月7日の投票日に向け26日に期日前投票が始まり、生活費と経済停滞が主要争点で、世論調査は勝敗を予測しきれていない。",
+          "importance": 3,
+          "event_date": "2026-10-26",
+          "sources": [
+            {
+              "name": "Reuters",
+              "url": "https://www.reuters.com/world/asia-pacific/voting-opens-new-zealand-november-7-election-with-no-clear-frontrunner-2026-10-25/"
+            }
+          ]
+        },
+        {
+          "id": "world-008",
+          "title": "米控訴裁、カリフォルニア州の郵便投票を阻止する政権の申立てを退ける",
+          "summary": "米控訴裁は非市民の可能性がある登録者を理由に郵便投票の集計を制限しようとした政権側の申立てを26日に退けた。",
+          "importance": 4,
+          "event_date": "2026-10-26",
+          "sources": [
+            {
+              "name": "Reuters",
+              "url": "https://www.reuters.com/world/trump-administration-loses-push-block-california-votes-alleged-noncitizens-2026-10-26/"
+            }
+          ]
+        },
+        {
+          "id": "world-009",
+          "title": "スイス外相、北朝鮮を訪問し協議する予定と発表",
+          "summary": "スイスの外相が今週北朝鮮で協議する計画が明らかになり、対話の内容や成果は今後の確認が必要となる。",
+          "importance": 2,
+          "event_date": "2026-10-26",
+          "sources": [
+            {
+              "name": "Reuters",
+              "url": "https://www.reuters.com/world/asia-pacific/swiss-foreign-minister-hold-talks-north-korea-this-week-2026-10-26/"
+            }
+          ]
+        }
+      ],
+      "importance": 5
+    },
+    {
+      "id": "tech",
+      "name": "科学・AI・技術",
+      "items": [
+        {
+          "id": "tech-001",
+          "title": "国内サイバー被害、10月20日までの報告723件が過去2年の年間件数超え",
+          "summary": "セキュリティ企業TrendAIの集計で2026年の国内サイバー事案は723件となり、AIを使った脆弱性探索やフィッシングの高速化が課題と報じられた。",
+          "importance": 5,
+          "event_date": "2026-10-26",
+          "sources": [
+            {
+              "name": "Reuters",
+              "url": "https://www.reuters.com/business/finance/japan-companies-compensate-users-cyberattacks-buffet-economy-2026-10-26/"
+            }
+          ]
+        },
+        {
+          "id": "tech-002",
+          "title": "ドコモ、PHP脆弱性対応で停止した緊急速報メールの復旧を報告",
+          "summary": "ドコモはJアラート・洪水予報などのエリアメール配信を25日20時1分に再開したことを26日の報道で確認した。",
+          "importance": 3,
+          "event_date": "2026-10-26",
+          "sources": [
+            {
+              "name": "ITmedia",
+              "url": "https://www.itmedia.co.jp/mobile/articles/2610/26/news064.html"
+            }
+          ]
+        }
+      ],
+      "importance": 5
+    },
+    {
+      "id": "health",
+      "name": "医療・公衆衛生",
+      "items": [
+        {
+          "id": "health-001",
+          "title": "米メルクの子宮体がん新薬、後期試験で生存期間中央値19か月",
+          "summary": "進行子宮体がん患者776人の試験で抗体薬物複合体sac-TMTは標準化学療法の12.1か月に対し生存期間中央値19か月となり、FDAが優先審査を受理した。",
+          "importance": 4,
+          "event_date": "2026-10-26",
+          "sources": [
+            {
+              "name": "Reuters",
+              "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/mercks-therapy-extends-survival-hard-to-treat-uterine-cancer-patients-2026-10-26/"
+            }
+          ]
+        },
+        {
+          "id": "health-002",
+          "title": "中国、バイエルの抗血栓薬asundexianを承認",
+          "summary": "中国の薬事当局は脳梗塞再発の予防を目的とするasundexianを承認し、大規模試験では再発割合が投与群6.2％、対照群8.4％だった。",
+          "importance": 4,
+          "event_date": "2026-10-26",
+          "sources": [
+            {
+              "name": "Reuters",
+              "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/china-approves-bayer-blood-thinner-asundexian-2026-10-26/"
+            }
+          ]
+        },
+        {
+          "id": "health-003",
+          "title": "GSKとHansoh、骨肉腫の新薬候補で病勢進行リスク67％低下を報告",
+          "summary": "再発・難治性骨肉腫の122人を対象とした後期試験で、開発中のris-rezは化学療法に比べ病勢進行または死亡のリスクを67％低下させたと報告された。",
+          "importance": 4,
+          "event_date": "2026-10-26",
+          "sources": [
+            {
+              "name": "Reuters",
+              "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/gsk-hansohs-bone-cancer-drug-delays-disease-progression-late-stage-china-study-2026-10-26/"
+            }
+          ]
+        },
+        {
+          "id": "health-004",
+          "title": "厚労省、医師の働き方改革の推進に関する第3回検討会開催を案内",
+          "summary": "医師の労働時間管理や医療提供体制に関わる検討会の開催案内が26日に公表されたが、制度改正の決定ではない。",
+          "importance": 2,
+          "event_date": "2026-10-26",
+          "sources": [
+            {
+              "name": "厚生労働省",
+              "url": "https://www.mhlw.go.jp/stf/new-info/"
+            }
+          ]
+        }
+      ],
+      "importance": 4
+    },
+    {
+      "id": "environment",
+      "name": "環境・エネルギー",
+      "items": [
+        {
+          "id": "environment-001",
+          "title": "エジプト、1GW太陽光・200MWh蓄電池計画で6.5億ドルの資金調達基本合意",
+          "summary": "エジプト政府は南部ケナ県の大型太陽光発電・蓄電事業について、ノルウェーScatecや国際開発金融機関と予備的な融資合意を結んだ。",
+          "importance": 4,
+          "event_date": "2026-10-26",
+          "sources": [
+            {
+              "name": "Reuters",
+              "url": "https://www.reuters.com/business/energy/egypt-signs-preliminary-financing-agreement-650-million-solar-project-upper-2026-10-26/"
+            }
+          ]
+        },
+        {
+          "id": "environment-002",
+          "title": "シンガポール、2030年代前半に発電能力を約26％増強へ",
+          "summary": "政府は電力需要増加に対応するため、ガス火力発電所5基の新設で現在約12GWの発電能力を増強する計画を示した。",
+          "importance": 4,
+          "event_date": "2026-10-26",
+          "sources": [
+            {
+              "name": "Reuters",
+              "url": "https://www.reuters.com/business/energy/singapore-expand-power-capacity-by-26-early-2030s-2026-10-26/"
+            }
+          ]
+        },
+        {
+          "id": "environment-003",
+          "title": "鳥取の風車火災、運営会社が県に謝罪し原因調査を表明",
+          "summary": "24日に琴浦町で発生した風力発電設備火災について、運営会社の代表が26日に知事へ謝罪し、ナセル内部の出火原因を調査すると説明した。",
+          "importance": 3,
+          "event_date": "2026-10-26",
+          "sources": [
+            {
+              "name": "FNNプライムオンライン",
+              "url": "https://www.fnn.jp/articles/-/1140090"
+            }
+          ]
+        }
+      ],
+      "importance": 4
+    },
+    {
+      "id": "society",
+      "name": "教育・労働・人口・文化・その他社会",
+      "items": [
+        {
+          "id": "society-001",
+          "title": "物流倉庫分野で特定技能1号評価試験を開始へ",
+          "summary": "国交省は外国人材の就労制度に関する物流倉庫分野の特定技能1号評価試験の開始を発表した。",
+          "importance": 4,
+          "event_date": "2026-10-26",
+          "sources": [
+            {
+              "name": "国土交通省",
+              "url": "https://www.mlit.go.jp/report/press/tokatsu02_hh_000086.html"
+            }
+          ]
+        },
+        {
+          "id": "society-002",
+          "title": "JETプログラム40周年の記念式典開催を文科省が発表",
+          "summary": "外国青年を日本の学校等に招くJETプログラムの40周年記念式典・レセプションの開催が26日に公表された。",
+          "importance": 2,
+          "event_date": "2026-10-26",
+          "sources": [
+            {
+              "name": "文部科学省",
+              "url": "https://www.mext.go.jp/b_menu/houdou/2026/mext_01693.html"
+            }
+          ]
+        },
+        {
+          "id": "society-003",
+          "title": "厚労省、仕事と育児の両立支援を労政審で検討",
+          "summary": "26日の労働政策審議会雇用環境・均等分科会で仕事と育児の両立支援が議題となり、今後の制度運用・見直しに関する検討が続いた。",
+          "importance": 3,
+          "event_date": "2026-10-26",
+          "sources": [
+            {
+              "name": "厚生労働省",
+              "url": "https://www.mhlw.go.jp/stf/shingi/shingi-rousei_126989.html"
+            }
+          ]
+        }
+      ],
+      "importance": 4
+    }
+  ],
+  "warnings": [
+    "時刻を確認できない26日発表記事は、原則として26日中の公表として収録した。",
+    "海外報道の一部は当事者の主張であり、独立検証がない事項を明記した。",
+    "2026年10月22日に死去した福田康夫氏は26日に死去が公表されたため、発表日をevent_dateとした。",
+    "ドコモの緊急速報復旧は25日夜の事象だが、26日の新たな報道による確認を掲載した。"
+  ]
+}
