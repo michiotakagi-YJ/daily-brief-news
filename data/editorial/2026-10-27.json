@@ -18,8 +18,8 @@
           "event_date": "2026-10-26",
           "sources": [
             {
-              "name": "首相官邸",
-              "url": "https://www.kantei.go.jp/jp/105/actions/202610/26kaigi_cyber.html"
+              "name": "FNNプライムオンライン",
+              "url": "https://www.fnn.jp/articles/-/1140171"
             }
           ]
         },
@@ -356,19 +356,6 @@
               "url": "https://www.reuters.com/business/finance/japan-companies-compensate-users-cyberattacks-buffet-economy-2026-10-26/"
             }
           ]
-        },
-        {
-          "id": "tech-002",
-          "title": "ドコモ、PHP脆弱性対応で停止した緊急速報メールの復旧を報告",
-          "summary": "ドコモはJアラート・洪水予報などのエリアメール配信を25日20時1分に再開したことを26日の報道で確認した。",
-          "importance": 3,
-          "event_date": "2026-10-26",
-          "sources": [
-            {
-              "name": "ITmedia",
-              "url": "https://www.itmedia.co.jp/mobile/articles/2610/26/news064.html"
-            }
-          ]
         }
       ],
       "importance": 5
@@ -528,7 +515,6 @@
   "warnings": [
     "時刻を確認できない26日発表記事は、原則として26日中の公表として収録した。",
     "海外報道の一部は当事者の主張であり、独立検証がない事項を明記した。",
-    "2026年10月22日に死去した福田康夫氏は26日に死去が公表されたため、発表日をevent_dateとした。",
-    "ドコモの緊急速報復旧は25日夜の事象だが、26日の新たな報道による確認を掲載した。"
+    "2026年10月22日に死去した福田康夫氏は26日に死去が公表されたため、発表日をevent_dateとした。"
   ]
 }
