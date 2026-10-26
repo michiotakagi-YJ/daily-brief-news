@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-10-26T08:01:38.345225+09:00",
+  "updated_at": "2026-10-26T09:13:39.608953+09:00",
   "days": [
     {
       "date": "2026-10-26",
-      "count": 722,
-      "importance_A": 3,
-      "importance_B": 711
+      "count": 993,
+      "importance_A": 4,
+      "importance_B": 974
     },
     {
       "date": "2026-10-25",
@@ -97,5 +97,5 @@
   "sources_failed": [
     "impress_crypto"
   ],
-  "new_items": 24
+  "new_items": 271
 }
