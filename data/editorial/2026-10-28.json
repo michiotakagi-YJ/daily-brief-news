@@ -1,0 +1,650 @@
+{
+  "schema_version": 1,
+  "edition_date": "2026-10-28",
+  "generated_at": "2026-10-28T07:58:27+09:00",
+  "window_start": "2026-10-27T08:00:00+09:00",
+  "window_end": "2026-10-28T07:58:27+09:00",
+  "lead": "国内では企業向けサービス価格の上昇と中小企業向けサイバー対策窓口の開設が目立った。海外ではイスラエル総選挙の出口調査が接戦を示し、フィンランド・ノルウェー首脳がプーチン大統領と直接協議した。コンゴ民主共和国のエボラ感染は1万人を超え、WMOは大気中温室効果ガス濃度の最高記録を報告。AI投資の資金調達・信用リスク、米選挙関連システムへのサイバー攻撃、国内住宅修繕制度も重要な動きとなった。",
+  "sections": [
+    {
+      "id": "politics",
+      "name": "国内政治・法改正・行政",
+      "importance": 5,
+      "items": [
+        {
+          "id": "politics-001",
+          "title": "経産省、中小企業向け無料サイバーセキュリティ相談窓口を開設",
+          "summary": "相次ぐ企業へのサイバー攻撃を受け、全国のよろず支援拠点と中小機構の相談窓口で無料対応を開始し、金融機関や商工団体経由の情報提供も始めた。",
+          "importance": 5,
+          "event_date": "2026-10-27",
+          "sources": [
+            {
+              "name": "経済産業省・中小企業庁",
+              "url": "https://mirasapo-plus.go.jp/infomation/34086/"
+            }
+          ]
+        },
+        {
+          "id": "politics-002",
+          "title": "厚労省、危険ドラッグ成分3物質を新たな指定薬物に追加",
+          "summary": "10月27日に省令を公布し、11月6日から新たな3物質を指定薬物として規制することを決めた。",
+          "importance": 3,
+          "event_date": "2026-10-27",
+          "sources": [
+            {
+              "name": "厚生労働省",
+              "url": "https://www.mhlw.go.jp/stf/houdou/0000212707_00057.html"
+            }
+          ]
+        },
+        {
+          "id": "politics-003",
+          "title": "国交省、国鉄分割民営化40年を前に鉄道ネットワークの将来像を検討",
+          "summary": "10月29日に持続可能な鉄道ネットワークに関する小委員会を始めると公表し、地域の人口減少や社会経済の変化を踏まえて議論する。",
+          "importance": 4,
+          "event_date": "2026-10-27",
+          "sources": [
+            {
+              "name": "国土交通省",
+              "url": "https://www.mlit.go.jp/report/press/tetsudo05_hh_000168.html"
+            }
+          ]
+        },
+        {
+          "id": "politics-004",
+          "title": "国交省、バリアフリー施策の地域差やデジタル対応を再検討",
+          "summary": "高齢化や子育て世代のニーズ、地域間格差を踏まえた新たな政策枠組みについて10月29日に検討会を開くと発表した。",
+          "importance": 3,
+          "event_date": "2026-10-27",
+          "sources": [
+            {
+              "name": "国土交通省",
+              "url": "https://www.mlit.go.jp/report/press/sogo09_hh_000443.html"
+            }
+          ]
+        },
+        {
+          "id": "politics-005",
+          "title": "自動運行補助施設の技術基準を国交省が審議へ",
+          "summary": "10月30日の道路技術小委員会で自動運行を支える道路側施設の技術基準と舗装点検要領改定案を議論すると発表した。",
+          "importance": 3,
+          "event_date": "2026-10-27",
+          "sources": [
+            {
+              "name": "国土交通省",
+              "url": "https://www.mlit.go.jp/report/press/road01_hh_002163.html"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "economy",
+      "name": "国内経済・産業",
+      "importance": 4,
+      "items": [
+        {
+          "id": "economy-001",
+          "title": "9月の企業向けサービス価格、前年比3.7％上昇",
+          "summary": "日銀が27日に公表した指数は前月の伸びから0.2ポイント拡大し、外航貨物輸送価格の97.7％上昇など運輸コストが押し上げた。",
+          "importance": 4,
+          "event_date": "2026-10-27",
+          "sources": [
+            {
+              "name": "Reuters",
+              "url": "https://www.reuters.com/jp/world/japan/XYMTOGMYMBNXBAWRLH5C47R25A-2026-10-26/"
+            }
+          ]
+        },
+        {
+          "id": "economy-002",
+          "title": "加藤製作所、ラフタークレーンなどのリコールを届け出",
+          "summary": "建設機械メーカーが27日に国交省へリコールを届け出て、対象車両の点検と改善を案内した。",
+          "importance": 2,
+          "event_date": "2026-10-27",
+          "sources": [
+            {
+              "name": "国土交通省",
+              "url": "https://www.mlit.go.jp/report/press/jidosha08_hh_005876.html"
+            }
+          ]
+        },
+        {
+          "id": "economy-003",
+          "title": "地域づくり表彰、市原市・南伊勢町・佐世保市の3事例が国交大臣賞",
+          "summary": "国交省は地域づくりの先進的な取組9団体の受賞を決め、うち3事例を国土交通大臣賞と発表した。",
+          "importance": 2,
+          "event_date": "2026-10-27",
+          "sources": [
+            {
+              "name": "国土交通省",
+              "url": "https://www.mlit.go.jp/report/press/kokudoseisaku09_hh_000194.html"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "finance",
+      "name": "金融・企業",
+      "importance": 5,
+      "items": [
+        {
+          "id": "finance-001",
+          "title": "日経平均、AI・半導体株への買い戻しで1078円高",
+          "summary": "27日の終値は前日比1.73％高の6万3268円37銭となり4営業日ぶりに反発したが、日米欧の金融政策会合を前に上値は限られた。",
+          "importance": 3,
+          "event_date": "2026-10-27",
+          "sources": [
+            {
+              "name": "Reuters",
+              "url": "https://www.reuters.com/jp/markets/japan/5VVKY26TRJJZ3MUIOG65RH2KQQ-2026-10-27/"
+            }
+          ]
+        },
+        {
+          "id": "finance-002",
+          "title": "中国・上海総合指数、14か月ぶり安値へ下落",
+          "summary": "27日の上海総合指数は1.3％安の3648.30となり、AI関連株への売りが重荷となった。",
+          "importance": 3,
+          "event_date": "2026-10-27",
+          "sources": [
+            {
+              "name": "Reuters",
+              "url": "https://www.reuters.com/jp/markets/japan/MYSBMXLER5IBXBO6374WCYIG4Y-2026-10-27/"
+            }
+          ]
+        },
+        {
+          "id": "finance-003",
+          "title": "HSBC、税引前利益32％増でも収入未達で株価6％下落",
+          "summary": "7～9月期の税引前利益は96億ドルに増えた一方、収入186億ドルが市場予想を下回り、富裕層向け事業の成長鈍化が警戒された。",
+          "importance": 4,
+          "event_date": "2026-10-27",
+          "sources": [
+            {
+              "name": "Reuters",
+              "url": "https://www.reuters.com/business/finance/hsbcs-third-quarter-profit-jumps-32-line-with-estimates-2026-10-27/"
+            }
+          ]
+        },
+        {
+          "id": "finance-004",
+          "title": "ムーディーズ、AI向けプライベートクレジット拡大と借換リスクを警告",
+          "summary": "AIインフラの資金調達が民間信用市場を拡大させる一方、資金需要の大きさと将来の借換負担が信用リスクを高め得ると指摘した。",
+          "importance": 4,
+          "event_date": "2026-10-27",
+          "sources": [
+            {
+              "name": "Reuters",
+              "url": "https://www.reuters.com/legal/transactional/ai-financing-driving-private-credit-growth-refinancing-risks-rise-moodys-says-2026-10-27/"
+            }
+          ]
+        },
+        {
+          "id": "finance-005",
+          "title": "AIクラウド新興Argentum、GPU購入に50億ドル融資を協議",
+          "summary": "関係者によるとポーランドのデータセンター向け半導体調達を目的に大手プライベートクレジット会社と協議しているが、融資は未成立。",
+          "importance": 4,
+          "event_date": "2026-10-27",
+          "sources": [
+            {
+              "name": "Reuters",
+              "url": "https://www.reuters.com/business/finance/neocloud-firm-argentum-ai-talks-5-billion-ai-chip-financing-sources-say-2026-10-27/"
+            }
+          ]
+        },
+        {
+          "id": "finance-006",
+          "title": "米9月のコア資本財受注が増加、AI設備投資が支え",
+          "summary": "米企業の設備投資関連指標が改善し、AI向け設備需要が製造業関連の支出を押し上げていることが示された。",
+          "importance": 3,
+          "event_date": "2026-10-27",
+          "sources": [
+            {
+              "name": "Reuters",
+              "url": "https://www.reuters.com/business/us-core-capital-goods-rise-september-shipments-accelerate-2026-10-27/"
+            }
+          ]
+        },
+        {
+          "id": "finance-007",
+          "title": "米国株、AI関連銘柄の回復で主要指数が上昇",
+          "summary": "27日の米株式市場はAI投資への期待を背景にハイテク関連が持ち直し、主要指数が上昇して取引を終えた。",
+          "importance": 3,
+          "event_date": "2026-10-27",
+          "sources": [
+            {
+              "name": "Reuters",
+              "url": "https://www.reuters.com/business/us-stock-futures-muted-oil-holds-near-april-highs-ahead-fed-decision-2026-10-27/"
+            }
+          ]
+        },
+        {
+          "id": "finance-008",
+          "title": "原油先物、中東外交の進展期待で約2ドル下落",
+          "summary": "中東の対話再開への期待が供給懸念を和らげ、27日の原油価格が下落したが、サウジ施設への攻撃懸念は残った。",
+          "importance": 3,
+          "event_date": "2026-10-27",
+          "sources": [
+            {
+              "name": "Reuters",
+              "url": "https://www.reuters.com/business/energy/oil-eases-middle-east-diplomacy-hopes-saudi-attacks-keep-supply-worries-alive-2026-10-27/"
+            }
+          ]
+        },
+        {
+          "id": "finance-009",
+          "title": "韓国銀行、AI投資減速なら半導体輸出が最大1000億ドル減少と警告",
+          "summary": "韓国中銀は世界のAI関連支出が鈍化した場合、主力の半導体輸出が大きく落ち込む可能性を分析した。",
+          "importance": 4,
+          "event_date": "2026-10-27",
+          "sources": [
+            {
+              "name": "Reuters",
+              "url": "https://www.reuters.com/world/asia-pacific/bank-korea-warns-countrys-chip-exports-could-fall-by-up-100-billion-if-ai-2026-10-27/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "realestate",
+      "name": "不動産・住宅・建設",
+      "importance": 4,
+      "items": [
+        {
+          "id": "realestate-001",
+          "title": "注文住宅の取得費用、年収倍率が7倍超に上昇",
+          "summary": "住宅生産団体連合会の2025年度顧客実態調査で建築費高騰による住宅取得負担の拡大と延床面積を抑える動きが報じられた。",
+          "importance": 4,
+          "event_date": "2026-10-27",
+          "sources": [
+            {
+              "name": "住宅産業新聞",
+              "url": "https://www.housenews.jp/review/38518"
+            }
+          ]
+        },
+        {
+          "id": "realestate-002",
+          "title": "国交省、マンション長期修繕計画作成指針の見直しを検討",
+          "summary": "新たな検討会が始動し、来春を目途に修繕計画作成指針の見直しを示す方向と専門紙が報じた。",
+          "importance": 4,
+          "event_date": "2026-10-27",
+          "sources": [
+            {
+              "name": "住宅新報",
+              "url": "https://www.jutaku-s.com/newsp/id/106376"
+            }
+          ]
+        },
+        {
+          "id": "realestate-003",
+          "title": "マンション大規模修繕の談合問題受け、発注環境改善を国交省が検討",
+          "summary": "大規模修繕工事の入札・発注における管理組合の保護と競争環境の整備を主眼とする検討会の動きが報じられた。",
+          "importance": 4,
+          "event_date": "2026-10-27",
+          "sources": [
+            {
+              "name": "住宅新報",
+              "url": "https://www.jutaku-s.com/newsp/id/106369"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "international",
+      "name": "外交・国際情勢",
+      "importance": 5,
+      "items": [
+        {
+          "id": "international-001",
+          "title": "イスラエル総選挙、出口調査は与野党拮抗で政権形成不透明",
+          "summary": "27日の投票後の出口調査ではネタニヤフ首相陣営と対抗勢力のいずれも明確な多数を得られず、連立交渉が焦点となった。",
+          "importance": 5,
+          "event_date": "2026-10-27",
+          "sources": [
+            {
+              "name": "Reuters",
+              "url": "https://www.reuters.com/world/middle-east/netanyahus-political-survival-line-israel-votes-2026-10-27/"
+            }
+          ]
+        },
+        {
+          "id": "international-002",
+          "title": "フィンランド大統領とノルウェー首相、プーチン氏と約90分協議",
+          "summary": "両首脳はウクライナ戦争の終結と緊張緩和を直接求めたが、ロシア側の基本姿勢に変化は確認されなかった。",
+          "importance": 5,
+          "event_date": "2026-10-27",
+          "sources": [
+            {
+              "name": "Reuters",
+              "url": "https://www.reuters.com/world/europe/norways-prime-minister-finlands-president-phone-call-with-putin-2026-10-27/"
+            }
+          ]
+        },
+        {
+          "id": "international-003",
+          "title": "米21州と首都ワシントン、実質的支配者の報告免除を巡り政権を提訴",
+          "summary": "州司法長官らは企業の所有者情報開示を大幅免除した財務省規則が2021年法に反するとして連邦裁判所に提訴した。",
+          "importance": 4,
+          "event_date": "2026-10-27",
+          "sources": [
+            {
+              "name": "Reuters",
+              "url": "https://www.reuters.com/legal/government/trump-administration-sued-over-rollback-corporate-ownership-reporting-rules-2026-10-27/"
+            }
+          ]
+        },
+        {
+          "id": "international-004",
+          "title": "米最高裁、移民裁判官による国外退去手続きの棚上げ権限を否定",
+          "summary": "米最高裁は移民裁判官の退去手続き管理権限を制限する判断を示し、移民行政の運用に影響を与える可能性がある。",
+          "importance": 4,
+          "event_date": "2026-10-27",
+          "sources": [
+            {
+              "name": "Reuters",
+              "url": "https://www.reuters.com/world/us-supreme-court-denies-immigration-judges-power-shelve-deportation-cases-2026-10-27/"
+            }
+          ]
+        },
+        {
+          "id": "international-005",
+          "title": "英国とEU、域内製品優遇『Made in Europe』の扱いを協議",
+          "summary": "英国の産業担当閣僚はEUの調達・補助制度で英国企業が不利になり得る問題を解消するため交渉を進めていると述べた。",
+          "importance": 3,
+          "event_date": "2026-10-27",
+          "sources": [
+            {
+              "name": "Reuters",
+              "url": "https://www.reuters.com/world/uk/britain-eu-finding-way-through-made-europe-concerns-uk-minister-says-2026-10-27/"
+            }
+          ]
+        },
+        {
+          "id": "international-006",
+          "title": "トランプ米大統領、『AI』の名称を政府文書から排除する意向を表明",
+          "summary": "大統領は『人工知能』の代わりに『超知能』という呼称を使うよう求めたが、正式な規則の施行は確認されていない。",
+          "importance": 2,
+          "event_date": "2026-10-27",
+          "sources": [
+            {
+              "name": "Reuters",
+              "url": "https://www.reuters.com/world/trump-says-he-will-ban-term-artificial-intelligence-2026-10-27/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "technology",
+      "name": "科学・AI・技術",
+      "importance": 5,
+      "items": [
+        {
+          "id": "technology-001",
+          "title": "米連邦選挙委員会にサイバー攻撃、政治資金の電子申告が停止",
+          "summary": "11月3日の中間選挙を控え、FECは侵入の試みに対応して申告システムを停止し、政治団体の直近の支出開示が滞った。",
+          "importance": 5,
+          "event_date": "2026-10-27",
+          "sources": [
+            {
+              "name": "Reuters",
+              "url": "https://www.reuters.com/technology/hacker-trying-breach-us-federal-election-commission-system-email-shows-2026-10-27/"
+            }
+          ]
+        },
+        {
+          "id": "technology-002",
+          "title": "Oracle、NVIDIAとのAI半導体契約拡大とGoogle製TPU採用を発表",
+          "summary": "新世代Vera Rubinの導入を大規模化する一方、Google、Cerebrasなどのチップもクラウドで提供する方針を示した。",
+          "importance": 4,
+          "event_date": "2026-10-27",
+          "sources": [
+            {
+              "name": "Reuters",
+              "url": "https://www.reuters.com/business/oracle-expands-chip-supply-deal-with-nvidia-adds-google-cerebras-offerings-2026-10-27/"
+            }
+          ]
+        },
+        {
+          "id": "technology-003",
+          "title": "HarmonicのAI、数学証明からソフト・半導体設計の検証へ拡大",
+          "summary": "AristotleモデルがC言語のソフトウェアとVerilogの半導体設計を検証できるようになったと同社が発表した。",
+          "importance": 4,
+          "event_date": "2026-10-27",
+          "sources": [
+            {
+              "name": "Reuters",
+              "url": "https://www.reuters.com/technology/robinhood-ceos-ai-startup-harmonic-expands-into-software-chip-design-2026-10-27/"
+            }
+          ]
+        },
+        {
+          "id": "technology-004",
+          "title": "大手IT企業の決算、AI投資の収益性を測る試金石に",
+          "summary": "27日付の報道は、設備投資の急拡大と市場の変動を背景に今週の大手テック企業決算への注目が高まっていると分析した。",
+          "importance": 2,
+          "event_date": "2026-10-27",
+          "sources": [
+            {
+              "name": "Reuters",
+              "url": "https://www.reuters.com/technology/big-tech-earnings-test-ai-boom-amid-market-turmoil-2026-10-27/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "health",
+      "name": "医療・公衆衛生",
+      "importance": 5,
+      "items": [
+        {
+          "id": "health-001",
+          "title": "コンゴ民主共和国のエボラ感染1万人超、死者4887人",
+          "summary": "同国公衆衛生機関が確認感染1万60人と発表し、ケニアやナイジェリアなど周辺国への拡大が懸念されている。",
+          "importance": 5,
+          "event_date": "2026-10-27",
+          "sources": [
+            {
+              "name": "Reuters",
+              "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/congos-ebola-infections-surpass-10000-government-says-2026-10-27/"
+            }
+          ]
+        },
+        {
+          "id": "health-002",
+          "title": "Bavarian Nordic、エムポックスワクチン7万5000回分を国際備蓄へ提供",
+          "summary": "デンマークのワクチンメーカーが世界的な緊急対応備蓄に追加供給すると発表した。",
+          "importance": 3,
+          "event_date": "2026-10-27",
+          "sources": [
+            {
+              "name": "Reuters",
+              "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/bavarian-nordic-donates-75000-mpox-vaccine-doses-global-emergency-stockpile-2026-10-27/"
+            }
+          ]
+        },
+        {
+          "id": "health-003",
+          "title": "米FDA、Amgenのがん治療薬広告が安全上のリスク説明不足と警告",
+          "summary": "結腸直腸がん薬の販促動画が効能を強調する一方、重大な副作用や対象患者の制限を十分示していないとして警告した。",
+          "importance": 3,
+          "event_date": "2026-10-27",
+          "sources": [
+            {
+              "name": "Reuters",
+              "url": "https://www.reuters.com/legal/litigation/fda-warns-amgen-over-cancer-drug-promotional-video-2026-10-27/"
+            }
+          ]
+        },
+        {
+          "id": "health-004",
+          "title": "カナダ政府、判断能力喪失後の医療的死亡援助を事前申請できる法案を提案",
+          "summary": "治癒困難な病気で意思決定能力を失う前の事前同意を認める制度案を示したが、成立・運用開始は未確定である。",
+          "importance": 5,
+          "event_date": "2026-10-27",
+          "sources": [
+            {
+              "name": "Reuters",
+              "url": "https://www.reuters.com/legal/litigation/canada-introduces-bill-allow-people-be-euthanized-after-they-lose-capacity-2026-10-27/"
+            }
+          ]
+        },
+        {
+          "id": "health-005",
+          "title": "Novartis、臨床試験の失敗で22億ドルの費用計上も通期見通し引き上げ",
+          "summary": "新薬開発の後退に伴う費用を計上する一方、既存事業の業績を踏まえ通期利益見通しを引き上げた。",
+          "importance": 3,
+          "event_date": "2026-10-27",
+          "sources": [
+            {
+              "name": "Reuters",
+              "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/novartis-raises-full-year-core-operating-income-guidance-2026-10-27/"
+            }
+          ]
+        },
+        {
+          "id": "health-006",
+          "title": "GSK、来年の臨床試験中のがん治療薬をほぼ倍増する計画",
+          "summary": "GSKが腫瘍領域の開発パイプライン拡充を計画していると報じられたが、各薬剤の有効性や承認は未確定である。",
+          "importance": 3,
+          "event_date": "2026-10-27",
+          "sources": [
+            {
+              "name": "Reuters",
+              "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/gsk-nearly-double-cancer-drugs-trials-wsj-reports-2026-10-27/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "environment",
+      "name": "環境・エネルギー",
+      "importance": 5,
+      "items": [
+        {
+          "id": "environment-001",
+          "title": "WMO、2025年の大気中CO2濃度が過去最高426.8ppmと発表",
+          "summary": "世界気象機関は温室効果ガス濃度が最高値を更新し、強いエルニーニョで今後さらに上昇する可能性を警告した。",
+          "importance": 5,
+          "event_date": "2026-10-27",
+          "sources": [
+            {
+              "name": "Reuters",
+              "url": "https://www.reuters.com/sustainability/cop/greenhouse-gases-hit-record-highs-further-rise-expected-with-el-nio-un-weather-2026-10-27/"
+            }
+          ]
+        },
+        {
+          "id": "environment-002",
+          "title": "国際再生可能エネルギー機関、今年のクリーン電源導入減速を予想",
+          "summary": "IRENAのトップは世界の再生可能エネルギー設備の新規導入が前年より少なくなる見通しを示した。",
+          "importance": 4,
+          "event_date": "2026-10-27",
+          "sources": [
+            {
+              "name": "Reuters",
+              "url": "https://www.reuters.com/business/energy/world-add-less-clean-energy-capacity-this-year-renewables-agency-chief-says-2026-10-27/"
+            }
+          ]
+        },
+        {
+          "id": "environment-003",
+          "title": "米政権、石油・ガス産業のメタン排出規制を緩和する方針",
+          "summary": "トランプ政権はエネルギー産業への規制負担を軽減する方針を示したが、具体的な制度変更の最終確定とは区別が必要である。",
+          "importance": 4,
+          "event_date": "2026-10-27",
+          "sources": [
+            {
+              "name": "Reuters",
+              "url": "https://www.reuters.com/legal/litigation/trump-roll-back-methane-rules-latest-texas-campaign-push-2026-10-27/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "society",
+      "name": "教育・労働・人口・文化・その他社会",
+      "importance": 4,
+      "items": [
+        {
+          "id": "society-001",
+          "title": "技能実習制度で監理団体1件の許可取消し、複数団体に改善命令",
+          "summary": "法務省・厚労省は監理団体への取消しと改善命令、受入れ企業の技能実習計画認定取消しなどを27日付で実施した。",
+          "importance": 3,
+          "event_date": "2026-10-27",
+          "sources": [
+            {
+              "name": "厚生労働省",
+              "url": "https://www.mhlw.go.jp/stf/newpage_76693.html"
+            }
+          ]
+        },
+        {
+          "id": "society-002",
+          "title": "漁業船員の最低賃金改正、かつお・まぐろ漁業で専門部会審議へ",
+          "summary": "国交省は漁業船員の最低賃金改正について専門部会を開催すると公表したが、改定額はまだ決定していない。",
+          "importance": 2,
+          "event_date": "2026-10-27",
+          "sources": [
+            {
+              "name": "国土交通省",
+              "url": "https://www.mlit.go.jp/report/press/kaiji04_hh_000406.html"
+            }
+          ]
+        },
+        {
+          "id": "society-003",
+          "title": "不登校児童生徒の健康診断、文科相が対応方針に言及",
+          "summary": "文科相の27日の会見で総務省の調査を受けた不登校の子どもの健診機会の確保が議題となったが、具体策の決定は確認できない。",
+          "importance": 3,
+          "event_date": "2026-10-27",
+          "sources": [
+            {
+              "name": "文部科学省",
+              "url": "https://www.mext.go.jp/b_menu/daijin/detail/mext_00746.html"
+            }
+          ]
+        },
+        {
+          "id": "society-004",
+          "title": "スペインの7～9月期失業率10.18％、就業者は過去最多",
+          "summary": "雇用者数が約2285万人に達する一方、労働参加の増加で失業率が上昇したと統計を基に報じられた。",
+          "importance": 3,
+          "event_date": "2026-10-27",
+          "sources": [
+            {
+              "name": "Spain Press",
+              "url": "https://spain-press.com/2026/10/27/spain-unemployment-q3-2026-rate-employment-trends/"
+            }
+          ]
+        },
+        {
+          "id": "society-005",
+          "title": "韓国の若年雇用、契約社員中心で技能形成機会が不足と報道",
+          "summary": "韓国メディアはAIによる産業構造変化と硬直的な雇用慣行を背景に、若年層の雇用の質が悪化していると報じた。",
+          "importance": 3,
+          "event_date": "2026-10-27",
+          "sources": [
+            {
+              "name": "ハンギョレ新聞",
+              "url": "https://japan.hani.co.kr/arti/economy/57495.html"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "warnings": [
+    "集計期間は2026年10月27日08:00から2026年10月28日07:58（日本時間）。国外の記事は現地27日発表・報道を含み、一部の厳密な発生時刻は未確認。",
+    "見出しが検討・提案・協議・出口調査を示す場合は正式決定や確定結果ではない。",
+    "専門紙の住宅政策報道は公開記事で確認できた範囲に限定し、会議の開催日が未確定のものは27日の報道日をevent_dateに採用。"
+  ]
+}
