@@ -1,0 +1,481 @@
+{
+  "schema_version": 1,
+  "edition_date": "2026-10-29",
+  "generated_at": "2026-10-29T08:06:55.130+09:00",
+  "window_start": "2026-10-28T08:00:00+09:00",
+  "window_end": "2026-10-29T08:06:55.130+09:00",
+  "lead": "米FRBは政策金利を3.75～4.00％で据え置き、英国は銀行課税と光熱費支援を盛り込む予算案を公表。AlphabetとMicrosoftの決算ではAIクラウド需要の拡大が鮮明になった。日本とドイツは経済安全保障・先端技術で協力を強化。イスラエル総選挙は過半数勢力が定まらず、インドのサイクロンとインドネシアの森林火災にも警戒が続く。国内では内航輸送・港湾統計、公共工事発注改革、医学研究の個人情報保護などが動いた。",
+  "sections": [
+    {
+      "id": "politics",
+      "name": "国内政治・法改正・行政",
+      "importance": 4,
+      "items": [
+        {
+          "id": "politics-001",
+          "title": "国交省、物部川・芦田川の河川整備方針と12府県の津波浸水想定変更を審議へ",
+          "summary": "国交省は10月30日の審議会で高知県の物部川、岡山・広島県の芦田川の河川整備基本方針と12府県の津波浸水想定の変更を扱うと発表した。",
+          "importance": 4,
+          "event_date": "2026-10-28",
+          "sources": [
+            {
+              "name": "国土交通省",
+              "url": "https://www.mlit.go.jp/report/press/mizukokudo01_hh_000054.html"
+            }
+          ]
+        },
+        {
+          "id": "politics-002",
+          "title": "熊本地震を受け新幹線脱線対策協議会を30日に開催",
+          "summary": "国交省は7月28日の熊本地震で生じた九州新幹線の被害を鉄道5社などと共有し、脱線対策を協議すると発表した。",
+          "importance": 3,
+          "event_date": "2026-10-28",
+          "sources": [
+            {
+              "name": "国土交通省",
+              "url": "https://www.mlit.go.jp/report/press/tetsudo07_hh_000329.html"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "economy",
+      "name": "国内経済・産業",
+      "importance": 3,
+      "items": [
+        {
+          "id": "economy-001",
+          "title": "7月の内航船舶輸送量、前年同月比7.2％増の2651万トン",
+          "summary": "国交省統計で7月の国内船舶輸送は2651万4000トンと前年同月比7.2％増、輸送トンキロは10.3％増となった。",
+          "importance": 3,
+          "event_date": "2026-10-28",
+          "sources": [
+            {
+              "name": "国土交通省",
+              "url": "https://www.mlit.go.jp/report/press/joho05_hh_000924.html"
+            }
+          ]
+        },
+        {
+          "id": "economy-002",
+          "title": "8月の主要6港の外国貿易コンテナ、前年同月比1.2％減",
+          "summary": "国交省速報で東京・横浜など主要6港の外国貿易コンテナは113万6881TEUとなり、輸出は2.0％減、輸入は0.4％減だった。",
+          "importance": 3,
+          "event_date": "2026-10-28",
+          "sources": [
+            {
+              "name": "国土交通省",
+              "url": "https://www.mlit.go.jp/report/press/joho05_hh_000923.html"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "finance",
+      "name": "金融・企業",
+      "importance": 5,
+      "items": [
+        {
+          "id": "finance-001",
+          "title": "米FRB、政策金利3.75～4.00％で据え置き、2委員が利上げ主張",
+          "summary": "米連邦公開市場委員会は10対2で政策金利据え置きを決め、インフレがなお高いとして追加情報を見極める姿勢を示した。",
+          "importance": 5,
+          "event_date": "2026-10-28",
+          "sources": [
+            {
+              "name": "米連邦準備制度理事会",
+              "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261028a.htm"
+            },
+            {
+              "name": "Reuters",
+              "url": "https://www.investing.com/news/economy-news/fed-holds-rates-steady-as-it-awaits-accumulation-of-more-information-4980411"
+            }
+          ],
+          "context": "前回9月の利上げ後、エネルギー価格とインフレの見通しが金融政策の焦点となっている。",
+          "impact": "米長期金利やドル相場、新興国の資金調達条件に波及し得る。"
+        },
+        {
+          "id": "finance-002",
+          "title": "英国が2026年予算案発表、銀行利益課税を一時6％へ引き上げ",
+          "summary": "英国政府は銀行利益への上乗せ課税を15か月間6％に引き上げ、約2000万世帯への100ポンドの光熱費支援などを盛り込んだ予算案を示した。",
+          "importance": 5,
+          "event_date": "2026-10-28",
+          "sources": [
+            {
+              "name": "英国財務省",
+              "url": "https://www.gov.uk/government/publications/budget-2026-document"
+            },
+            {
+              "name": "Reuters",
+              "url": "https://uk.marketscreener.com/news/key-measures-in-uk-finance-minister-healey-s-first-budget-ce785cd2d08af12d"
+            }
+          ],
+          "context": "中東紛争に伴うエネルギー高と英国債利回り上昇が財政余力を圧迫している。",
+          "impact": "銀行の税負担と家計のエネルギー負担、財政への市場信認に影響する。"
+        },
+        {
+          "id": "finance-003",
+          "title": "Alphabet7～9月売上高25％増、Google Cloudは103％増",
+          "summary": "Alphabetは7～9月期売上高1276億ドル、Google Cloud売上高307億ドルを公表し、AIインフラとTPU需要が成長を支えた。",
+          "importance": 5,
+          "event_date": "2026-10-28",
+          "sources": [
+            {
+              "name": "Alphabet米SEC提出資料",
+              "url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000080/googexhibit991q32026.htm"
+            }
+          ]
+        },
+        {
+          "id": "finance-004",
+          "title": "Microsoft7～9月売上高19％増、Azure売上高48％増",
+          "summary": "Microsoftは7～9月期売上高923億ドル、Microsoft Cloud売上高639億ドルを公表し、Azureは前年同期比48％増となった。",
+          "importance": 5,
+          "event_date": "2026-10-28",
+          "sources": [
+            {
+              "name": "Microsoft投資家向け発表",
+              "url": "https://www.microsoft.com/en-us/investor/earnings/fy-2027-q1/press-release-webcast"
+            }
+          ]
+        },
+        {
+          "id": "finance-005",
+          "title": "SKハイニックス、AIメモリー需要で四半期営業利益が急増",
+          "summary": "韓国SKハイニックスの四半期営業利益は83兆3300億ウォンと報じられ、高帯域幅メモリー需要の強さが半導体市況を押し上げた。",
+          "importance": 4,
+          "event_date": "2026-10-28",
+          "sources": [
+            {
+              "name": "Financial Times",
+              "url": "https://www.ft.com/content/44c35ed7-aa46-4d45-91f5-2773f00ae6be"
+            }
+          ]
+        },
+        {
+          "id": "finance-006",
+          "title": "ニデック、監査意見付き訂正報告書の提出目標を達成できず",
+          "summary": "ニデックは会計問題の追加調査が続くため10月28日までの監査意見付き訂正財務報告書提出を断念し、東証への内部統制報告を予定すると発表した。",
+          "importance": 4,
+          "event_date": "2026-10-28",
+          "sources": [
+            {
+              "name": "Reuters",
+              "url": "https://www.reuters.com/world/asia-pacific/japans-nidec-likely-miss-audit-opinion-by-month-end-nikkei-says-2026-10-28/"
+            }
+          ]
+        },
+        {
+          "id": "finance-007",
+          "title": "ノルウェーEquinor、原油・ガス高で四半期税引前調整利益が倍増",
+          "summary": "Equinorの7～9月期調整後税引前利益は前年同期62億ドルから124億ドルに増え、通年生産増加見通しも4％へ引き上げた。",
+          "importance": 4,
+          "event_date": "2026-10-28",
+          "sources": [
+            {
+              "name": "Reuters",
+              "url": "https://www.reuters.com/business/equinor-profit-jumps-middle-east-war-lifts-oil-gas-prices-2026-10-28/"
+            }
+          ]
+        },
+        {
+          "id": "finance-008",
+          "title": "仏ダッソー・システムズ、7～9月増収で通期成長率見通し引き上げ",
+          "summary": "同社は四半期売上高が5％増の15億5000万ユーロとなり、2026年通期売上高成長率の見通しを4～5％へ上方修正した。",
+          "importance": 3,
+          "event_date": "2026-10-28",
+          "sources": [
+            {
+              "name": "Reuters",
+              "url": "https://www.reuters.com/technology/dassault-systmes-raises-2026-growth-target-2026-10-28/"
+            }
+          ]
+        },
+        {
+          "id": "finance-009",
+          "title": "インドルピー、原油高を背景に対ドルで小幅下落",
+          "summary": "原油輸入への依存度が高いインドで、28日のルピーは対ドル95.19付近に下落し、国営銀行のドル売りが下落を抑えたと報じられた。",
+          "importance": 3,
+          "event_date": "2026-10-28",
+          "sources": [
+            {
+              "name": "Reuters",
+              "url": "https://www.reuters.com/world/india/weakness-across-asian-fx-before-fed-decision-put-mild-pressure-rupee-2026-10-28/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "realestate",
+      "name": "不動産・住宅・建設",
+      "importance": 3,
+      "items": [
+        {
+          "id": "realestate-001",
+          "title": "公共工事の入札・発注改革、コストプラスフィー契約を国交省が検討",
+          "summary": "国交省は11月2日の作業部会で地方自治体の公共工事発注制度とオープンブック・コストプラスフィー契約を議論すると発表した。",
+          "importance": 3,
+          "event_date": "2026-10-28",
+          "sources": [
+            {
+              "name": "国土交通省",
+              "url": "https://www.mlit.go.jp/report/press/tochi_fudousan_kensetsugyo13_hh_000001_00366.html"
+            }
+          ]
+        },
+        {
+          "id": "realestate-002",
+          "title": "国交省、自動二輪車駐車場の附置義務など自治体事例集を公表",
+          "summary": "市街地で不足しやすい二輪車・原付の駐車スペース確保を支援するため、国交省が自治体の附置義務や整備事例をまとめた。",
+          "importance": 2,
+          "event_date": "2026-10-28",
+          "sources": [
+            {
+              "name": "国土交通省",
+              "url": "https://www.mlit.go.jp/report/press/toshi09_hh_000146.html"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "international",
+      "name": "外交・国際情勢",
+      "importance": 5,
+      "items": [
+        {
+          "id": "international-001",
+          "title": "日独首脳、経済安全保障と先端技術協力の共同宣言を発表",
+          "summary": "高市首相とメルツ独首相は東京で会談し、AI・重要鉱物・防衛産業などで協力を深める共同声明・宣言を発表した。",
+          "importance": 5,
+          "event_date": "2026-10-28",
+          "sources": [
+            {
+              "name": "外務省",
+              "url": "https://www.mofa.go.jp/erp/erp_2/de/pageite_000001_01890.html"
+            },
+            {
+              "name": "時事通信",
+              "url": "https://www.nippon.com/en/articles/-/56502"
+            }
+          ]
+        },
+        {
+          "id": "international-002",
+          "title": "イスラエル総選挙の開票進むも、主要陣営は過半数に届かず",
+          "summary": "28日の開票途中でネタニヤフ首相陣営とアイゼンコット氏の陣営はともに議会過半数の61議席に届かず、連立交渉が焦点となった。",
+          "importance": 5,
+          "event_date": "2026-10-28",
+          "sources": [
+            {
+              "name": "Reuters",
+              "url": "https://www.reuters.com/world/middle-east/netanyahu-eisenkot-stake-rival-claims-lead-israel-after-deadlocked-vote-2026-10-28/"
+            },
+            {
+              "name": "AP通信",
+              "url": "https://apnews.com/article/52c6f5a0a720a4ffc08633229e796415"
+            }
+          ],
+          "context": "最終議席確定前の暫定的な集計と予測であり、首相指名は未決定。",
+          "impact": "政権交渉の長期化や中東の安全保障政策に影響する可能性がある。"
+        },
+        {
+          "id": "international-003",
+          "title": "米政権、輸入ロボット・産業機械に安保上の懸念認定も追加関税は見送り",
+          "summary": "トランプ政権は輸入ロボットなどを安全保障上のリスクと認定したが即時関税を課さず、貿易相手国との協議と180日後の報告を指示した。",
+          "importance": 4,
+          "event_date": "2026-10-28",
+          "sources": [
+            {
+              "name": "Reuters",
+              "url": "https://www.reuters.com/world/china/trump-says-imported-robotics-pose-national-security-risks-does-not-impose-2026-10-28/"
+            }
+          ]
+        },
+        {
+          "id": "international-004",
+          "title": "日本とデンマーク、海事産業の強靱化・脱炭素化で協力覚書を更新",
+          "summary": "両国海事当局は海運・造船分野の強靱化と脱炭素化を盛り込んだ協力覚書に署名したと国交省が28日に発表した。",
+          "importance": 3,
+          "event_date": "2026-10-28",
+          "sources": [
+            {
+              "name": "国土交通省",
+              "url": "https://www.mlit.go.jp/report/press/kaiji01_hh_000599.html"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "technology",
+      "name": "科学・AI・技術",
+      "importance": 5,
+      "items": [
+        {
+          "id": "technology-001",
+          "title": "OpenAIがGoogle製AIチップ購入を計画と報道、両社は詳細を公表せず",
+          "summary": "The InformationはOpenAIがGoogleのTPUを購入する計画だと報じ、ReutersはOpenAIがコメントを控えたと伝えた。",
+          "importance": 4,
+          "event_date": "2026-10-28",
+          "sources": [
+            {
+              "name": "Reuters",
+              "url": "https://www.reuters.com/business/openai-plans-buy-googles-ai-chips-information-reports-2026-10-28/"
+            }
+          ]
+        },
+        {
+          "id": "technology-002",
+          "title": "米連邦選挙委員会、サイバー攻撃で約41時間停止した政治資金申告システムを復旧",
+          "summary": "米FECは侵入への対処で停止していた電子申告システムを28日夜に復旧させたが、選挙直前の大口政治支出の開示が一時滞った。",
+          "importance": 5,
+          "event_date": "2026-10-28",
+          "sources": [
+            {
+              "name": "Reuters",
+              "url": "https://www.reuters.com/world/us/cyberattack-concealed-political-spending-by-big-donors-before-us-midterm-2026-10-28/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "health",
+      "name": "医療・公衆衛生",
+      "importance": 4,
+      "items": [
+        {
+          "id": "health-001",
+          "title": "米政府、未承認ペプチド6種の調剤を暫定容認する方針を公表",
+          "summary": "米保健当局はBPC-157など6種について一定条件下での調剤に執行裁量を適用する方針を示したが、FDAが安全性や有効性を承認したわけではない。",
+          "importance": 4,
+          "event_date": "2026-10-28",
+          "sources": [
+            {
+              "name": "Reuters",
+              "url": "https://www.reuters.com/legal/litigation/us-health-department-allow-temporary-sale-some-unapproved-peptides-2026-10-28/"
+            }
+          ]
+        },
+        {
+          "id": "health-002",
+          "title": "米国で更年期治療用エストロゲン製剤の不足が貼付薬以外にも拡大",
+          "summary": "米国では需要急増により貼付薬に加え注射薬や膣用クリームでも供給不足が報告され、製薬会社が生産拡大を進めている。",
+          "importance": 3,
+          "event_date": "2026-10-28",
+          "sources": [
+            {
+              "name": "Reuters",
+              "url": "https://www.reuters.com/legal/litigation/us-estrogen-supply-crunch-widens-women-seek-alternatives-scarce-patches-2026-10-28/"
+            }
+          ]
+        },
+        {
+          "id": "health-003",
+          "title": "厚労省、生命科学・医学研究の個人情報取扱い指針を再検討へ",
+          "summary": "厚労省は個人情報保護制度の見直しを踏まえ、生命科学・医学系研究倫理指針の検討を行うタスクフォースの初会合を30日に開くと発表した。",
+          "importance": 3,
+          "event_date": "2026-10-28",
+          "sources": [
+            {
+              "name": "厚生労働省",
+              "url": "https://www.mhlw.go.jp/stf/newpage_76975.html"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "environment",
+      "name": "環境・エネルギー・気象",
+      "importance": 5,
+      "items": [
+        {
+          "id": "environment-001",
+          "title": "サイクロンArnabがインド東岸に上陸、住民の大規模避難と交通混乱",
+          "summary": "インド東部アンドラプラデシュ州などで強いサイクロンが上陸し、住民の避難、停電、列車・航空便の運休が発生した。",
+          "importance": 5,
+          "event_date": "2026-10-28",
+          "sources": [
+            {
+              "name": "AP通信",
+              "url": "https://apnews.com/article/96277efc4371cf379c24b7694dfa9f62"
+            },
+            {
+              "name": "Reuters",
+              "url": "https://www.reuters.com/business/environment/cyclone-arnab-begins-making-landfall-indias-andhra-pradesh-state-2026-10-27/"
+            }
+          ]
+        },
+        {
+          "id": "environment-002",
+          "title": "インドネシア、11年ぶり規模の森林火災と煙害で学生らが抗議",
+          "summary": "エルニーニョで悪化した森林・泥炭地火災が国内外の大気汚染と呼吸器疾患につながり、ジャカルタなどで政府対応を問う抗議が行われた。",
+          "importance": 4,
+          "event_date": "2026-10-28",
+          "sources": [
+            {
+              "name": "Reuters",
+              "url": "https://www.reuters.com/world/asia-pacific/indonesian-students-protest-over-forest-fires-prabowo-policies-2026-10-28/"
+            }
+          ]
+        },
+        {
+          "id": "environment-003",
+          "title": "サウジ製油所への攻撃主張で原油先物が約1％上昇",
+          "summary": "フーシ派がサウジの大規模製油所へのミサイル攻撃を主張し、ブレント原油は一時1バレル115ドル台に上昇したが、攻撃のサウジ側確認は得られていない。",
+          "importance": 4,
+          "event_date": "2026-10-28",
+          "sources": [
+            {
+              "name": "Reuters",
+              "url": "https://www.reuters.com/world/asia-pacific/oil-prices-rise-after-attack-saudi-arabian-refinery-reignites-supply-concerns-2026-10-28/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "society",
+      "name": "教育・労働・人口・文化・その他社会",
+      "importance": 5,
+      "items": [
+        {
+          "id": "society-001",
+          "title": "中国、65歳以上の扶養対象人口が子どもを初めて上回る",
+          "summary": "中国で高齢人口の扶養負担が子どもの扶養負担を上回る人口構造の転換が報じられ、年金・医療・労働力への中長期的影響が注目される。",
+          "importance": 5,
+          "event_date": "2026-10-28",
+          "sources": [
+            {
+              "name": "Reuters",
+              "url": "https://www.reuters.com/world/china/chinas-old-age-dependency-ratio-overtakes-children-first-time-2026-10-28/"
+            }
+          ]
+        },
+        {
+          "id": "society-002",
+          "title": "厚労省、入管法違反で罰金刑確定の企業の派遣・職業紹介許可を取消し",
+          "summary": "厚労省は入管法違反による欠格事由に該当した三重県の株式会社INCについて、労働者派遣事業と有料職業紹介事業の許可を28日付で取り消した。",
+          "importance": 2,
+          "event_date": "2026-10-28",
+          "sources": [
+            {
+              "name": "厚生労働省",
+              "url": "https://www.mhlw.go.jp/stf/newpage_76850.html"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "warnings": [
+    "海外記事の発生日は現地日付に基づくものがあり、日本時間の厳密な発生時刻は全件で確認できていない。",
+    "イスラエル選挙は暫定集計、米ロボット関税は協議段階、OpenAIのTPU購入は報道段階であり確定した実施とは区別した。",
+    "サウジ製油所への攻撃主張についてサウジ当局による独立した確認は得られていない。"
+  ]
+}
