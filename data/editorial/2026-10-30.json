@@ -1,0 +1,560 @@
+{
+  "schema_version": 1,
+  "edition_date": "2026-10-30",
+  "generated_at": "2026-10-30T08:01:47.455+09:00",
+  "window_start": "2026-10-29T08:00:00+09:00",
+  "window_end": "2026-10-30T08:00:00+09:00",
+  "lead": "欧州中央銀行は政策金利を据え置き、ラガルド総裁が任期途中の退任を表明。米国ではGDP年率3.4％増とPCE物価前年比3.6％上昇が同時に判明し、AI設備投資の資金負担を巡ってAmazonやMicrosoftの動きが注目された。国内では外為特会の剰余金活用案、重点分野向け公的融資支援、浜岡原発に伴う中部電力の巨額損失が公表された。北朝鮮のミサイル発射、ウクライナへの攻撃、スペインの高速鉄道事故も重大なニュースとなった。",
+  "sections": [
+    {
+      "id": "politics",
+      "name": "国内政治・法改正・行政",
+      "importance": 5,
+      "items": [
+        {
+          "id": "politics-001",
+          "title": "政府経済財政諮問会議の民間議員、外為特会剰余金の歳出活用を提言",
+          "summary": "外貨準備の為替変動対応力を確保しながら外為特会の剰余金を財源に充てる案を民間議員が提示し、食料品消費税減税などの財源論に影響する可能性がある。",
+          "importance": 5,
+          "event_date": "2026-10-29",
+          "sources": [
+            {
+              "name": "Reuters",
+              "url": "https://www.reuters.com/world/asia-pacific/japan-advisers-urge-tapping-foreign-exchange-account-surplus-fund-spending-2026-10-29/"
+            }
+          ]
+        },
+        {
+          "id": "politics-002",
+          "title": "国交省、老朽港湾施設の維持管理方針を今後5年間で見直しへ",
+          "summary": "港湾施設の劣化と管理者の人員・予算制約を踏まえ、2026～2030年度の維持管理対応方針を策定する検討を11月5日に行うと発表した。",
+          "importance": 3,
+          "event_date": "2026-10-29",
+          "sources": [
+            {
+              "name": "国土交通省",
+              "url": "https://www.mlit.go.jp/report/press/port05_hh_000464.html"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "economy",
+      "name": "国内経済・産業",
+      "importance": 4,
+      "items": [
+        {
+          "id": "economy-001",
+          "title": "政府、半導体・AIなど重点分野への民間融資を公的に後押しする制度を検討",
+          "summary": "日本政策金融公庫から民間銀行への資金供給拡充や損失補償を通じ、17の重点分野の大型設備投資・買収を支援する案が示された。",
+          "importance": 4,
+          "event_date": "2026-10-29",
+          "sources": [
+            {
+              "name": "Reuters",
+              "url": "https://www.reuters.com/world/asia-pacific/japan-weighs-government-backed-bank-lending-scheme-spur-strategic-investment-2026-10-29/"
+            }
+          ]
+        },
+        {
+          "id": "economy-002",
+          "title": "8月の国内線旅客数は前年同月比3.3％減、国際線も3.5％減",
+          "summary": "国交省の航空輸送統計速報では国内定期航空旅客が1,053万6千人、国際航空旅客が194万7千人で、ともに前年同月を下回った。",
+          "importance": 3,
+          "event_date": "2026-10-29",
+          "sources": [
+            {
+              "name": "国土交通省",
+              "url": "https://www.mlit.go.jp/report/press/joho05_hh_000926.html"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "finance",
+      "name": "金融・企業",
+      "importance": 5,
+      "items": [
+        {
+          "id": "finance-001",
+          "title": "ECB、預金ファシリティ金利2.50％を据え置き、エネルギー高の物価リスクを警戒",
+          "summary": "欧州中央銀行は政策金利を据え置き、エネルギー価格上昇と資金調達条件の引き締まりが物価・成長双方に影響すると説明した。",
+          "importance": 5,
+          "event_date": "2026-10-29",
+          "sources": [
+            {
+              "name": "欧州中央銀行",
+              "url": "https://www.ecb.europa.eu/press/pr/date/2026/html/ecb.mp261029~9a493adf17.mt.html"
+            },
+            {
+              "name": "Reuters",
+              "url": "https://www.reuters.com/business/ecb-keeps-rates-unchanged-points-mounting-inflation-risk-2026-10-29/"
+            }
+          ]
+        },
+        {
+          "id": "finance-002",
+          "title": "ECBラガルド総裁、任期途中の2027年2月7日付退任を発表",
+          "summary": "2027年10月までの任期を約8か月残して退任する方針を表明し、ユーロ圏の金融政策運営と後任人事に注目が集まる。",
+          "importance": 5,
+          "event_date": "2026-10-29",
+          "sources": [
+            {
+              "name": "Reuters",
+              "url": "https://www.reuters.com/business/finance/ecb-president-lagarde-resigns-effective-feb-7-2026-10-29/"
+            }
+          ]
+        },
+        {
+          "id": "finance-003",
+          "title": "米7～9月期実質GDP速報、年率3.4％増に加速",
+          "summary": "米商務省は第3四半期の実質GDPが前期の2.2％増から3.4％増に加速し、設備投資と個人消費などが成長を支えたと発表した。",
+          "importance": 5,
+          "event_date": "2026-10-29",
+          "sources": [
+            {
+              "name": "米商務省BEA",
+              "url": "https://www.bea.gov/news/2026/gdp-advance-estimate-3rd-quarter-2026"
+            },
+            {
+              "name": "AP通信",
+              "url": "https://apnews.com/article/ca48d86b723cc52fe14d142ee033316a"
+            }
+          ]
+        },
+        {
+          "id": "finance-004",
+          "title": "米9月PCE物価は前年比3.6％上昇、コア3.1％",
+          "summary": "米商務省の9月個人所得・支出統計でPCE物価指数は前月比0.5％、前年比3.6％上昇し、FRBの2％目標を上回った。",
+          "importance": 5,
+          "event_date": "2026-10-29",
+          "sources": [
+            {
+              "name": "米商務省BEA",
+              "url": "https://www.bea.gov/news/2026/personal-income-and-outlays-september-2026"
+            },
+            {
+              "name": "Reuters",
+              "url": "https://www.reuters.com/business/us-inflation-heats-up-september-consumer-spending-rises-2026-10-29/"
+            }
+          ]
+        },
+        {
+          "id": "finance-005",
+          "title": "Amazon、AWS売上39％増もAI投資で年間フリーキャッシュフローが大幅マイナス",
+          "summary": "7～9月期AWS売上高は460億ドルに伸びた一方、巨額設備投資で過去12か月のキャッシュ流出は424億ドルとなり、株価は時間外で下落した。",
+          "importance": 5,
+          "event_date": "2026-10-29",
+          "sources": [
+            {
+              "name": "Reuters",
+              "url": "https://www.reuters.com/business/retail-consumer/amazon-projects-fourth-quarter-sales-below-estimates-2026-10-29/"
+            }
+          ]
+        },
+        {
+          "id": "finance-006",
+          "title": "Microsoft、AI設備投資資金として約250億ドルの米社債発行を計画",
+          "summary": "Microsoftは米国債券市場で約9年ぶりの大規模起債を計画し、発行規模は約250億ドル、投資家需要は1,000億ドル超と報じられた。",
+          "importance": 4,
+          "event_date": "2026-10-29",
+          "sources": [
+            {
+              "name": "Reuters",
+              "url": "https://www.reuters.com/business/finance/microsoft-expects-raise-25-billion-us-bond-sale-source-says-2026-10-29/"
+            }
+          ]
+        },
+        {
+          "id": "finance-007",
+          "title": "DoorDash、食品宅配Instacartを約170億ドルで買収することで合意",
+          "summary": "DoorDashは食料品配送を強化する大型買収を発表したが、競争当局と株主の承認が必要で、完了は2027年末以降の見通し。",
+          "importance": 4,
+          "event_date": "2026-10-29",
+          "sources": [
+            {
+              "name": "Reuters",
+              "url": "https://www.reuters.com/legal/transactional/doordash-strikes-17-billion-deal-us-rival-instacart-bets-grocery-delivery-2026-10-29/"
+            },
+            {
+              "name": "AP通信",
+              "url": "https://apnews.com/article/d6f30f5d18c288eeba6babcb49260e06"
+            }
+          ]
+        },
+        {
+          "id": "finance-008",
+          "title": "Intel、PC需要低迷とイスラエル工場事故で10～12月期売上予想が市場予想下回る",
+          "summary": "Intelは第4四半期売上高を150億～160億ドルと予想し、メモリー高とイスラエル工場事故による生産影響を示した。",
+          "importance": 4,
+          "event_date": "2026-10-29",
+          "sources": [
+            {
+              "name": "Reuters",
+              "url": "https://www.reuters.com/business/intel-signals-slower-growth-pc-market-remains-under-pressure-2026-10-29/"
+            }
+          ]
+        },
+        {
+          "id": "finance-009",
+          "title": "Samsung電子、AIメモリー需要で四半期営業利益が急拡大",
+          "summary": "Samsung電子は7～9月期の営業利益が前年の12.2兆ウォンから107.4兆ウォンに増加したと報じられ、HBM供給不足の継続を見込んだ。",
+          "importance": 4,
+          "event_date": "2026-10-29",
+          "sources": [
+            {
+              "name": "Reuters",
+              "url": "https://www.reuters.com/world/china/samsung-posts-record-profit-q3-ai-chip-boom-2026-10-29/"
+            }
+          ]
+        },
+        {
+          "id": "finance-010",
+          "title": "STMicroelectronics、データセンター関連の2026年売上見通しを13億ドルに引き上げ",
+          "summary": "半導体大手はシリコンフォトニクスなどの需要を背景にデータセンター売上高見通しを上方修正し、供給制約への対応を進める。",
+          "importance": 3,
+          "event_date": "2026-10-29",
+          "sources": [
+            {
+              "name": "Reuters",
+              "url": "https://www.reuters.com/business/retail-consumer/stmicro-beats-q3-profit-estimates-sees-q4-sales-above-4-billion-2026-10-29/"
+            }
+          ]
+        },
+        {
+          "id": "finance-011",
+          "title": "米株主要指数、AI投資の採算懸念で下落",
+          "summary": "米株市場では大手テック企業の設備投資負担と決算内容が警戒され、主要指数が下落した。",
+          "importance": 3,
+          "event_date": "2026-10-29",
+          "sources": [
+            {
+              "name": "Reuters",
+              "url": "https://www.reuters.com/business/nasdaq-futures-slide-mixed-big-tech-results-test-ai-trade-2026-10-29/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "realestate",
+      "name": "不動産・住宅・建設",
+      "importance": 5,
+      "items": [
+        {
+          "id": "realestate-001",
+          "title": "欧州商業不動産の取引低迷深刻化、オフィス取引は金融危機以来の低水準",
+          "summary": "金利上昇と借換負担を背景に7～9月期の欧州商業不動産売買額は430億ユーロとなり、売買価格の再交渉や開発計画の停止が増えている。",
+          "importance": 5,
+          "event_date": "2026-10-29",
+          "sources": [
+            {
+              "name": "Reuters",
+              "url": "https://www.reuters.com/business/finance/european-property-slump-deepens-borrowing-costs-force-price-cuts-2026-10-29/"
+            }
+          ]
+        },
+        {
+          "id": "realestate-002",
+          "title": "米30年固定住宅ローン金利7.24％、2週連続で低下",
+          "summary": "Freddie Macの週間調査で30年固定金利は前週の7.32％から7.24％へ低下したが、前年同時期の6.17％を上回る。",
+          "importance": 3,
+          "event_date": "2026-10-29",
+          "sources": [
+            {
+              "name": "Freddie Mac",
+              "url": "https://www.freddiemac.com/pmms"
+            },
+            {
+              "name": "AP通信",
+              "url": "https://apnews.com/article/c16efd39547105676a54b795cc389c98"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "international",
+      "name": "外交・国際情勢",
+      "importance": 5,
+      "items": [
+        {
+          "id": "international-001",
+          "title": "北朝鮮、日本海に短距離弾道ミサイル約10発を発射",
+          "summary": "韓国軍は元山付近から約250キロ飛行するミサイルを捕捉し、日本政府は日本のEEZ内への落下や被害を確認していないと説明した。",
+          "importance": 4,
+          "event_date": "2026-10-29",
+          "sources": [
+            {
+              "name": "Reuters",
+              "url": "https://www.reuters.com/world/asia-pacific/north-korea-fires-projectile-toward-sea-off-east-coast-south-korea-military-says-2026-10-29/"
+            },
+            {
+              "name": "FNN",
+              "url": "https://www.fnn.jp/articles/-/1142268"
+            }
+          ]
+        },
+        {
+          "id": "international-002",
+          "title": "ロシアのウクライナ各地への攻撃で少なくとも19人死亡、ドニプロ駅で14人",
+          "summary": "ウクライナ当局によるとロシア軍の無人機・ミサイル攻撃が鉄道駅や住宅地などに及び、民間人の死傷者が相次いだ。",
+          "importance": 5,
+          "event_date": "2026-10-29",
+          "sources": [
+            {
+              "name": "Reuters",
+              "url": "https://www.reuters.com/world/europe/russian-drone-attack-train-station-kills-13-ukraines-dnipro-2026-10-29/"
+            }
+          ]
+        },
+        {
+          "id": "international-003",
+          "title": "ロイター調査、イラン国防関連の隠れた調達網が制裁を回避して軍民両用品を輸入",
+          "summary": "ロイターは国防省関連とみられる5,000超の機関の取引記録を調査し、2025年以降少なくとも20億ドルの軍事・軍民両用品の輸入を報じた。",
+          "importance": 5,
+          "event_date": "2026-10-29",
+          "sources": [
+            {
+              "name": "Reuters",
+              "url": "https://www.reuters.com/world/iran/irans-hidden-web-military-agencies-is-slipping-hardware-past-us-blockade-2026-10-29/"
+            }
+          ]
+        },
+        {
+          "id": "international-004",
+          "title": "ドイツ大統領、中国に対し欧州との貿易不均衡と重要原料の供給制限の是正を要請",
+          "summary": "中国訪問中のシュタインマイヤー独大統領は、補助金付き輸出や市場アクセス制限が欧州の産業基盤を脅かすとして対等な関係を求めた。",
+          "importance": 4,
+          "event_date": "2026-10-29",
+          "sources": [
+            {
+              "name": "Reuters",
+              "url": "https://www.reuters.com/world/china/germanys-steinmeier-says-china-must-avoid-one-sided-benefits-economic-ties-2026-10-29/"
+            }
+          ]
+        },
+        {
+          "id": "international-005",
+          "title": "日ASEANスマートシティ高級実務者会合、11月末に滋賀県大津市で開催へ",
+          "summary": "国交省は11月30日～12月1日にASEAN各国・都市と都市デジタル化や官民連携を議論する会合を開催すると発表した。",
+          "importance": 2,
+          "event_date": "2026-10-29",
+          "sources": [
+            {
+              "name": "国土交通省",
+              "url": "https://www.mlit.go.jp/report/press/sogo07_hh_000827.html"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "technology",
+      "name": "科学・AI・技術",
+      "importance": 4,
+      "items": [
+        {
+          "id": "technology-001",
+          "title": "仏Mistral、組織内で実行できる公開AIモデル「Large 4」を発表",
+          "summary": "サイバー脆弱性の発見・修正を主な用途とし、企業が自社環境で運用できるモデルを公開したが、安全性と悪用リスクの両面が課題となる。",
+          "importance": 4,
+          "event_date": "2026-10-29",
+          "sources": [
+            {
+              "name": "Reuters",
+              "url": "https://www.reuters.com/legal/litigation/mistral-ai-publicly-releases-large-4-targets-cybersecurity-users-2026-10-29/"
+            }
+          ]
+        },
+        {
+          "id": "technology-002",
+          "title": "国交省、排水機場ポンプの故障予測AI開発に5グループを採択",
+          "summary": "ポンプ設備の異常検知と寿命予測の研究開発に建設技術研究所・クボタ・NECなどを含む5組を選定し、インフラ保守の省人化を目指す。",
+          "importance": 3,
+          "event_date": "2026-10-29",
+          "sources": [
+            {
+              "name": "国土交通省",
+              "url": "https://www.mlit.go.jp/report/press/kanbo08_hh_001371.html"
+            }
+          ]
+        },
+        {
+          "id": "technology-003",
+          "title": "国交省、道路政策向けの実行可能性調査・短期研究3件を採択",
+          "summary": "道路行政の技術課題に対する8件の応募から3件を採択し、研究開発の実用化可能性を検証する。",
+          "importance": 2,
+          "event_date": "2026-10-29",
+          "sources": [
+            {
+              "name": "国土交通省",
+              "url": "https://www.mlit.go.jp/report/press/road01_hh_002166.html"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "health",
+      "name": "医療・公衆衛生",
+      "importance": 4,
+      "items": [
+        {
+          "id": "health-001",
+          "title": "米FDA、乳児用調製粉乳の栄養基準改定案を公表",
+          "summary": "FDAは約30年ぶりの包括見直しの第一段階として必須栄養素30項目のうち8項目の規格更新・再確認を提案し、意見募集を始めた。",
+          "importance": 4,
+          "event_date": "2026-10-29",
+          "sources": [
+            {
+              "name": "米FDA",
+              "url": "https://www.fda.gov/food/infant-formula-homepage/infant-formula-notice-proposed-rulemaking-infant-formula-nutrient-requirements"
+            },
+            {
+              "name": "Reuters",
+              "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/us-fda-proposes-new-nutrient-limits-labeling-rules-infant-formula-2026-10-29/"
+            }
+          ]
+        },
+        {
+          "id": "health-002",
+          "title": "Eli Lilly、肥満症・糖尿病薬の販売拡大で四半期売上約244億ドル",
+          "summary": "MounjaroとZepboundの需要を受けて7～9月期売上高が前年同期比約40％増となり、通期売上見通しを引き上げた。",
+          "importance": 3,
+          "event_date": "2026-10-29",
+          "sources": [
+            {
+              "name": "Financial Times",
+              "url": "https://www.ft.com/content/5a3eaa0a-c903-4d41-bc7c-c3e5b8ef773c"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "energy",
+      "name": "環境・エネルギー・気象",
+      "importance": 5,
+      "items": [
+        {
+          "id": "energy-001",
+          "title": "カタール国営エネルギー会社、ホルムズ海峡の供給障害に備え米国産LNGを長期調達",
+          "summary": "QatarEnergyはWoodsideなどから年700万トン規模のLNGを長期調達する契約を進め、海峡封鎖時の供給途絶リスクに備える。",
+          "importance": 5,
+          "event_date": "2026-10-29",
+          "sources": [
+            {
+              "name": "Reuters",
+              "url": "https://www.reuters.com/business/energy/qatarenergy-buys-us-other-lng-hedge-future-hormuz-disruptions-2026-10-29/"
+            },
+            {
+              "name": "Reuters",
+              "url": "https://www.reuters.com/business/energy/australias-woodside-supply-qatarenergy-with-louisiana-lng-20-year-deal-2026-10-29/"
+            }
+          ]
+        },
+        {
+          "id": "energy-002",
+          "title": "ShellとTotalEnergies、原油高と精製マージン上昇で2022年以来の高収益",
+          "summary": "Shellの7～9月期調整後利益は108億ドル、TotalEnergiesは91億ドルとなり、両社が株主還元を拡大した。",
+          "importance": 4,
+          "event_date": "2026-10-29",
+          "sources": [
+            {
+              "name": "Reuters",
+              "url": "https://www.reuters.com/business/energy/shell-beats-expectations-with-108-billion-third-quarter-profit-2026-10-29/"
+            }
+          ]
+        },
+        {
+          "id": "energy-003",
+          "title": "中部電力、浜岡原発の資産減損等3,800億円を計上し通期2150億円赤字予想",
+          "summary": "地震動評価の不適切事案で3・4号機の審査申請を取り下げた影響を受け、原子力事業の特別損失計上と2027年3月期予想の大幅下方修正を発表した。",
+          "importance": 5,
+          "event_date": "2026-10-29",
+          "sources": [
+            {
+              "name": "中部電力",
+              "url": "https://www.chuden.co.jp/publicity/press/1218578_3273.html"
+            },
+            {
+              "name": "Reuters",
+              "url": "https://www.reuters.com/world/asia-pacific/chubu-electric-warns-record-fy26-loss-due-hefty-charges-2026-10-29/"
+            }
+          ]
+        },
+        {
+          "id": "energy-004",
+          "title": "米サバンナリバー核施設で火災、作業員1人負傷も汚染報告なし",
+          "summary": "米エネルギー省によるとサウスカロライナ州の核関連施設で火災が発生し、軽傷者1人が出たが消火され、放射性汚染は確認されていない。",
+          "importance": 2,
+          "event_date": "2026-10-29",
+          "sources": [
+            {
+              "name": "Reuters",
+              "url": "https://www.reuters.com/world/us/one-injured-fire-south-carolina-nuclear-site-no-contamination-reported-2026-10-29/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "society",
+      "name": "教育・労働・人口・文化・その他社会",
+      "importance": 5,
+      "items": [
+        {
+          "id": "society-001",
+          "title": "スペイン高速鉄道衝突事故、死者69人に増加し安全装置と運行指示を調査",
+          "summary": "トレド県の列車衝突事故で救助・捜索が続き、信号システムの障害と赤信号下での運行再開指示の経緯を当局が調べている。",
+          "importance": 5,
+          "event_date": "2026-10-29",
+          "sources": [
+            {
+              "name": "AP通信",
+              "url": "https://apnews.com/article/aeb1c22ee6ddfe3733f3371bbf39ed0e"
+            },
+            {
+              "name": "El País",
+              "url": "https://elpais.com/espana/2026-10-29/un-error-humano-a-las-836-la-cadena-de-fallos-y-decisiones-con-las-que-el-gobierno-explica-la-nueva-tragedia-en-la-linea-madrid-sevilla.html"
+            }
+          ]
+        },
+        {
+          "id": "society-002",
+          "title": "22か国113港の港湾労組、武器輸送への抗議で30日のストを計画",
+          "summary": "25以上の労組が武器輸送への抗議として国際的な港湾ストを予告したが、実際の参加規模や物流影響は未確定。",
+          "importance": 4,
+          "event_date": "2026-10-29",
+          "sources": [
+            {
+              "name": "Reuters",
+              "url": "https://www.reuters.com/business/world-at-work/dockworkers-more-than-100-ports-strike-against-arms-shipments-friday-2026-10-29/"
+            }
+          ]
+        },
+        {
+          "id": "society-003",
+          "title": "米新規失業保険申請19万4千件、約57年ぶり低水準に近い水準",
+          "summary": "10月24日までの週の新規申請は前週から1,000件減り、雇用の解雇率が低い一方で採用も抑制される状況が続く。",
+          "importance": 3,
+          "event_date": "2026-10-29",
+          "sources": [
+            {
+              "name": "Reuters",
+              "url": "https://www.reuters.com/world/us/us-weekly-jobless-claims-hover-near-57-year-lows-2026-10-29/"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "warnings": [
+    "記事は2026年10月29日に発生または公表された事象を採用した。海外記事の厳密な日本時間の発生時刻は一部未確認。",
+    "未確定の政策案・報道・事故調査・買収完了予定は確定事項と区別した。",
+    "GitHub Pagesでの公開反映はActionsの実行結果による別途確認が必要。"
+  ]
+}
