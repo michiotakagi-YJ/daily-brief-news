@@ -65,7 +65,7 @@
           "event_date": "2026-10-30",
           "sources": [
             {
-              "name": "経済産業省統計に基づく報道",
+              "name": "The Intelligent",
               "url": "https://theintelligent.jp/jingji/2026/september-industrial-production-rise"
             }
           ]
@@ -110,6 +110,19 @@
             {
               "name": "国土交通省",
               "url": "https://www.mlit.go.jp/report/press/kaiji05_hh_000350.html"
+            }
+          ]
+        },
+        {
+          "id": "economy-005",
+          "title": "リオ・ティント、モンゴル銅鉱山の地下操業を段階的に再開",
+          "summary": "Oyu Tolgoi鉱山は地震動に伴う落石で3人が負傷した後、安全確認を経て地下操業を順次再開した。",
+          "importance": 3,
+          "event_date": "2026-10-30",
+          "sources": [
+            {
+              "name": "Reuters",
+              "url": "https://www.reuters.com/world/china/rio-tinto-begins-restarting-oyu-tolgoi-underground-operations-after-seismic-2026-10-30/"
             }
           ]
         }
@@ -414,19 +427,6 @@
             {
               "name": "Reuters",
               "url": "https://www.reuters.com/business/aerospace-defense/ukrainian-arms-maker-fire-point-says-its-systems-can-complete-missions-without-2026-10-30/"
-            }
-          ]
-        },
-        {
-          "id": "technology-003",
-          "title": "リオ・ティント、モンゴル銅鉱山の地下操業を段階的に再開",
-          "summary": "Oyu Tolgoi鉱山は地震動に伴う落石で3人が負傷した後、安全確認を経て地下操業を順次再開した。",
-          "importance": 3,
-          "event_date": "2026-10-30",
-          "sources": [
-            {
-              "name": "Reuters",
-              "url": "https://www.reuters.com/world/china/rio-tinto-begins-restarting-oyu-tolgoi-underground-operations-after-seismic-2026-10-30/"
             }
           ]
         }
