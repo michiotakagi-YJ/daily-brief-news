@@ -1,0 +1,604 @@
+{
+  "schema_version": 1,
+  "edition_date": "2026-10-31",
+  "generated_at": "2026-10-31T08:00:00+09:00",
+  "window_start": "2026-10-30T08:00:00+09:00",
+  "window_end": "2026-10-31T08:00:00+09:00",
+  "lead": "日本銀行は政策金利1.25％を据え置きながら物価判断を引き上げ、ETF売却の加速を決定した。暗号資産取引所Binanceの巨額流出と米半導体株の急落が市場を揺らした。国内では住宅着工・建設受注の減少や物価・雇用統計が公表された。国際的には西サハラを巡る安保理の米ロ対立、ウクライナへの迎撃弾売却、コンゴのエボラ流行拡大、ブータンの氷河湖洪水が注目される。",
+  "sections": [
+    {
+      "id": "politics",
+      "name": "国内政治・法改正・行政",
+      "importance": 4,
+      "items": [
+        {
+          "id": "politics-001",
+          "title": "空港アクセス鉄道への利子補給を可能にする政令を閣議決定",
+          "summary": "政府は鉄道・運輸機構による空港アクセス鉄道整備費の利子補給金交付を可能にする政令を決定し、11月5日の施行を予定する。",
+          "importance": 4,
+          "event_date": "2026-10-30",
+          "sources": [
+            {
+              "name": "国土交通省",
+              "url": "https://www.mlit.go.jp/report/press/tetsudo01_hh_000263.html"
+            }
+          ]
+        },
+        {
+          "id": "politics-002",
+          "title": "厚労省、個人情報を扱う事業者にサイバー対策徹底を要請",
+          "summary": "相次ぐ情報窃取事案を受け、厚労省は所管事業者に脆弱性修正、多要素認証、委託先を含むデータ保護強化を呼びかけた。",
+          "importance": 4,
+          "event_date": "2026-10-30",
+          "sources": [
+            {
+              "name": "厚生労働省",
+              "url": "https://www.mhlw.go.jp/stf/kinkyu/20261030.html"
+            }
+          ]
+        },
+        {
+          "id": "politics-003",
+          "title": "西湘バイパスで時間帯別ETC料金の社会実験を実施へ",
+          "summary": "国交省は土日・祝日の渋滞緩和を目的に、西湘バイパスで11月28日から全国2例目となるETC時間帯別料金の実験を行うと発表した。",
+          "importance": 3,
+          "event_date": "2026-10-30",
+          "sources": [
+            {
+              "name": "国土交通省",
+              "url": "https://www.mlit.go.jp/report/press/road01_hh_002164.html"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "economy",
+      "name": "国内経済・産業",
+      "importance": 4,
+      "items": [
+        {
+          "id": "economy-001",
+          "title": "9月の鉱工業生産、前月比2.2％上昇",
+          "summary": "経産省の速報によると9月の鉱工業生産は自動車や生産用機械に支えられ3か月ぶりに増加した一方、在庫も増えた。",
+          "importance": 4,
+          "event_date": "2026-10-30",
+          "sources": [
+            {
+              "name": "経済産業省統計に基づく報道",
+              "url": "https://theintelligent.jp/jingji/2026/september-industrial-production-rise"
+            }
+          ]
+        },
+        {
+          "id": "economy-002",
+          "title": "東京都区部の10月コア物価、前年比2.6％上昇",
+          "summary": "総務省が公表した10月中旬速報では生鮮食品を除く消費者物価の上昇率が前月の2.7％から2.6％へ鈍化した。",
+          "importance": 4,
+          "event_date": "2026-10-30",
+          "sources": [
+            {
+              "name": "総務省統計局",
+              "url": "https://www.stat.go.jp/data/cpi/sokuhou/tsuki/index-t.html"
+            },
+            {
+              "name": "ヨリビケ",
+              "url": "https://yoribike.jp/a/2026-10-30-noon-5"
+            }
+          ]
+        },
+        {
+          "id": "economy-003",
+          "title": "大手50社の9月建設工事受注、前年同月比11.1％減",
+          "summary": "国交省の調査で民間工事受注が14.6％減と7か月連続で落ち込み、全体の受注も3か月連続で減少した。",
+          "importance": 4,
+          "event_date": "2026-10-30",
+          "sources": [
+            {
+              "name": "国土交通省",
+              "url": "https://www.mlit.go.jp/report/press/joho04_hh_001399.html"
+            }
+          ]
+        },
+        {
+          "id": "economy-004",
+          "title": "OECD、国際造船市場の新たな競争規律を議論へ",
+          "summary": "国交省はOECD造船委員会で新規律の検討開始に合意したと発表し、船舶輸出金融ルール改正も2027年早期発効の見通しとなった。",
+          "importance": 4,
+          "event_date": "2026-10-30",
+          "sources": [
+            {
+              "name": "国土交通省",
+              "url": "https://www.mlit.go.jp/report/press/kaiji05_hh_000350.html"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "finance",
+      "name": "金融・企業",
+      "importance": 5,
+      "items": [
+        {
+          "id": "finance-001",
+          "title": "日銀、政策金利1.25％を据え置き、物価判断を上方修正",
+          "summary": "日銀は8対1で政策金利を維持しつつ基調的物価が2％目標におおむね達したとの認識を示し、追加利上げの余地を示唆した。",
+          "importance": 5,
+          "event_date": "2026-10-30",
+          "sources": [
+            {
+              "name": "日本銀行",
+              "url": "https://www.boj.or.jp/mopo/mpmdeci/state_2026/index.htm"
+            },
+            {
+              "name": "Reuters",
+              "url": "https://www.reuters.com/world/asia-pacific/bank-japan-hold-rates-signal-further-hikes-2026-10-29/"
+            }
+          ]
+        },
+        {
+          "id": "finance-002",
+          "title": "日銀、保有ETFの売却ペース加速を決定",
+          "summary": "日銀は保有ETFの売却を2027年1月から速める方針を決めたが、残高解消には長期間を要する見込みで市場への影響は限定的とみられている。",
+          "importance": 4,
+          "event_date": "2026-10-30",
+          "sources": [
+            {
+              "name": "日本銀行",
+              "url": "https://www.boj.or.jp/mopo/mpmdeci/state_2026/index.htm"
+            },
+            {
+              "name": "Reuters",
+              "url": "https://www.reuters.com/world/asia-pacific/view-analysts-react-boj-decision-keep-rates-steady-2026-10-30/"
+            }
+          ]
+        },
+        {
+          "id": "finance-003",
+          "title": "暗号資産取引所Binanceで約63億ドル流出、顧客損失補填へ",
+          "summary": "Binanceは大規模な不正流出を受けて約63.4億ドルを確保したと表明し、分析企業は北朝鮮系集団の関与を疑うが実行者は未確定。",
+          "importance": 5,
+          "event_date": "2026-10-30",
+          "sources": [
+            {
+              "name": "Reuters",
+              "url": "https://www.reuters.com/legal/transactional/binance-sets-aside-over-634-billion-cover-losses-attack-2026-10-30/"
+            },
+            {
+              "name": "Financial Times",
+              "url": "https://www.ft.com/content/e84eceda-040b-4e5f-b906-09768085933a"
+            }
+          ]
+        },
+        {
+          "id": "finance-004",
+          "title": "米Intel株が28％超急落、半導体株全体に売り波及",
+          "summary": "売上見通しとキャッシュフローへの懸念からIntel株が急落し、半導体関連株にも大幅な売りが広がった。",
+          "importance": 5,
+          "event_date": "2026-10-30",
+          "sources": [
+            {
+              "name": "Reuters",
+              "url": "https://www.reuters.com/business/intel-warning-sparks-chip-rout-pc-weakness-clouds-turnaround-2026-10-30/"
+            }
+          ]
+        },
+        {
+          "id": "finance-005",
+          "title": "米ナスダック指数2.86％安、AI投資の採算懸念強まる",
+          "summary": "10月30日の米国市場はAmazonやIntelの業績を受けてハイテク株が下落し、ナスダックは6月以来の大幅な下げを記録した。",
+          "importance": 4,
+          "event_date": "2026-10-30",
+          "sources": [
+            {
+              "name": "Reuters",
+              "url": "https://www.reuters.com/business/nasdaq-futures-tumble-amazon-intel-results-deepen-ai-spending-woes-2026-10-30/"
+            }
+          ]
+        },
+        {
+          "id": "finance-006",
+          "title": "中国CXMT、AIメモリー需要で四半期売上が前年の約7倍",
+          "summary": "中国のメモリー半導体大手CXMTは7～9月期売上高が前年同期比613.2％増の1187.1億元となり、四半期純利益544億元を計上した。",
+          "importance": 4,
+          "event_date": "2026-10-30",
+          "sources": [
+            {
+              "name": "Reuters",
+              "url": "https://www.reuters.com/world/asia-pacific/cxmt-turns-third-quarter-net-profit-544-billion-yuan-2026-10-30/"
+            }
+          ]
+        },
+        {
+          "id": "finance-007",
+          "title": "中国銀行、7～9月期純利益が前年同期比6.36％増",
+          "summary": "中国銀行は7～9月期の純利益を638.88億元と発表し、前年同期の600.69億元から増加した。",
+          "importance": 3,
+          "event_date": "2026-10-30",
+          "sources": [
+            {
+              "name": "Reuters",
+              "url": "https://www.reuters.com/world/asia-pacific/bank-china-q3-profit-rises-636-2026-10-30/"
+            }
+          ]
+        },
+        {
+          "id": "finance-008",
+          "title": "インドの外貨準備、7週連続減で7197.5億ドル",
+          "summary": "インド準備銀行の統計で10月23日時点の外貨準備は7週連続減少し、2か月超ぶりの低水準となった。",
+          "importance": 3,
+          "event_date": "2026-10-30",
+          "sources": [
+            {
+              "name": "Reuters",
+              "url": "https://www.reuters.com/world/india/indias-fx-reserves-dip-seventh-straight-week-hit-over-two-month-low-2026-10-30/"
+            }
+          ]
+        },
+        {
+          "id": "finance-009",
+          "title": "米Exxon・Chevron、精製マージン拡大で市場予想を上回る利益",
+          "summary": "両社の7～9月期決算では中東やロシア関連の供給混乱を背景に精製事業が利益を押し上げた。",
+          "importance": 4,
+          "event_date": "2026-10-30",
+          "sources": [
+            {
+              "name": "Reuters",
+              "url": "https://www.reuters.com/business/energy/wrapup-exxon-chevron-earnings-propelled-by-war-driven-refining-surge-2026-10-30/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "realestate",
+      "name": "不動産・住宅・建設",
+      "importance": 4,
+      "items": [
+        {
+          "id": "realestate-001",
+          "title": "9月の新設住宅着工、前年同月比2.7％減の6万1826戸",
+          "summary": "国交省統計で住宅着工が6か月ぶりに前年割れとなり、マンション着工は21.2％減少した。",
+          "importance": 4,
+          "event_date": "2026-10-30",
+          "sources": [
+            {
+              "name": "国土交通省",
+              "url": "https://www.mlit.go.jp/report/press/joho04_hh_001400.html"
+            },
+            {
+              "name": "東京都宅建協会",
+              "url": "https://www.tokyo-takken.or.jp/re-port/83238"
+            }
+          ]
+        },
+        {
+          "id": "realestate-002",
+          "title": "7月の法人建物取引量指数、前月比2.1％減",
+          "summary": "国交省の試験統計で法人による既存建物取得の指数は290.1となり、住宅・非住宅ともに減少した。",
+          "importance": 3,
+          "event_date": "2026-10-30",
+          "sources": [
+            {
+              "name": "国土交通省",
+              "url": "https://www.mlit.go.jp/report/press/tochi_fudousan_kensetsugyo05_hh_000001_00280.html"
+            }
+          ]
+        },
+        {
+          "id": "realestate-003",
+          "title": "7月の既存住宅販売量指数、前月比0.2％増",
+          "summary": "国交省の登記データに基づく指数は132.4となり、戸建てが増加する一方でマンションは減少した。",
+          "importance": 3,
+          "event_date": "2026-10-30",
+          "sources": [
+            {
+              "name": "国土交通省",
+              "url": "https://www.mlit.go.jp/report/press/tochi_fudousan_kensetsugyo05_hh_000001_00279.html"
+            }
+          ]
+        },
+        {
+          "id": "realestate-004",
+          "title": "投資会社PAG、中国恒大の不動産管理子会社の過半数取得へ",
+          "summary": "PAGは清算中の中国恒大から物件管理会社の約51％を5.14億ドルで取得することで合意したが、当局承認などが残る。",
+          "importance": 4,
+          "event_date": "2026-10-30",
+          "sources": [
+            {
+              "name": "Reuters",
+              "url": "https://www.reuters.com/world/asia-pacific/pag-buy-51-stake-evergrande-property-services-514-million-2026-10-30/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "international",
+      "name": "外交・国際情勢",
+      "importance": 5,
+      "items": [
+        {
+          "id": "international-001",
+          "title": "国連安保理、米ロが西サハラ決議を相互拒否権で阻止",
+          "summary": "西サハラの国連平和維持活動の延長を巡り米ロ双方の決議案が否決され、任期切れを前に活動継続が不透明となった。",
+          "importance": 5,
+          "event_date": "2026-10-30",
+          "sources": [
+            {
+              "name": "Reuters",
+              "url": "https://www.reuters.com/world/russia-vetos-us-drafted-resolution-western-sahara-2026-10-30/"
+            }
+          ]
+        },
+        {
+          "id": "international-002",
+          "title": "G20外相会合、ウクライナ・中東情勢で対立が表面化",
+          "summary": "米アトランタで開かれたG20外相会合でルビオ米国務長官は協調を訴えたが、ロシア参加を巡る対立などから集合写真も取りやめられた。",
+          "importance": 4,
+          "event_date": "2026-10-30",
+          "sources": [
+            {
+              "name": "Reuters",
+              "url": "https://www.reuters.com/world/china/rifts-over-wars-ukraine-middle-east-loom-over-g20-meeting-us-2026-10-30/"
+            }
+          ]
+        },
+        {
+          "id": "international-003",
+          "title": "米政府、ウクライナへの21億ドルのパトリオット迎撃弾売却を承認",
+          "summary": "米国務省はPAC-3迎撃弾500発の売却を承認し、カナダ・ドイツ・ノルウェーなどの資金が活用される見通しとなった。",
+          "importance": 5,
+          "event_date": "2026-10-30",
+          "sources": [
+            {
+              "name": "Reuters",
+              "url": "https://www.reuters.com/business/aerospace-defense/us-approves-21-billion-patriot-missile-sale-ukraine-2026-10-30/"
+            }
+          ]
+        },
+        {
+          "id": "international-004",
+          "title": "日本、ミャンマーのFATFブラックリスト解除を働きかけと報道",
+          "summary": "日本がミャンマーの金融犯罪対策上のブラックリストからの除外を促しているとロイターが報じ、制裁・金融取引と人権問題の両面で議論を呼び得る。",
+          "importance": 4,
+          "event_date": "2026-10-30",
+          "sources": [
+            {
+              "name": "Reuters",
+              "url": "https://www.reuters.com/world/asia-pacific/japan-pushes-remove-myanmar-global-financial-watchdogs-blacklist-2026-10-30/"
+            }
+          ]
+        },
+        {
+          "id": "international-005",
+          "title": "米国防総省、欧州側に対ロシア強硬発言の抑制を求めたと報道",
+          "summary": "米国防総省が欧州の同盟国にロシアへの発言を和らげるよう要請したと関係者が述べ、対ロ外交姿勢の違いが注目される。",
+          "importance": 4,
+          "event_date": "2026-10-30",
+          "sources": [
+            {
+              "name": "Reuters",
+              "url": "https://www.reuters.com/business/finance/pentagon-tells-europeans-cool-their-rhetoric-russia-sources-say-2026-10-30/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "technology",
+      "name": "科学・AI・技術",
+      "importance": 4,
+      "items": [
+        {
+          "id": "technology-001",
+          "title": "鴻海、OpenAIとの新たな協業を検討と会長が表明",
+          "summary": "台湾の鴻海精密工業はAIサーバー関連の既存協力を踏まえOpenAIとの新たな提携を進めていると説明したが、条件は未公表。",
+          "importance": 4,
+          "event_date": "2026-10-30",
+          "sources": [
+            {
+              "name": "Reuters",
+              "url": "https://www.reuters.com/world/china/foxconn-working-new-tie-up-with-openai-says-there-is-no-ai-bubble-2026-10-30/"
+            }
+          ]
+        },
+        {
+          "id": "technology-002",
+          "title": "ウクライナ兵器メーカー、衛星通信なしで任務完遂できる技術を説明",
+          "summary": "Fire PointはStarlinkへの依存を減らす独自システムを開発したと述べたが、現状の能力には制約が残る。",
+          "importance": 4,
+          "event_date": "2026-10-30",
+          "sources": [
+            {
+              "name": "Reuters",
+              "url": "https://www.reuters.com/business/aerospace-defense/ukrainian-arms-maker-fire-point-says-its-systems-can-complete-missions-without-2026-10-30/"
+            }
+          ]
+        },
+        {
+          "id": "technology-003",
+          "title": "リオ・ティント、モンゴル銅鉱山の地下操業を段階的に再開",
+          "summary": "Oyu Tolgoi鉱山は地震動に伴う落石で3人が負傷した後、安全確認を経て地下操業を順次再開した。",
+          "importance": 3,
+          "event_date": "2026-10-30",
+          "sources": [
+            {
+              "name": "Reuters",
+              "url": "https://www.reuters.com/world/china/rio-tinto-begins-restarting-oyu-tolgoi-underground-operations-after-seismic-2026-10-30/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "health",
+      "name": "医療・公衆衛生",
+      "importance": 5,
+      "items": [
+        {
+          "id": "health-001",
+          "title": "コンゴ民主共和国のエボラ流行、死者5000人超",
+          "summary": "政府集計で感染者は1万人超、死者は5000人を超え、承認済みワクチンがない型のウイルスによる流行が周辺国にも拡大している。",
+          "importance": 5,
+          "event_date": "2026-10-30",
+          "sources": [
+            {
+              "name": "Reuters",
+              "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/ebola-deaths-congo-exceed-5000-government-data-shows-2026-10-30/"
+            }
+          ]
+        },
+        {
+          "id": "health-002",
+          "title": "米FDA、再発性呼吸器乳頭腫症のDNA免疫療法を迅速承認",
+          "summary": "米FDAはInovioのVoceryqを承認したが、臨床的有益性を確認する追加試験が必要とされる。",
+          "importance": 4,
+          "event_date": "2026-10-30",
+          "sources": [
+            {
+              "name": "Reuters",
+              "url": "https://www.reuters.com/legal/litigation/us-fda-approves-inovios-treatment-rare-throat-disease-2026-10-30/"
+            }
+          ]
+        },
+        {
+          "id": "health-003",
+          "title": "AstraZeneca、年間15億ドルの経費削減と新薬投資を発表",
+          "summary": "英製薬大手は研究開発パイプラインへの再投資を目的とする3年間の効率化策を発表し、四半期売上高も前年同期比7％増となった。",
+          "importance": 4,
+          "event_date": "2026-10-30",
+          "sources": [
+            {
+              "name": "Reuters",
+              "url": "https://www.reuters.com/legal/litigation/astrazeneca-kicks-off-savings-drive-invest-pipeline-after-sales-beat-2026-10-30/"
+            }
+          ]
+        },
+        {
+          "id": "health-004",
+          "title": "米FDA、更年期ホルモン療法の警告表示を追加緩和",
+          "summary": "FDAは更年期治療用の貼付薬3製品について重大なリスクを示す枠囲み警告を削除する方針を示し、専門家から根拠の透明性を問う声も出ている。",
+          "importance": 4,
+          "event_date": "2026-10-30",
+          "sources": [
+            {
+              "name": "The Guardian",
+              "url": "https://www.theguardian.com/us-news/2026/oct/30/fda-remove-warnings-menopause-treatments"
+            }
+          ]
+        },
+        {
+          "id": "health-005",
+          "title": "中国産オクラ、残留農薬検出で全ロット検査を義務化",
+          "summary": "厚労省は中国産オクラと簡易加工品でメピコートクロリドが検出されたため、輸入届出ごとの検査命令を初めて出した。",
+          "importance": 3,
+          "event_date": "2026-10-30",
+          "sources": [
+            {
+              "name": "厚生労働省",
+              "url": "https://www.mhlw.go.jp/stf/newpage_77091.html"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "environment",
+      "name": "環境・エネルギー・気象",
+      "importance": 4,
+      "items": [
+        {
+          "id": "environment-001",
+          "title": "ブータンの氷河湖決壊で鉄橋や道路が被災",
+          "summary": "シンタプ氷河湖の決壊による洪水で北部ガサの温泉地周辺の道路などが損傷したが、事前避難により死傷者は報告されていない。",
+          "importance": 4,
+          "event_date": "2026-10-30",
+          "sources": [
+            {
+              "name": "Reuters",
+              "url": "https://www.reuters.com/business/environment/bhutan-glacial-lake-outburst-triggers-flood-no-injuries-reported-2026-10-30/"
+            }
+          ]
+        },
+        {
+          "id": "environment-002",
+          "title": "自然共生サイトを122か所追加認定、国内700か所に",
+          "summary": "国交省などは地域生物多様性増進法に基づき122か所を新たに認定し、国内の対象面積は12.7万ヘクタールとなった。",
+          "importance": 4,
+          "event_date": "2026-10-30",
+          "sources": [
+            {
+              "name": "国土交通省",
+              "url": "https://www.mlit.go.jp/report/press/sogo10_hh_000389.html"
+            }
+          ]
+        },
+        {
+          "id": "environment-003",
+          "title": "ロシア国営原子力企業、アフリカ4か国と大型原発を協議",
+          "summary": "ロスアトムはウガンダ、ガーナ、エチオピア、エジプトと大型原発計画を協議していると表明したが、建設決定ではない。",
+          "importance": 4,
+          "event_date": "2026-10-30",
+          "sources": [
+            {
+              "name": "Reuters",
+              "url": "https://www.reuters.com/world/africa/russia-talks-with-four-african-states-large-nuclear-power-plants-rosatom-says-2026-10-30/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "society",
+      "name": "教育・労働・人口・文化・その他社会",
+      "importance": 4,
+      "items": [
+        {
+          "id": "society-001",
+          "title": "9月の完全失業率2.4％、前月比0.1ポイント改善",
+          "summary": "総務省の労働力調査で完全失業者は前年同月比15万人減の169万人となり、就業者は33万人増の6896万人となった。",
+          "importance": 4,
+          "event_date": "2026-10-30",
+          "sources": [
+            {
+              "name": "総務省統計局",
+              "url": "https://www.stat.go.jp/data/roudou/sokuhou/tsuki/"
+            }
+          ]
+        },
+        {
+          "id": "society-002",
+          "title": "9月の有効求人倍率1.19倍、新規求人倍率2.19倍",
+          "summary": "厚労省によると有効求人倍率は前月比0.01ポイント、新規求人倍率は0.13ポイント上昇し、業種別の求人動向には差が出た。",
+          "importance": 3,
+          "event_date": "2026-10-30",
+          "sources": [
+            {
+              "name": "厚生労働省",
+              "url": "https://www.mhlw.go.jp/stf/newpage_76960.html"
+            }
+          ]
+        },
+        {
+          "id": "society-003",
+          "title": "イタリア全土でゼネスト、40超の都市で数万人がデモ",
+          "summary": "生活費高騰や公共サービス、軍事支出などへの抗議が全国に広がり、一部都市では警察との衝突も発生した。",
+          "importance": 4,
+          "event_date": "2026-10-30",
+          "sources": [
+            {
+              "name": "Reuters",
+              "url": "https://www.reuters.com/world/mass-protests-sweep-italy-during-nationwide-strike-2026-10-30/"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "warnings": [
+    "海外記事の一部は現地発生日のみ確認でき、日本時間での厳密な発生時刻までは確認できない。",
+    "速報値、当局発表、関係者談話、報道機関の独自調査は確定事実と区別した。"
+  ]
+}
