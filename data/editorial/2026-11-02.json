@@ -1,0 +1,438 @@
+{
+  "schema_version": 1,
+  "edition_date": "2026-11-02",
+  "generated_at": "2026-11-02T08:00:01+09:00",
+  "window_start": "2026-11-01T08:00:00+09:00",
+  "window_end": "2026-11-02T08:00:01+09:00",
+  "lead": "防災庁が発足し、災害予防から復興までの国の司令塔を強化。米国とイランはカタールを介した協議を続けるが合意に至らず、ウクライナでは電力施設への攻撃と局地停戦の終了が重なった。OPECプラスは12月の生産枠を維持。国内ではGMO関連の情報漏えい・サイバー攻撃、私立高校の授業料以外の負担増、旧優生保護法の強制不妊手術に関する新資料などが明らかになった。",
+  "sections": [
+    {
+      "id": "politics",
+      "name": "国内政治・法改正・行政",
+      "importance": 5,
+      "items": [
+        {
+          "id": "politics-001",
+          "title": "防災庁が発足、事前防災と災害対応を一体化",
+          "summary": "11月2日に防災庁が発足し、平時の被害抑制策から応急対応・復旧復興までを指揮する体制を設け、職員定員を352人に拡充した。",
+          "importance": 5,
+          "event_date": "2026-11-02",
+          "sources": [
+            {
+              "name": "共同通信（熊本日日新聞掲載）",
+              "url": "https://www.kumanichi.com/articles/2053164"
+            }
+          ],
+          "impact": "自治体の防災計画、人材育成、避難所運営の改善が実効性の焦点となる。"
+        },
+        {
+          "id": "politics-002",
+          "title": "福岡市長選に新人13人、政令市の市長選で最多",
+          "summary": "11月1日に告示された福岡市長選は新人13人の争いとなり、現職不出馬の下で11月15日の投開票に向けて選挙戦が始まった。",
+          "importance": 4,
+          "event_date": "2026-11-01",
+          "sources": [
+            {
+              "name": "共同通信（デイリースポーツ掲載）",
+              "url": "https://origin.daily.co.jp/society/politics/2026/11/01/0020989817.shtml"
+            },
+            {
+              "name": "KBC九州朝日放送",
+              "url": "https://kbc.co.jp/election/"
+            }
+          ]
+        },
+        {
+          "id": "politics-003",
+          "title": "米国産生鮮ジャガイモの輸入解禁検討に野党が慎重論",
+          "summary": "日本政府が検討する米国産生鮮ジャガイモの輸入解禁に対し、野党が病害虫侵入と国内生産への影響を懸念し、科学的な防疫審査を求めている。",
+          "importance": 3,
+          "event_date": "2026-11-01",
+          "sources": [
+            {
+              "name": "共同通信（熊本日日新聞掲載）",
+              "url": "https://kumanichi.com/articles/2053052"
+            }
+          ]
+        },
+        {
+          "id": "politics-004",
+          "title": "熊本市長選が告示、現職と新人ら5人が立候補",
+          "summary": "11月1日、熊本市長選が告示され5人が立候補し、地震後の復興と都市政策を巡る選挙戦が始まった。",
+          "importance": 3,
+          "event_date": "2026-11-01",
+          "sources": [
+            {
+              "name": "熊本日日新聞",
+              "url": "https://www.kumanichi.com/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "economy",
+      "name": "国内経済・産業",
+      "importance": 3,
+      "items": [
+        {
+          "id": "economy-001",
+          "title": "GMOグローバルサイン、ID管理サービスで4万5030人分漏えい",
+          "summary": "11月1日までに、GMOグローバルサインが2492社の個人情報少なくとも4万5030人分の漏えいを公表し、設定ミスで約9年間外部閲覧可能だったと説明した。",
+          "importance": 4,
+          "event_date": "2026-11-01",
+          "sources": [
+            {
+              "name": "共同通信（熊本日日新聞掲載）",
+              "url": "https://www.kumanichi.com/articles/2053141"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "finance",
+      "name": "金融・企業",
+      "importance": 5,
+      "items": [
+        {
+          "id": "finance-001",
+          "title": "米政府、農業支援策に150億ドル超を用意",
+          "summary": "11月1日までに、米政権が燃料・肥料費の高騰などに苦しむ農家に対して80億ドルの一時給付を含む150億ドル超の支援策を打ち出した。",
+          "importance": 4,
+          "event_date": "2026-11-01",
+          "sources": [
+            {
+              "name": "AP通信",
+              "url": "https://apnews.com/article/113757ded4631a2debfa184a36c4d85e"
+            }
+          ]
+        },
+        {
+          "id": "finance-002",
+          "title": "カタール株が4.6％上昇、湾岸市場は米イラン情勢を警戒",
+          "summary": "11月1日の湾岸株式市場でカタール主要指数が約4.6％上昇した一方、サウジやエジプトは下落し、エネルギー供給不安と外交協議への評価が分かれた。",
+          "importance": 3,
+          "event_date": "2026-11-01",
+          "sources": [
+            {
+              "name": "Reuters",
+              "url": "https://www.reuters.com/world/middle-east/qatar-surges-bucking-gulf-market-slide-iran-war-concerns-2026-11-01/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "realestate",
+      "name": "不動産・住宅・建設",
+      "importance": 2,
+      "items": []
+    },
+    {
+      "id": "international",
+      "name": "外交・国際情勢",
+      "importance": 5,
+      "items": [
+        {
+          "id": "international-001",
+          "title": "米イラン間接協議が3日目、ホルムズ海峡再開条件を協議",
+          "summary": "11月1日、イラン代表団とカタール仲介者が3日連続で協議し、海峡再開や制裁緩和を巡る提案を検討したが、最終合意には至っていない。",
+          "importance": 5,
+          "event_date": "2026-11-01",
+          "sources": [
+            {
+              "name": "Reuters",
+              "url": "https://www.reuters.com/world/middle-east/iranian-negotiators-doha-continue-talks-end-us-iran-war-official-says-2026-11-01/"
+            },
+            {
+              "name": "共同通信（熊本日日新聞掲載）",
+              "url": "https://www.kumanichi.com/articles/2053225"
+            }
+          ],
+          "impact": "合意すれば海上輸送の混乱緩和につながる可能性があるが、米国側の受諾は未確認。"
+        },
+        {
+          "id": "international-002",
+          "title": "ロシアがウクライナ電力網を攻撃、数十万世帯に停電影響",
+          "summary": "11月1日、ロシアの無人機などによる電力インフラ攻撃でウクライナの複数地域に停電が広がり、ウクライナもロシア国内の施設を攻撃したと発表した。",
+          "importance": 5,
+          "event_date": "2026-11-01",
+          "sources": [
+            {
+              "name": "Reuters",
+              "url": "https://www.reuters.com/world/europe/russian-strikes-cut-power-thousands-ukraine-drones-damage-russian-facility-2026-11-01/"
+            }
+          ]
+        },
+        {
+          "id": "international-003",
+          "title": "ウクライナ南部オレシュキの人道目的の局地停戦が終了",
+          "summary": "11月1日、住民避難と物資搬入のための約6日間の局地停戦が期限を迎え、支援は実施されたが他地域での戦闘は続いた。",
+          "importance": 4,
+          "event_date": "2026-11-01",
+          "sources": [
+            {
+              "name": "共同通信（熊本日日新聞掲載）",
+              "url": "https://www.kumanichi.com/articles/2053230"
+            },
+            {
+              "name": "Reuters",
+              "url": "https://www.reuters.com/world/europe/pope-leo-says-he-hopes-oleshky-truce-could-spur-ukraine-russia-peace-efforts-2026-11-01/"
+            }
+          ]
+        },
+        {
+          "id": "international-004",
+          "title": "国連西サハラ停戦監視団が任期切れで活動終了へ",
+          "summary": "11月1日、国連安保理で米ロが対立し任務延長を決められなかったため、35年続いた西サハラのPKOが縮小・撤収段階に入った。",
+          "importance": 5,
+          "event_date": "2026-11-01",
+          "sources": [
+            {
+              "name": "AP通信",
+              "url": "https://apnews.com/article/030e303c58207060265d8748c1db3778"
+            }
+          ]
+        },
+        {
+          "id": "international-005",
+          "title": "台湾、中国海警船の東部沖活動を航行妨害と非難",
+          "summary": "11月1日、台湾海巡署は中国海警船が台湾東岸沖で無線により管轄権を主張し船舶の活動を妨げたと説明し、監視船を派遣した。",
+          "importance": 4,
+          "event_date": "2026-11-01",
+          "sources": [
+            {
+              "name": "Reuters",
+              "url": "https://www.reuters.com/world/china/taiwan-says-china-harassing-shipping-with-east-coast-patrol-2026-11-01/"
+            }
+          ]
+        },
+        {
+          "id": "international-006",
+          "title": "中国共産党、ハイテク・新型就労分野で党組織の統制強化",
+          "summary": "11月1日、中国共産党が5中総会の決定全文を公表し、ハイテク企業や新しい働き方の労働者に対する党組織の管理・思想教育を強める方針を示した。",
+          "importance": 4,
+          "event_date": "2026-11-01",
+          "sources": [
+            {
+              "name": "共同通信（熊本日日新聞掲載）",
+              "url": "https://www.kumanichi.com/articles/2053174"
+            }
+          ]
+        },
+        {
+          "id": "international-007",
+          "title": "米アラスカ上院選の当選認定阻止訴訟、連邦地裁が退ける",
+          "summary": "11月1日、米連邦地裁が同姓同名候補を巡る問題を理由に上院選の認定を止めるよう求めた司法省の訴えを退け、政権側は上訴方針を示した。",
+          "importance": 4,
+          "event_date": "2026-11-01",
+          "sources": [
+            {
+              "name": "AP通信",
+              "url": "https://apnews.com/article/b35acffc8b55ef58679d9b8395760f98"
+            },
+            {
+              "name": "共同通信（熊本日日新聞掲載）",
+              "url": "https://www.kumanichi.com/articles/2053226"
+            }
+          ]
+        },
+        {
+          "id": "international-008",
+          "title": "UAE、対イラン危機は軍事行動より外交での解決を重視",
+          "summary": "11月1日、UAE大統領顧問がバーレーンの国際会議で軍事行動に迅速な出口はないと述べ、カタール仲介による協議を支持した。",
+          "importance": 3,
+          "event_date": "2026-11-01",
+          "sources": [
+            {
+              "name": "AP通信",
+              "url": "https://apnews.com/article/470d52d5df78eeb6bf9b9fb15a37d0e6"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "technology",
+      "name": "科学・AI・技術",
+      "importance": 5,
+      "items": [
+        {
+          "id": "technology-001",
+          "title": "GMOへの不正アクセス、北朝鮮系ハッカー関与の可能性を分析",
+          "summary": "11月1日、GMOグループへの攻撃に関して北朝鮮系集団の関与を示すとみられる通信・マルウェアの痕跡が判明したと共同通信が報じたが、実行主体は未確定。",
+          "importance": 5,
+          "event_date": "2026-11-01",
+          "sources": [
+            {
+              "name": "共同通信（熊本日日新聞掲載）",
+              "url": "https://www.kumanichi.com/articles/2053173"
+            }
+          ]
+        },
+        {
+          "id": "technology-002",
+          "title": "ネパール大規模土石流、衛星画像で氷河と岩盤の複合崩壊を推定",
+          "summary": "11月1日までに、弘前大などの研究チームが8月のネパール・中国国境付近の土石流を衛星画像で解析し、亀裂のある岩盤と薄くなった氷河の崩壊が重なった可能性を示した。",
+          "importance": 4,
+          "event_date": "2026-11-01",
+          "sources": [
+            {
+              "name": "共同通信（熊本日日新聞掲載）",
+              "url": "https://www.kumanichi.com/articles/2053061"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "health",
+      "name": "医療・公衆衛生",
+      "importance": 4,
+      "items": [
+        {
+          "id": "health-001",
+          "title": "市販薬の過剰摂取調査、販売制限対象外の製品も確認",
+          "summary": "11月1日、国立精神・神経医療研究センターのSNS投稿分析で、過剰摂取に使われた可能性が高い20製品のうち5製品が販売制限の対象外だったと判明した。",
+          "importance": 4,
+          "event_date": "2026-11-01",
+          "sources": [
+            {
+              "name": "共同通信（熊本日日新聞掲載）",
+              "url": "https://www.kumanichi.com/articles/2053101"
+            }
+          ]
+        },
+        {
+          "id": "health-002",
+          "title": "旧優生保護法下の埼玉県、少なくとも34％が再審査期間内に不妊手術か",
+          "summary": "11月1日、開示された1952～58年度の県文書から、実施日を確認できた283人のうち97人が審査決定後2週間以内に手術されていたと報じられ、手続きの適法性が問われている。",
+          "importance": 5,
+          "event_date": "2026-11-01",
+          "sources": [
+            {
+              "name": "埼玉新聞（共同通信）",
+              "url": "https://www.saitama-np.co.jp/articles/221267/postDetail"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "environment",
+      "name": "環境・エネルギー・気象",
+      "importance": 5,
+      "items": [
+        {
+          "id": "environment-001",
+          "title": "OPECプラス有志7か国、12月の原油生産枠を据え置き",
+          "summary": "11月1日、主要産油7か国は12月の生産目標を維持すると決定し、ホルムズ海峡の輸送混乱が続く中、2027年の生産枠は今後の会合に持ち越した。",
+          "importance": 5,
+          "event_date": "2026-11-01",
+          "sources": [
+            {
+              "name": "Reuters",
+              "url": "https://www.reuters.com/business/energy/opec-set-keep-oil-output-targets-steady-sources-say-2026-11-01/"
+            },
+            {
+              "name": "共同通信（熊本日日新聞掲載）",
+              "url": "https://www.kumanichi.com/articles/2053181"
+            }
+          ]
+        },
+        {
+          "id": "environment-002",
+          "title": "非常に強い台風31号、小笠原近海から西進する見通し",
+          "summary": "11月1日15時時点の台風31号は中心気圧950ヘクトパスカル、最大風速45メートルで、今後の進路には不確実性があるとして気象情報の確認が呼びかけられた。",
+          "importance": 4,
+          "event_date": "2026-11-01",
+          "sources": [
+            {
+              "name": "共同通信（熊本日日新聞掲載）",
+              "url": "https://www.kumanichi.com/articles/2053086"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "society",
+      "name": "教育・労働・人口・文化・その他社会",
+      "importance": 5,
+      "items": [
+        {
+          "id": "society-001",
+          "title": "私立高校の授業料以外の学校納付金、調査で前年の約2倍",
+          "summary": "11月2日公表のセーブ・ザ・チルドレン・ジャパンの調査では、私立高校の学校納付金平均が約14万7000円となり、授業料無償化後も家計負担が残る実態が示された。",
+          "importance": 5,
+          "event_date": "2026-11-02",
+          "sources": [
+            {
+              "name": "共同通信（熊本日日新聞掲載）",
+              "url": "https://www.kumanichi.com/articles/2053227"
+            }
+          ]
+        },
+        {
+          "id": "society-002",
+          "title": "朝日新聞出版、事実誤認の新書を販売中止・回収へ",
+          "summary": "11月1日、朝日新聞出版は9月刊行の対談新書で中学生の新聞創刊経緯などに誤記があったとして、電子版を含む販売停止と回収を発表した。",
+          "importance": 3,
+          "event_date": "2026-11-01",
+          "sources": [
+            {
+              "name": "共同通信（熊本日日新聞掲載）",
+              "url": "https://www.kumanichi.com/articles/2053183"
+            }
+          ]
+        },
+        {
+          "id": "society-003",
+          "title": "秋の褒章736人・25団体、奈良美智氏らが受章",
+          "summary": "11月2日、政府は秋の褒章受章者736人と25団体を発表し、現代美術家の奈良美智氏やブラックホール撮影に貢献した研究者らが選ばれた。",
+          "importance": 3,
+          "event_date": "2026-11-02",
+          "sources": [
+            {
+              "name": "共同通信（熊本日日新聞掲載）",
+              "url": "https://www.kumanichi.com/articles/2053223"
+            }
+          ]
+        },
+        {
+          "id": "society-004",
+          "title": "フランスの物価高抗議デモ後に衝突、当局が捜査開始",
+          "summary": "11月2日未明までに、フランスで続く物価高などへの抗議デモ後の衝突を巡り、警官隊への火炎瓶投擲や負傷者について当局が捜査を始めた。",
+          "importance": 4,
+          "event_date": "2026-11-02",
+          "sources": [
+            {
+              "name": "共同通信（熊本日日新聞国際面）",
+              "url": "https://www.kumanichi.com/news/zenkoku/global"
+            }
+          ]
+        },
+        {
+          "id": "society-005",
+          "title": "つくばで宇宙産業の就職イベント、大学生ら約130人参加",
+          "summary": "11月1日、つくば市で宇宙分野の仕事を紹介する就職イベントが開かれ、大学生ら約130人が業界の職種や進路について情報を得た。",
+          "importance": 2,
+          "event_date": "2026-11-01",
+          "sources": [
+            {
+              "name": "共同通信（熊本日日新聞科学面）",
+              "url": "https://www.kumanichi.com/news/zenkoku/science"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "warnings": [
+    "不動産・住宅・建設の分野で対象期間内に独立した重要ニュースを十分な根拠とともに確認できなかったため0件とした。",
+    "海外記事の一部は現地公表日が11月1日で、日本時間の厳密な配信時刻は確認できない。",
+    "GMO関連の北朝鮮系ハッカー関与は調査・報道段階であり確定した帰属ではない。",
+    "各種調査の数値は調査対象・方法に依存し、全国推計と同一視しない。"
+  ]
+}
