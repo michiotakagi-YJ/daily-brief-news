@@ -1,0 +1,544 @@
+{
+  "schema_version": 1,
+  "edition_date": "2026-11-03",
+  "generated_at": "2026-11-03T08:00:00+09:00",
+  "window_start": "2026-11-02T08:00:00+09:00",
+  "window_end": "2026-11-03T08:00:00+09:00",
+  "lead": "日本では防災庁が正式に発足し、日銀が展望レポート全文を公表。世界では米イラン間接協議が突破口を見いだせず、ウクライナの人道支援拠点への爆撃で多数の犠牲者が出た。米国の製造業景況感は改善した一方、AI投資を巡ってAlphabetやOracleの巨額資金調達、Marvellの大型買収、Anthropicの巨額計算資源契約が注目される。医療ではHIV予防薬後発品の暫定承認、環境では雪氷圏の不可逆的被害に関する研究報告が重要である。",
+  "sections": [
+    {
+      "id": "politics",
+      "name": "国内政治・法改正・行政",
+      "importance": 5,
+      "items": [
+        {
+          "id": "politics-001",
+          "title": "防災庁が発足、平時の備えから復旧まで横断調整",
+          "summary": "政府は11月2日に防災庁を発足させ、350人超の職員を配置して災害予防・緊急対応・復興の司令塔機能を強化した。",
+          "importance": 5,
+          "event_date": "2026-11-03",
+          "sources": [
+            {
+              "name": "政府広報オンライン",
+              "url": "https://www.gov-online.go.jp/press_conferences/prime_minister/202611/video-327015.html"
+            },
+            {
+              "name": "AP通信",
+              "url": "https://apnews.com/article/9c9178280d94edbafd8fdf32b01facf0"
+            }
+          ]
+        },
+        {
+          "id": "politics-002",
+          "title": "政府と沖縄県の政策協議会、13年ぶりに開催へ",
+          "summary": "政府は11月6日に沖縄政策協議会を開催すると発表し、国と沖縄県の政策協議の枠組みを13年ぶりに再開する。",
+          "importance": 3,
+          "event_date": "2026-11-02",
+          "sources": [
+            {
+              "name": "時事通信／nippon.com",
+              "url": "https://www.nippon.com/en/articles/-/56802"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "economy",
+      "name": "国内経済・産業",
+      "importance": 4,
+      "items": [
+        {
+          "id": "economy-001",
+          "title": "JAL上期売上は過去最高の1兆989億円、EBITは36％減",
+          "summary": "日本航空の2026年4～9月期売上収益は前年同期比11.7％増だったが、燃油高と円安でEBITは701億円に減少した。",
+          "importance": 4,
+          "event_date": "2026-11-02",
+          "sources": [
+            {
+              "name": "日本航空",
+              "url": "https://press.jal.co.jp/ja/release/202611/009796.html"
+            }
+          ]
+        },
+        {
+          "id": "economy-002",
+          "title": "住友商事の上期純利益は15.5％増の3479億円",
+          "summary": "住友商事の2026年4～9月期の親会社帰属利益は3478億6500万円となり、前年同期から15.5％増加した。",
+          "importance": 3,
+          "event_date": "2026-11-02",
+          "sources": [
+            {
+              "name": "決算短信開示情報",
+              "url": "https://disclosure.catr.jp/companies/ad45a/49602/tdnet/43b53/790865"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "finance",
+      "name": "金融・企業",
+      "importance": 5,
+      "items": [
+        {
+          "id": "finance-001",
+          "title": "日銀が展望レポート全文を公表、基調的物価の2％定着を分析",
+          "summary": "日銀は10月の展望レポート全文を11月2日に公表し、賃金・価格設定と期待インフレ率の変化を踏まえた金融政策の判断材料を示した。",
+          "importance": 5,
+          "event_date": "2026-11-03",
+          "sources": [
+            {
+              "name": "日本銀行",
+              "url": "https://www.boj.or.jp/mopo/outlook"
+            },
+            {
+              "name": "Reuters",
+              "url": "https://www.reuters.com/world/asia-pacific/boj-flags-progress-anchoring-inflation-around-target-2026-11-02/"
+            }
+          ]
+        },
+        {
+          "id": "finance-002",
+          "title": "金融庁、ステーブルコインや分散型金融の制度を検討",
+          "summary": "金融庁の研究会はJPYC、SBI VCトレード、全国銀行協会からヒアリングし、オンチェーン決済と既存金融制度の接続を議論した。",
+          "importance": 4,
+          "event_date": "2026-11-02",
+          "sources": [
+            {
+              "name": "金融庁",
+              "url": "https://www.fsa.go.jp/singi/digital_2026/shiryo/20261102.html"
+            }
+          ]
+        },
+        {
+          "id": "finance-003",
+          "title": "SBIホールディングス上期純利益39％増、2306億円",
+          "summary": "SBIホールディングスの2026年4～9月期の最終利益は前年同期比39.1％増の2305億7200万円で、年間配当110円の方針も示した。",
+          "importance": 4,
+          "event_date": "2026-11-02",
+          "sources": [
+            {
+              "name": "株探",
+              "url": "https://s.kabutan.jp/news/k202611020003/"
+            }
+          ]
+        },
+        {
+          "id": "finance-004",
+          "title": "ECB副総裁、AI株価・国債市場・ノンバンクを金融安定リスクに挙げる",
+          "summary": "ECBのブイチッチ副総裁はAI関連株の高い評価、国債利回り上昇、投資ファンドの損失波及を主要な金融安定上の懸念と説明した。",
+          "importance": 5,
+          "event_date": "2026-11-02",
+          "sources": [
+            {
+              "name": "Reuters",
+              "url": "https://www.reuters.com/business/finance/ecb-flags-ai-valuations-bond-stress-fund-losses-main-risks-2026-11-02/"
+            }
+          ]
+        },
+        {
+          "id": "finance-005",
+          "title": "米10月ISM製造業景況指数55.5、10か月連続の拡大",
+          "summary": "米供給管理協会の製造業PMIは9月の54.5から55.5に上昇し、生産指数は59.0となった一方、仕入価格指数は75.2と高水準だった。",
+          "importance": 5,
+          "event_date": "2026-11-02",
+          "sources": [
+            {
+              "name": "米供給管理協会",
+              "url": "https://www.ismworld.org/supply-management-news-and-reports/reports/ism-pmi-reports/pmi/october/"
+            }
+          ]
+        },
+        {
+          "id": "finance-006",
+          "title": "Alphabetが60億ユーロの社債発行、AI投資資金を調達",
+          "summary": "Google親会社は7本立てで計60億ユーロの社債発行に着手し、170億ユーロ超の需要を集めたと報じられた。",
+          "importance": 4,
+          "event_date": "2026-11-02",
+          "sources": [
+            {
+              "name": "Reuters",
+              "url": "https://www.reuters.com/business/finance/alphabet-kicks-off-6-billion-bond-sale-tests-appetite-tech-debt-2026-11-02/"
+            }
+          ]
+        },
+        {
+          "id": "finance-007",
+          "title": "Oracle、AI基盤拡張で200億ドルの社債・株式調達を計画",
+          "summary": "OracleはAI・クラウド設備投資を支えるため計200億ドルの資金調達を計画し、既存借入の大きさも投資家の焦点となった。",
+          "importance": 5,
+          "event_date": "2026-11-02",
+          "sources": [
+            {
+              "name": "Reuters",
+              "url": "https://www.reuters.com/business/oracle-offer-10-billion-bonds-2026-11-02/"
+            }
+          ]
+        },
+        {
+          "id": "finance-008",
+          "title": "Apple、7～9月期売上1145億ドルで市場予想を上回る",
+          "summary": "Appleの四半期売上高は1144.8億ドル、1株利益は2.10ドルで予想を上回り、iPhone売上は575.8億ドルに達した。",
+          "importance": 4,
+          "event_date": "2026-11-02",
+          "sources": [
+            {
+              "name": "Reuters",
+              "url": "https://www.reuters.com/business/retail-consumer/apple-results-beat-wall-street-expectations-on-strong-iphone-sales-2026-11-02/"
+            },
+            {
+              "name": "AP通信",
+              "url": "https://apnews.com/article/9698be9e0226091a537611382144eb44"
+            }
+          ]
+        },
+        {
+          "id": "finance-009",
+          "title": "Palantir、AI需要で四半期売上96％増、通期見通し引き上げ",
+          "summary": "Palantirの7～9月期売上高は前年同期比約96％増の23.1億ドルとなり、米国の商業顧客向け売上が急拡大した。",
+          "importance": 4,
+          "event_date": "2026-11-02",
+          "sources": [
+            {
+              "name": "Reuters",
+              "url": "https://www.reuters.com/technology/palantir-tops-third-quarter-revenue-estimates-strong-ai-software-demand-2026-11-02/"
+            }
+          ]
+        },
+        {
+          "id": "finance-010",
+          "title": "Anthropic、IPO関連開示で巨額計算資源契約と収益減速を説明",
+          "summary": "Anthropicの修正上場申請書類では四半期売上の伸び率鈍化と、約8954億ドルに及ぶAI関連支出義務が示され、外部資金調達依存がリスクとして浮上した。",
+          "importance": 5,
+          "event_date": "2026-11-02",
+          "sources": [
+            {
+              "name": "Reuters",
+              "url": "https://www.reuters.com/business/anthropics-quarterly-loss-shrinks-revenue-jumps-ahead-blockbuster-ipo-2026-11-02/"
+            }
+          ]
+        },
+        {
+          "id": "finance-011",
+          "title": "Marvell、光部品Lumentumを負債込み1150億ドルで買収合意",
+          "summary": "半導体のMarvellは光通信部品大手Lumentumを全株式交換で取得すると発表し、AIデータセンター向け光接続市場の統合を狙う。",
+          "importance": 5,
+          "event_date": "2026-11-02",
+          "sources": [
+            {
+              "name": "Reuters",
+              "url": "https://www.reuters.com/legal/transactional/marvell-buy-lumentum-115-billion-deal-ai-data-center-bet-2026-11-02/"
+            }
+          ]
+        },
+        {
+          "id": "finance-012",
+          "title": "米株S&P500が下落、AI投資負担と中間選挙を警戒",
+          "summary": "米国株はAI関連設備投資の採算懸念と中間選挙前の不透明感から不安定に推移し、S&P500は下落して取引を終えた。",
+          "importance": 3,
+          "event_date": "2026-11-02",
+          "sources": [
+            {
+              "name": "Reuters",
+              "url": "https://www.reuters.com/business/media-telecom/wall-street-futures-rise-ai-stocks-catch-their-breath-midterms-focus-2026-11-02/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "realestate",
+      "name": "不動産・住宅・建設",
+      "importance": 4,
+      "items": [
+        {
+          "id": "realestate-001",
+          "title": "米9月建設支出が前月比1.9％減、住宅関連が低迷",
+          "summary": "米国の建設支出は9月に前月比1.9％減り、民間住宅関連支出は5.5％減と金利高や資材費の影響が表れた。",
+          "importance": 4,
+          "event_date": "2026-11-02",
+          "sources": [
+            {
+              "name": "Reuters",
+              "url": "https://www.reuters.com/business/us-construction-spending-tumbles-september-2026-11-02/"
+            }
+          ]
+        },
+        {
+          "id": "realestate-002",
+          "title": "国交省、安心R住宅の登録要件見直し案で意見募集",
+          "summary": "国交省は中古住宅の『安心R住宅』に関する登録規程改正案のパブリックコメントを開始し、改修提案や物件写真の取扱いを見直す方向を示した。",
+          "importance": 3,
+          "event_date": "2026-11-02",
+          "sources": [
+            {
+              "name": "パブコメ掲載情報",
+              "url": "https://pubcome.jp/pubcome/cmvyi6hnn000408jmgsn8v82m"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "international",
+      "name": "外交・国際情勢",
+      "importance": 5,
+      "items": [
+        {
+          "id": "international-001",
+          "title": "米イラン間接協議、カタール仲介でも突破口なく接触継続",
+          "summary": "イランは米国との戦争終結に向けた間接協議が進展しなかったと説明し、港湾封鎖解除・ホルムズ海峡再開などを巡り仲介接触を続ける。",
+          "importance": 5,
+          "event_date": "2026-11-02",
+          "sources": [
+            {
+              "name": "Reuters",
+              "url": "https://www.reuters.com/world/middle-east/iranians-have-left-doha-talks-draft-proposal-us-deal-being-circulated-official-2026-11-02/"
+            }
+          ]
+        },
+        {
+          "id": "international-002",
+          "title": "ウクライナ南東部の学校施設への爆撃、26人死亡と当局発表",
+          "summary": "ザポリージャ州で人道支援物資の配布拠点となっていた学校が爆撃され、ウクライナの救急当局は26人死亡と発表した。",
+          "importance": 5,
+          "event_date": "2026-11-02",
+          "sources": [
+            {
+              "name": "Reuters",
+              "url": "https://www.reuters.com/world/ukraines-zelenskiy-russian-bombing-kills-18-southeastern-zaporizhzhia-region-2026-11-02/"
+            }
+          ]
+        },
+        {
+          "id": "international-003",
+          "title": "ウクライナ、局地停戦をロシア軍が再配置に利用と非難",
+          "summary": "ウクライナ軍はオレシュキでの6日間の人道停戦中にロシア軍が陣地を強化したと主張し、ロシア側は具体的情報を持たないと述べた。",
+          "importance": 4,
+          "event_date": "2026-11-02",
+          "sources": [
+            {
+              "name": "Reuters",
+              "url": "https://www.reuters.com/world/europe/ukraine-says-russia-used-oleshky-ceasefire-reinforce-positions-2026-11-02/"
+            }
+          ]
+        },
+        {
+          "id": "international-004",
+          "title": "中国外相、イラン・サウジ関係者に中東問題の対話解決を促す",
+          "summary": "中国の王毅外相はイランおよびサウジアラビアの当局者との会談で、地域情勢を外交的に解決する必要性を訴えた。",
+          "importance": 4,
+          "event_date": "2026-11-02",
+          "sources": [
+            {
+              "name": "Reuters",
+              "url": "https://www.reuters.com/world/china/chinas-foreign-minister-pushes-dialogue-resolve-middle-east-conflict-2026-11-02/"
+            }
+          ]
+        },
+        {
+          "id": "international-005",
+          "title": "韓国大統領、過去最大規模の2027年予算案とAI投資拡大を提案",
+          "summary": "韓国政府は820.9兆ウォンの来年度予算案の承認を求め、AI関連投資に21.3兆ウォンを充てる方針を示した。",
+          "importance": 4,
+          "event_date": "2026-11-02",
+          "sources": [
+            {
+              "name": "Reuters",
+              "url": "https://www.reuters.com/world/asia-pacific/south-koreas-lee-vows-make-bold-ai-investment-record-budget-push-2026-11-02/"
+            }
+          ]
+        },
+        {
+          "id": "international-006",
+          "title": "米司法省、中間選挙を巡る州当局への介入が議論に",
+          "summary": "米司法省が中間選挙を巡る複数の州の手続きに関与しており、従来の選挙前の慎重な運用からの変化として報じられた。",
+          "importance": 4,
+          "event_date": "2026-11-02",
+          "sources": [
+            {
+              "name": "Reuters",
+              "url": "https://www.reuters.com/legal/government/trump-justice-dept-breaks-with-tradition-intervene-midterms-2026-11-02/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "technology",
+      "name": "科学・AI・技術",
+      "importance": 4,
+      "items": [
+        {
+          "id": "technology-001",
+          "title": "欧州のスーパー冷凍設備にサイバー攻撃疑い、温度異常が発生",
+          "summary": "スウェーデンなどの食品小売店舗で冷凍設備の温度制御に異常が生じ、一部店舗はサイバー攻撃の可能性を指摘した。",
+          "importance": 4,
+          "event_date": "2026-11-02",
+          "sources": [
+            {
+              "name": "Reuters",
+              "url": "https://www.reuters.com/business/retail-consumer/temperature-soars-swedish-grocery-store-freezers-one-store-blames-hackers-2026-11-02/"
+            }
+          ]
+        },
+        {
+          "id": "technology-002",
+          "title": "ADNOCとG42、OpenAIの先端AIをエネルギー事業へ導入する協定",
+          "summary": "アブダビ国営石油会社ADNOCとG42はOpenAIと協定を結び、エネルギー設備や業務運営への高度AI導入を目指すと発表した。",
+          "importance": 4,
+          "event_date": "2026-11-02",
+          "sources": [
+            {
+              "name": "Reuters",
+              "url": "https://www.reuters.com/business/energy/abu-dhabis-adnoc-g42-sign-deal-with-openai-sam-altman-travels-uae-2026-11-02/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "health",
+      "name": "医療・公衆衛生",
+      "importance": 5,
+      "items": [
+        {
+          "id": "health-001",
+          "title": "歯科衛生士の診療補助拡大を検討、厚労省が中間報告",
+          "summary": "厚労省の検討会は研修を受けた歯科衛生士が歯科医師の手順書に基づいて診療補助を行う仕組みを提起し、具体的な行為や法令整備は今後検討するとした。",
+          "importance": 4,
+          "event_date": "2026-11-02",
+          "sources": [
+            {
+              "name": "厚生労働省",
+              "url": "https://www.mhlw.go.jp/stf/shingi/newpage_77154.html"
+            }
+          ]
+        },
+        {
+          "id": "health-002",
+          "title": "HIV予防薬レナカパビルの後発品、米FDAが暫定承認",
+          "summary": "インドのDr Reddy'sは長時間作用型HIV予防薬の後発品で米FDAの暫定承認を取得し、低・中所得国への供給を早める可能性がある。",
+          "importance": 5,
+          "event_date": "2026-11-02",
+          "sources": [
+            {
+              "name": "Reuters",
+              "url": "https://www.reuters.com/legal/litigation/dr-reddys-gets-tentative-us-fda-nod-generic-hiv-prevention-2026-11-02/"
+            }
+          ]
+        },
+        {
+          "id": "health-003",
+          "title": "Lp(a)低下薬ペラカルセン、心血管イベント抑制の主要目標未達",
+          "summary": "NovartisとIonisの開発薬はLp(a)を大幅に低下させたものの第3相試験の主要臨床評価項目を達成せず、詳細データの解析が待たれる。",
+          "importance": 4,
+          "event_date": "2026-11-02",
+          "sources": [
+            {
+              "name": "Reuters",
+              "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/novartis-heart-drug-failure-leaves-doctors-seeking-evidence-genetic-cholesterol-2026-11-02/"
+            }
+          ]
+        },
+        {
+          "id": "health-004",
+          "title": "輸血用赤血球の病原体低減技術、後期試験で主要評価項目達成",
+          "summary": "CerusはIntercept技術で処理した赤血球が通常の赤血球に対して非劣性を示したと発表し、輸血安全性向上の可能性を示した。",
+          "importance": 3,
+          "event_date": "2026-11-02",
+          "sources": [
+            {
+              "name": "Reuters",
+              "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/cerus-blood-safety-system-meets-main-goal-late-stage-trial-2026-11-02/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "environment",
+      "name": "環境・エネルギー・気象",
+      "importance": 5,
+      "items": [
+        {
+          "id": "environment-001",
+          "title": "氷床・氷河の融解、1.5度超過が短期間でも不可逆的被害と報告",
+          "summary": "国連環境計画などが関与した約80人の科学者による報告は、気温上昇が一時的に1.5度を超えるだけでも雪氷圏に長期的損失が生じ得ると警告した。",
+          "importance": 5,
+          "event_date": "2026-11-02",
+          "sources": [
+            {
+              "name": "The Guardian",
+              "url": "https://www.theguardian.com/science/2026/nov/02/permanent-damage-crysophere-overshoots-15c-scientists-warn"
+            }
+          ]
+        },
+        {
+          "id": "environment-002",
+          "title": "ADNOC、ホルムズ海峡混乱で世界の石油在庫が約10億バレル減少と警告",
+          "summary": "アブダビ国営石油会社のCEOは中東の輸送障害で石油備蓄が大きく減少し、燃料供給余力と物流コストに圧力がかかっていると述べた。",
+          "importance": 5,
+          "event_date": "2026-11-02",
+          "sources": [
+            {
+              "name": "Reuters",
+              "url": "https://www.reuters.com/business/energy/nearly-1-billion-oil-barrels-drained-global-inventories-since-hormuz-disruption-2026-11-02/"
+            }
+          ]
+        },
+        {
+          "id": "environment-003",
+          "title": "太陽光パネルのリサイクル制度、年50トンの基準案を検討",
+          "summary": "政府の検討では従来型太陽光パネルの大部分を対象に含める年間50トンの基準案が浮上し、対象範囲と事業者負担が論点となっている。",
+          "importance": 3,
+          "event_date": "2026-11-02",
+          "sources": [
+            {
+              "name": "pv magazine",
+              "url": "https://www.pv-magazine.com/2026/11/02/japan-proposes-50-metric-ton-trigger-for-solar-panel-recycling-plans/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "society",
+      "name": "教育・労働・人口・文化・その他社会",
+      "importance": 4,
+      "items": [
+        {
+          "id": "society-001",
+          "title": "メキシコ、小中学校の教室で携帯電話の使用を原則禁止へ",
+          "summary": "メキシコ政府は11月3日から小中学校の授業中の携帯電話使用を原則禁止し、授業目的や緊急時、健康上の必要などは例外とする。",
+          "importance": 4,
+          "event_date": "2026-11-02",
+          "sources": [
+            {
+              "name": "AP通信",
+              "url": "https://apnews.com/article/74b9a0b1cf93485487f3844eb7cb6b95"
+            }
+          ]
+        },
+        {
+          "id": "society-002",
+          "title": "米中間選挙を前に有権者の経済不満が焦点",
+          "summary": "11月3日の米中間選挙を控え、物価高や家計負担への不満が投票行動を左右する主要な争点になっていると報じられた。",
+          "importance": 4,
+          "event_date": "2026-11-02",
+          "sources": [
+            {
+              "name": "Reuters",
+              "url": "https://www.reuters.com/legal/transactional/us-voters-sour-economic-mood-heading-into-midterm-elections-2026-11-02/"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "warnings": [
+    "海外記事の一部は現地時間の2026年11月2日に公表され、日本時間での正確な発生時刻は確認できていない。",
+    "協議・買収・制度案・臨床試験に関する記述は、合意済み事項と未確定事項を区別している。"
+  ]
+}
