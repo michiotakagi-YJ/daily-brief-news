@@ -1,0 +1,296 @@
+{
+  "schema_version": 1,
+  "edition_date": "2026-11-04",
+  "generated_at": "2026-11-04T07:58:00+09:00",
+  "window_start": "2026-11-03T08:00:00+09:00",
+  "window_end": "2026-11-04T07:58:00+09:00",
+  "lead": "米国中間選挙の投票が実施され、生活費と選挙管理の公正性が焦点となった。ロシアはウクライナの電力網を大規模攻撃し、欧米は復興と安全保障の協議を予定。中国人民銀行は人民元高への対応として外貨預金準備率引き上げを決定した。グリーンランドでは米軍の役割を拡大する安全保障合意が批准され、豪州は政策金利を引き上げた。国内では非核三原則を含む安保政策の議論や文化勲章親授式が報じられた。",
+  "sections": [
+    {
+      "id": "politics",
+      "name": "国内政治・法改正・行政",
+      "importance": 4,
+      "items": [
+        {
+          "id": "politics-001",
+          "title": "防衛相、非核三原則を含む安全保障政策の議論を訴え",
+          "summary": "小泉防衛相は安全保障関連3文書の改定を巡り、非核三原則や原子力潜水艦保有を含む議論の必要性を説明した。",
+          "importance": 4,
+          "event_date": "2026-11-03",
+          "sources": [
+            {
+              "name": "共同通信",
+              "url": "https://news.livedoor.com/article/detail/32722992/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "economy",
+      "name": "国内経済・産業",
+      "importance": 3,
+      "items": []
+    },
+    {
+      "id": "finance",
+      "name": "金融・企業",
+      "importance": 5,
+      "items": [
+        {
+          "id": "finance-001",
+          "title": "中国人民銀行、外貨預金準備率を4％から6％へ引き上げ",
+          "summary": "人民元の急速な上昇を抑えるため11月15日から外貨預金準備率を引き上げ、外貨流動性を吸収する方針を示した。",
+          "importance": 5,
+          "event_date": "2026-11-03",
+          "sources": [
+            {
+              "name": "Reuters",
+              "url": "https://www.reuters.com/world/asia-pacific/china-raise-forex-deposit-reserve-ratio-6-starting-november-15-2026-11-03/"
+            }
+          ]
+        },
+        {
+          "id": "finance-002",
+          "title": "豪中銀、政策金利を4.85％へ引き上げ",
+          "summary": "オーストラリア準備銀行は政策金利を18年ぶりの高水準となる4.85％に引き上げた。",
+          "importance": 4,
+          "event_date": "2026-11-03",
+          "sources": [
+            {
+              "name": "The Guardian",
+              "url": "https://www.theguardian.com/business/live/2026/nov/03/saudi-oil-company-profits-australian-central-bank-rates-brent-crude-crypto-hack-energy-prices-latest-news-updates"
+            }
+          ]
+        },
+        {
+          "id": "finance-003",
+          "title": "世界の投資資金不足、2030年までに30兆ユーロと試算",
+          "summary": "サンタンデールの報告はエネルギー転換・AI・防衛などの投資需要に対して約30兆ユーロの資金不足を見込んだ。",
+          "importance": 4,
+          "event_date": "2026-11-03",
+          "sources": [
+            {
+              "name": "Reuters",
+              "url": "https://www.reuters.com/business/finance/world-faces-30-trillion-financing-gap-santander-report-warns-2026-11-03/"
+            }
+          ]
+        },
+        {
+          "id": "finance-004",
+          "title": "米株ナスダック反発、AI関連株が上昇",
+          "summary": "中間選挙の結果待ちのなかナスダックは0.83％上昇し、半導体・大型テクノロジー株が反発した。",
+          "importance": 3,
+          "event_date": "2026-11-03",
+          "sources": [
+            {
+              "name": "Reuters",
+              "url": "https://www.reuters.com/business/retail-consumer/us-stock-futures-mixed-apple-slides-midterms-loom-2026-11-03/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "realestate",
+      "name": "不動産・住宅・建設",
+      "importance": 4,
+      "items": [
+        {
+          "id": "realestate-001",
+          "title": "マドリードの住宅抗議キャンプ、警察が残る334人を排除",
+          "summary": "住宅費高騰を訴えるプエルタ・デル・ソル広場の抗議キャンプを警察が撤去し、抗議団体は11月11日のゼネストを呼びかけた。",
+          "importance": 4,
+          "event_date": "2026-11-03",
+          "sources": [
+            {
+              "name": "Reuters",
+              "url": "https://www.reuters.com/world/spanish-police-clear-remaining-housing-protesters-madrid-encampment-2026-11-03/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "international",
+      "name": "外交・国際情勢",
+      "importance": 5,
+      "items": [
+        {
+          "id": "international-001",
+          "title": "米中間選挙で投票実施、議会支配権が焦点",
+          "summary": "米国で中間選挙の投票が行われ、生活費やイラン戦争などを争点に上下両院の多数派が争われた。",
+          "importance": 5,
+          "event_date": "2026-11-03",
+          "sources": [
+            {
+              "name": "Reuters",
+              "url": "https://www.reuters.com/world/us/trump-faces-midterm-verdict-with-control-congress-stake-2026-11-03/"
+            }
+          ]
+        },
+        {
+          "id": "international-002",
+          "title": "米司法省、全50州で選挙監視員1000人を配置",
+          "summary": "司法省は過去最大規模の選挙監視体制を発表したが、監視対象の偏りや有権者への威圧を巡って論争が生じた。",
+          "importance": 4,
+          "event_date": "2026-11-03",
+          "sources": [
+            {
+              "name": "Reuters",
+              "url": "https://www.reuters.com/legal/government/trumps-justice-dept-identifies-where-us-election-monitors-will-be-50-states-2026-11-03/"
+            }
+          ]
+        },
+        {
+          "id": "international-003",
+          "title": "米連邦地裁、有権者国籍疑義リストを州へ送る措置を一時差し止め",
+          "summary": "裁判所は連邦政府のデータの信頼性と有権者の権利侵害の恐れを理由に、州への働きかけを暫定的に禁じた。",
+          "importance": 4,
+          "event_date": "2026-11-03",
+          "sources": [
+            {
+              "name": "Reuters",
+              "url": "https://www.reuters.com/world/judge-blocks-trump-administration-pressuring-states-over-noncitizen-voting-2026-11-03/"
+            }
+          ]
+        },
+        {
+          "id": "international-004",
+          "title": "ロシアがウクライナ電力網を大規模攻撃",
+          "summary": "ウクライナ側によると無人機289機とミサイル計76発を用いた攻撃で発電所や変電所が被害を受け、広範な停電が発生した。",
+          "importance": 5,
+          "event_date": "2026-11-03",
+          "sources": [
+            {
+              "name": "Reuters",
+              "url": "https://www.reuters.com/world/europe/russia-bombards-ukraine-power-grid-before-abu-dhabi-talks-merz-urges-moscow-2026-11-03/"
+            }
+          ]
+        },
+        {
+          "id": "international-005",
+          "title": "EU、米国などとウクライナ復興・安全保障協議を開催へ",
+          "summary": "欧州委員会は米欧・ウクライナなどによる復興計画と安全保障を巡る協議を11月4日に開催すると発表した。",
+          "importance": 4,
+          "event_date": "2026-11-03",
+          "sources": [
+            {
+              "name": "Reuters",
+              "url": "https://www.reuters.com/world/eu-host-talks-ukraine-with-united-states-others-wednesday-2026-11-03/"
+            }
+          ]
+        },
+        {
+          "id": "international-006",
+          "title": "グリーンランド議会、米国・デンマークとの安全保障合意を批准",
+          "summary": "米軍基地増設などを認めつつデンマークの主権と住民の自決権を確認する合意を議会が賛成16票で批准した。",
+          "importance": 5,
+          "event_date": "2026-11-03",
+          "sources": [
+            {
+              "name": "Reuters",
+              "url": "https://www.reuters.com/world/europe/greenland-lawmakers-set-ratify-trump-security-deal-2026-11-03/"
+            }
+          ]
+        },
+        {
+          "id": "international-007",
+          "title": "韓国とトルコ、原子力・防衛・インフラ協力を拡大",
+          "summary": "両国首脳はトルコの原発計画や防衛輸出、重要鉱物などで協力を深めることで合意した。",
+          "importance": 4,
+          "event_date": "2026-11-03",
+          "sources": [
+            {
+              "name": "Reuters",
+              "url": "https://www.reuters.com/world/asia-pacific/south-korea-turkey-cooperate-nuclear-defence-infrastructure-2026-11-03/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "technology",
+      "name": "科学・AI・技術",
+      "importance": 3,
+      "items": []
+    },
+    {
+      "id": "health",
+      "name": "医療・公衆衛生",
+      "importance": 2,
+      "items": []
+    },
+    {
+      "id": "environment",
+      "name": "環境・エネルギー・気象",
+      "importance": 4,
+      "items": [
+        {
+          "id": "environment-001",
+          "title": "原油価格、和平交渉への期待で約4週間ぶりの安値",
+          "summary": "ブレント原油は1バレル103.60ドルで取引を終え、イランとウクライナを巡る外交協議への期待と供給不安が交錯した。",
+          "importance": 4,
+          "event_date": "2026-11-03",
+          "sources": [
+            {
+              "name": "Reuters",
+              "url": "https://www.reuters.com/markets/commodities/oil-rises-after-report-us-strike-irans-qeshm-island-2026-11-03/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "society",
+      "name": "教育・労働・人口・文化・その他社会",
+      "importance": 4,
+      "items": [
+        {
+          "id": "society-001",
+          "title": "文化勲章親授式、ノーベル化学賞受賞者ら7人に授与",
+          "summary": "文化の日に皇居で文化勲章親授式が開かれ、硤合憲三氏や伊東豊雄氏ら7人に勲章が手渡された。",
+          "importance": 3,
+          "event_date": "2026-11-03",
+          "sources": [
+            {
+              "name": "共同通信",
+              "url": "https://www.kumanichi.com/articles/2053672"
+            }
+          ]
+        },
+        {
+          "id": "society-002",
+          "title": "秋の叙勲3861人、女性受章者は400人",
+          "summary": "政府は秋の叙勲受章者3861人を発表し、旭日大綬章には豊田章男氏ら7人が選ばれた。",
+          "importance": 3,
+          "event_date": "2026-11-03",
+          "sources": [
+            {
+              "name": "共同通信",
+              "url": "https://www.kumanichi.com/articles/2053559"
+            }
+          ]
+        },
+        {
+          "id": "society-003",
+          "title": "米有権者調査、生活費が最大の選挙争点",
+          "summary": "Reuters/Ipsos調査では登録有権者の48％が生活費を最重要争点に挙げた。",
+          "importance": 4,
+          "event_date": "2026-11-03",
+          "sources": [
+            {
+              "name": "Reuters",
+              "url": "https://www.reuters.com/world/us/nine-things-us-voters-minds-ahead-midterm-elections-according-reutersipsos-poll-2026-11-03/"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "warnings": [
+    "国内経済・産業、科学・AI・技術、医療・公衆衛生について対象期間内に独立検証できた新規記事を採用できなかった。",
+    "海外記事は現地日付が11月3日でも日本時間11月4日8時までに公開されたかを個別に厳密確認できない場合がある。",
+    "ニュース収集は網羅的ではなく、確認済み出典のある記事のみ収録。"
+  ]
+}
