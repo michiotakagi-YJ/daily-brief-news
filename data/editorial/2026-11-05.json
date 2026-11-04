@@ -1,0 +1,273 @@
+{
+  "schema_version": 1,
+  "edition_date": "2026-11-05",
+  "generated_at": "2026-11-05T07:58:00+09:00",
+  "window_start": "2026-11-04T08:00:00+09:00",
+  "window_end": "2026-11-05T07:58:00+09:00",
+  "lead": "米中間選挙で民主党が上下両院を制し、米国の政策運営と世界の金融市場に大きな変化が生じた。原油価格は急落し、AIデータセンター関連では規制懸念が強まる一方、米株全体は上昇。ウクライナでは電力施設と人道支援拠点への攻撃が続いた。日本ではサイバー防衛の情報収集強化案が報じられ、国連は気候変動への適応資金不足を警告した。",
+  "sections": [
+    {
+      "id": "politics",
+      "name": "国内政治・法改正・行政",
+      "importance": 5,
+      "items": [
+        {
+          "id": "politics-001",
+          "title": "日本政府、海外AI企業から未公表のソフトウェア脆弱性情報を収集する方針",
+          "summary": "政府はサイバー攻撃への事前対応を強めるため、海外のAI開発企業などに未公表の脆弱性情報の提供を求める方向と報じられた。正式決定前の報道段階。",
+          "importance": 4,
+          "event_date": "2026-11-04",
+          "sources": [
+            {
+              "name": "Reuters",
+              "url": "https://www.reuters.com/legal/litigation/japan-seek-software-vulnerability-data-us-ai-firms-amid-cyberattack-surge-nikkei-2026-11-04/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "economy",
+      "name": "国内経済・産業",
+      "importance": 4,
+      "items": [
+        {
+          "id": "economy-001",
+          "title": "日経平均が893円安、一時3000円超下落",
+          "summary": "米中間選挙後のAI・半導体関連の規制懸念から売りが広がり、日経平均は6万2188円63銭で取引を終えた。",
+          "importance": 4,
+          "event_date": "2026-11-04",
+          "sources": [
+            {
+              "name": "株探",
+              "url": "https://s.kabutan.jp/news/n202611041160/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "finance",
+      "name": "金融・企業",
+      "importance": 5,
+      "items": [
+        {
+          "id": "finance-001",
+          "title": "米民主党が上下両院を制し、米株式市場が上昇",
+          "summary": "米中間選挙で民主党が議会両院の多数派を獲得し、4日の米株式市場ではS&P500が1.6％、ダウ平均が約3％上昇した。",
+          "importance": 5,
+          "event_date": "2026-11-04",
+          "sources": [
+            {
+              "name": "Reuters",
+              "url": "https://www.reuters.com/business/us-stock-index-futures-steady-democrats-seize-congress-2026-11-04/"
+            }
+          ]
+        },
+        {
+          "id": "finance-002",
+          "title": "米原油価格が8％超下落、対イラン政策の転換期待",
+          "summary": "民主党の議会勝利で対イラン戦争の外交的解決への期待が高まり、ブレント原油は8.7％安の94.62ドルとなった。",
+          "importance": 5,
+          "event_date": "2026-11-04",
+          "sources": [
+            {
+              "name": "Reuters",
+              "url": "https://www.reuters.com/business/energy/oil-edges-down-investors-await-us-midterm-election-results-2026-11-04/"
+            }
+          ]
+        },
+        {
+          "id": "finance-003",
+          "title": "米中間選挙後、AIデータセンター関連株と再生可能エネルギー株が明暗",
+          "summary": "AIデータセンター事業者には規制懸念から売りが出る一方、再生可能エネルギー企業には政策支援期待から買いが入った。",
+          "importance": 4,
+          "event_date": "2026-11-04",
+          "sources": [
+            {
+              "name": "Reuters",
+              "url": "https://www.reuters.com/business/aerospace-defense/ai-data-center-stocks-dip-renewables-surge-after-democrat-sweep-us-midterm-2026-11-04/"
+            }
+          ]
+        },
+        {
+          "id": "finance-004",
+          "title": "ECB総裁、気候災害への官民再保険制度と送電網投資を提案",
+          "summary": "ラガルド総裁は熱波や干ばつなどの経済的被害に備え、再保険制度と送電網・蓄電設備への投資を強化する必要があると訴えた。",
+          "importance": 4,
+          "event_date": "2026-11-04",
+          "sources": [
+            {
+              "name": "Reuters",
+              "url": "https://www.reuters.com/sustainability/cop/ecbs-lagarde-urges-climate-resilience-drive-after-scorching-summer-2026-11-04/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "real_estate",
+      "name": "不動産・住宅・建設",
+      "importance": 4,
+      "items": [
+        {
+          "id": "real_estate-001",
+          "title": "米各地でデータセンター建設の禁止・制限策が住民投票で可決",
+          "summary": "米国の少なくとも38自治体でデータセンター建設を禁止・制限する提案が可決され、電力・水・騒音への地域住民の懸念が顕在化した。",
+          "importance": 5,
+          "event_date": "2026-11-04",
+          "sources": [
+            {
+              "name": "Washington Post",
+              "url": "https://www.washingtonpost.com/technology/2026/11/04/voters-pass-over-20-ballot-measures-ban-or-restrict-data-centers/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "international",
+      "name": "外交・国際情勢",
+      "importance": 5,
+      "items": [
+        {
+          "id": "international-001",
+          "title": "米中間選挙で民主党が上下両院を奪還",
+          "summary": "11月3日の米中間選挙で民主党が上下両院の多数派を獲得し、トランプ政権の予算・外交・規制政策への議会監視が強まる見通し。",
+          "importance": 5,
+          "event_date": "2026-11-04",
+          "sources": [
+            {
+              "name": "Reuters",
+              "url": "https://www.reuters.com/world/middle-east/iran-trade-how-us-midterms-impact-rest-world-2026-11-04/"
+            }
+          ]
+        },
+        {
+          "id": "international-002",
+          "title": "ウクライナ支援施設への攻撃、死者40人・行方不明59人に",
+          "summary": "11月2日のザポリージャ州の支援拠点への攻撃について、4日時点で当局が死者40人と行方不明59人を報告した。ロシア側は軍事目標への攻撃と主張。",
+          "importance": 5,
+          "event_date": "2026-11-04",
+          "sources": [
+            {
+              "name": "Reuters",
+              "url": "https://www.reuters.com/world/europe/dozens-dead-missing-after-russian-strike-ukrainian-aid-centre-officials-say-2026-11-04/"
+            }
+          ]
+        },
+        {
+          "id": "international-003",
+          "title": "ロシアがウクライナの発電所を追加攻撃、冬季の電力供給に圧力",
+          "summary": "ロシアはキーウ州とジトーミル州の発電施設を攻撃したと発表し、停電が広がる中でエネルギー設備への攻撃が続いた。",
+          "importance": 5,
+          "event_date": "2026-11-04",
+          "sources": [
+            {
+              "name": "Reuters",
+              "url": "https://www.reuters.com/world/europe/russia-hits-power-stations-ukraines-regions-kyiv-zhytomyr-2026-11-04/"
+            }
+          ]
+        },
+        {
+          "id": "international-004",
+          "title": "ゼレンスキー大統領、米議会選挙結果による対ウクライナ支援増加に期待",
+          "summary": "ウクライナ大統領は民主党の議会勝利を受け、米国の軍事・財政支援が拡大することへの期待を示した。",
+          "importance": 4,
+          "event_date": "2026-11-04",
+          "sources": [
+            {
+              "name": "Reuters",
+              "url": "https://www.reuters.com/world/zelenskiy-hopes-us-election-outcome-will-generate-more-help-ukraine-2026-11-04/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "technology",
+      "name": "科学・AI・技術",
+      "importance": 4,
+      "items": [
+        {
+          "id": "technology-001",
+          "title": "AI設備投資の長期予測に金融業界が警戒感",
+          "summary": "香港の金融会議ではAI計算需要の短期的拡大と長期投資回収の不確実性が議論され、技術進歩の速さが設備投資判断を難しくしているとの見方が示された。",
+          "importance": 3,
+          "event_date": "2026-11-04",
+          "sources": [
+            {
+              "name": "Reuters Breakingviews",
+              "url": "https://www.reuters.com/commentary/breakingviews/hong-kong-summit-exposes-wall-street-ai-confusion-2026-11-04/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "health",
+      "name": "医療・公衆衛生",
+      "importance": 3,
+      "items": [
+        {
+          "id": "health-001",
+          "title": "米議会選挙後、医療保険補助金の復活期待で医療関連株が上昇",
+          "summary": "民主党の議会多数派獲得を受け、医療保険制度の補助金延長や医療扶助削減の見直しへの期待が市場に広がったが、制度変更は未決定。",
+          "importance": 3,
+          "event_date": "2026-11-04",
+          "sources": [
+            {
+              "name": "Reuters",
+              "url": "https://www.reuters.com/business/aerospace-defense/ai-data-center-stocks-dip-renewables-surge-after-democrat-sweep-us-midterm-2026-11-04/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "environment",
+      "name": "環境・エネルギー・気象",
+      "importance": 5,
+      "items": [
+        {
+          "id": "environment-001",
+          "title": "国連、途上国の気候変動適応資金は必要額の1割未満と報告",
+          "summary": "国連報告によると2024年の先進国からの適応資金は282億ドルで、途上国が年間必要とする約3050億ドルを大きく下回った。",
+          "importance": 5,
+          "event_date": "2026-11-04",
+          "sources": [
+            {
+              "name": "Reuters",
+              "url": "https://www.reuters.com/sustainability/cop/rich-countries-fall-far-short-climate-adaptation-funding-un-says-2026-11-04/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "society",
+      "name": "教育・労働・人口・文化・その他社会",
+      "importance": 4,
+      "items": [
+        {
+          "id": "society-001",
+          "title": "米各地でデータセンター建設反対が選挙争点に",
+          "summary": "データセンターの水・電力消費や住民参加の不足を問題視する運動が米国各地の地方選挙に影響し、地域インフラの負担分担が社会的争点となった。",
+          "importance": 4,
+          "event_date": "2026-11-04",
+          "sources": [
+            {
+              "name": "Washington Post",
+              "url": "https://www.washingtonpost.com/technology/2026/11/04/voters-pass-over-20-ballot-measures-ban-or-restrict-data-centers/"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "warnings": [
+    "一部の米国市場記事は米東部時間11月4日の終値に基づく。",
+    "医療分野の独立した臨床・公衆衛生ニュースの確認は限定的。",
+    "同じ選挙を扱う政治・市場記事は異なる事象・影響として分類。"
+  ]
+}
