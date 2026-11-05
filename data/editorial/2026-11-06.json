@@ -1,0 +1,231 @@
+{
+  "schema_version": 1,
+  "edition_date": "2026-11-06",
+  "generated_at": "2026-11-06T07:59:00+09:00",
+  "window_start": "2026-11-05T08:00:00+09:00",
+  "window_end": "2026-11-06T07:59:00+09:00",
+  "lead": "米国ではAI関連投資の採算と規制への懸念から株価が急落し、中国はソフトバンクによるロボット事業買収を阻止した。英国では中銀がインフレを警戒して利上げを決定。黒海の商船攻撃を受けフランスが哨戒を延長し、ホルムズ海峡をめぐる不安で原油価格が反発した。欧州ではデータセンターの環境負荷をめぐる抗議が拡大している。",
+  "sections": [
+    {
+      "id": "politics",
+      "name": "国内政治・法改正・行政",
+      "importance": 3,
+      "items": []
+    },
+    {
+      "id": "economy",
+      "name": "国内経済・産業",
+      "importance": 4,
+      "items": [
+        {
+          "id": "economy-001",
+          "title": "トヨタが通期利益見通しを引き上げ",
+          "summary": "円安と米国のハイブリッド車需要を背景に、トヨタが年間利益見通しを引き上げたと報じられた。",
+          "importance": 4,
+          "event_date": "2026-11-05",
+          "sources": [
+            {
+              "name": "Financial Times",
+              "url": "https://www.ft.com/content/7d123a1c-d627-44c4-adf5-48b75d3313b0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "finance",
+      "name": "金融・企業",
+      "importance": 5,
+      "items": [
+        {
+          "id": "finance-001",
+          "title": "英中銀が政策金利を4％に引き上げ",
+          "summary": "英イングランド銀行は8対1の投票で政策金利を0.25ポイント引き上げ、イラン戦争に伴うインフレ圧力を警戒した。",
+          "importance": 5,
+          "event_date": "2026-11-05",
+          "sources": [
+            {
+              "name": "The Guardian",
+              "url": "https://www.theguardian.com/business/live/2026/nov/05/bank-of-england-interest-rate-decision-pound-inflation-oil-iran-stock-markets-latest-news-updates"
+            }
+          ]
+        },
+        {
+          "id": "finance-002",
+          "title": "米国株がAI投資懸念で急落",
+          "summary": "米国株はAI投資の採算と規制強化への懸念で大幅下落し、ナスダック100は6.4％安、S&P500は4.4％安となった。",
+          "importance": 5,
+          "event_date": "2026-11-05",
+          "sources": [
+            {
+              "name": "Financial Times",
+              "url": "https://www.ft.com/content/7d123a1c-d627-44c4-adf5-48b75d3313b0"
+            }
+          ]
+        },
+        {
+          "id": "finance-003",
+          "title": "中国がソフトバンクのABBロボット事業買収を阻止",
+          "summary": "中国当局は安全保障審査を理由にソフトバンクグループによるABB産業用ロボット事業の54億ドル規模の買収を阻止した。",
+          "importance": 5,
+          "event_date": "2026-11-05",
+          "sources": [
+            {
+              "name": "Reuters Breakingviews",
+              "url": "https://www.reuters.com/commentary/breakingviews/softbank-deal-flags-chinas-ma-hair-trigger-2026-11-05/"
+            }
+          ]
+        },
+        {
+          "id": "finance-004",
+          "title": "日銀議事要旨を受け円高方向に推移",
+          "summary": "日銀の9月会合議事要旨が追加利上げ観測を強め、米中間選挙後のドル安と重なって円が上昇した。",
+          "importance": 4,
+          "event_date": "2026-11-05",
+          "sources": [
+            {
+              "name": "Reuters",
+              "url": "https://live.euronext.com/en/financial-news/dollar-slides-us-election-drives-oil-and-treasury-yields-lower-sterling-gains"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "realestate",
+      "name": "不動産・住宅・建設",
+      "importance": 4,
+      "items": [
+        {
+          "id": "realestate-001",
+          "title": "欧州15か国でデータセンター反対行動を計画",
+          "summary": "100を超える市民団体が電力消費や環境負荷、住宅との競合を理由に大型データセンター計画への抗議を呼びかけた。",
+          "importance": 4,
+          "event_date": "2026-11-05",
+          "sources": [
+            {
+              "name": "The Guardian",
+              "url": "https://www.theguardian.com/world/2026/nov/05/activists-across-europe-protests-ai-against-datacentres"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "international",
+      "name": "外交・国際情勢",
+      "importance": 5,
+      "items": [
+        {
+          "id": "international-001",
+          "title": "フランスが黒海での哨戒機派遣を延長",
+          "summary": "商船への相次ぐ攻撃を受け、フランスはルーマニアに展開中の海上哨戒機の任務を当初予定より数週間延長する。",
+          "importance": 5,
+          "event_date": "2026-11-05",
+          "sources": [
+            {
+              "name": "Reuters",
+              "url": "https://www.reuters.com/world/france-extends-maritime-patrol-planes-stay-black-sea-after-cargo-ship-attacks-2026-11-05/"
+            }
+          ]
+        },
+        {
+          "id": "international-002",
+          "title": "欧州各地で爆破予告により航空便が混乱",
+          "summary": "欧州複数国の航空便で爆破予告に伴う迂回や緊急着陸が相次いだが、報告された検査では爆発物は確認されていない。",
+          "importance": 4,
+          "event_date": "2026-11-05",
+          "sources": [
+            {
+              "name": "Reuters",
+              "url": "https://www.reuters.com/business/aerospace-defense/europe-wide-bomb-threats-disrupt-air-travel-2026-11-03/"
+            }
+          ]
+        },
+        {
+          "id": "international-003",
+          "title": "トルコとアゼルバイジャンの関係に摩擦",
+          "summary": "学校でのスカーフ規制をめぐる批判などで両国間に緊張が生じ、トルコ大統領は関係修復に向けた訪問を表明した。",
+          "importance": 3,
+          "event_date": "2026-11-05",
+          "sources": [
+            {
+              "name": "Reuters",
+              "url": "https://www.reuters.com/world/middle-east/erdogan-says-turkey-azerbaijan-ties-can-overcome-all-obstacles-amid-growing-2026-11-05/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "technology",
+      "name": "科学・AI・技術",
+      "importance": 4,
+      "items": [
+        {
+          "id": "technology-001",
+          "title": "Blue Originの大型ロケット次回打ち上げが延期",
+          "summary": "新型ロケットNew Glennの次回打ち上げは爆発事故を受け2027年1月まで延期されたと報じられた。",
+          "importance": 4,
+          "event_date": "2026-11-05",
+          "sources": [
+            {
+              "name": "Financial Times",
+              "url": "https://www.ft.com/content/7d123a1c-d627-44c4-adf5-48b75d3313b0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "health",
+      "name": "医療・公衆衛生",
+      "importance": 2,
+      "items": []
+    },
+    {
+      "id": "environment",
+      "name": "環境・エネルギー",
+      "importance": 5,
+      "items": [
+        {
+          "id": "environment-001",
+          "title": "原油価格がタンカー攻撃で再上昇",
+          "summary": "タンカー攻撃と米イラン協議の不透明感を受け、ブレント原油は前日比3.88％高の98.29ドルで取引を終えた。",
+          "importance": 5,
+          "event_date": "2026-11-05",
+          "sources": [
+            {
+              "name": "Reuters",
+              "url": "https://www.reuters.com/business/energy/oil-falls-fourth-day-expectations-lower-risk-iran-war-escalation-2026-11-05/"
+            }
+          ]
+        },
+        {
+          "id": "environment-002",
+          "title": "中国の軽油在庫が記録的低水準に",
+          "summary": "中国の10月末の商業用軽油在庫は2011年の統計開始以来最低となり、11月の輸出減少が見込まれる。",
+          "importance": 4,
+          "event_date": "2026-11-05",
+          "sources": [
+            {
+              "name": "Reuters",
+              "url": "https://www.reuters.com/business/energy/chinas-november-diesel-exports-ease-amid-thin-domestic-stocks-sources-say-2026-11-05/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "society",
+      "name": "教育・労働・人口・文化・その他社会",
+      "importance": 3,
+      "items": []
+    }
+  ],
+  "warnings": [
+    "国内政治・法改正・行政、医療・公衆衛生、社会分野では対象期間内に十分検証できた独立記事がなく未掲載。",
+    "記事の一部は現地日付で確認しており日本時間の発生時刻は未確認。",
+    "金融市場の数値は各媒体の報道時点に基づく。"
+  ]
+}
