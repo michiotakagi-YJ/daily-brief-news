@@ -1,0 +1,244 @@
+{
+  "schema_version": 1,
+  "edition_date": "2026-11-07",
+  "generated_at": "2026-11-07T08:01:13+09:00",
+  "window_start": "2026-11-06T08:00:00+09:00",
+  "window_end": "2026-11-07T08:01:13+09:00",
+  "lead": "米国の10月雇用統計は予想を上回り利上げ観測が強まった一方、AI関連株の急落は日本やアジアに波及した。日本政府は日銀ETF売却収入の活用を検討し、中国は日本・EU製化学原料への反ダンピング調査を開始。ウクライナではインフラ攻撃への警戒が続き、欧州ではエネルギー供給と気候対策の両立が課題となった。",
+  "sections": [
+    {
+      "id": "politics",
+      "name": "国内政治・法改正・行政",
+      "importance": 5,
+      "items": [
+        {
+          "id": "politics-001",
+          "title": "高市首相、日銀ETF売却収入を成長投資財源に活用する方針",
+          "summary": "日銀が保有ETFの売却を増やす中、政府は売却収入を経済安全保障や成長分野の投資に振り向ける構想を示した。",
+          "importance": 5,
+          "event_date": "2026-11-06",
+          "sources": [
+            {
+              "name": "Reuters",
+              "url": "https://www.reuters.com/world/asia-pacific/japan-vigilant-market-moves-will-focus-boosting-economy-pm-takaichi-says-2026-11-06/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "economy",
+      "name": "国内経済・産業",
+      "importance": 4,
+      "items": [
+        {
+          "id": "economy-001",
+          "title": "中国、日本・EU製の合成ゴム原料に反ダンピング調査",
+          "summary": "中国商務省はEPDMゴムなどに使うENBの日本・EUからの輸入について、2025年7月からの価格などを対象に調査を開始した。",
+          "importance": 4,
+          "event_date": "2026-11-06",
+          "sources": [
+            {
+              "name": "Reuters",
+              "url": "https://www.reuters.com/world/asia-pacific/china-launches-anti-dumping-probe-into-eu-japan-enb-imports-2026-11-06/"
+            }
+          ]
+        },
+        {
+          "id": "economy-002",
+          "title": "日経平均、3643円安で5万7434円に急落",
+          "summary": "米国のAI関連株急落が波及し、11月6日の日経平均は大幅続落して6万円を下回った。",
+          "importance": 5,
+          "event_date": "2026-11-06",
+          "sources": [
+            {
+              "name": "株探ニュース",
+              "url": "https://finance.yahoo.co.jp/news/detail/0ca78fa9f4c67217d661ee7fa429eb0f57508eb6"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "finance",
+      "name": "金融・企業",
+      "importance": 5,
+      "items": [
+        {
+          "id": "finance-001",
+          "title": "米10月雇用者数16.5万人増、失業率4.1％に低下",
+          "summary": "米雇用統計は市場予想を上回り、FRBの12月利上げ観測を強めた。",
+          "importance": 5,
+          "event_date": "2026-11-06",
+          "sources": [
+            {
+              "name": "Reuters",
+              "url": "https://www.reuters.com/business/us-job-growth-beats-expectations-october-unemployment-rate-falls-41-2026-11-06/"
+            }
+          ]
+        },
+        {
+          "id": "finance-002",
+          "title": "米マネーマーケットファンドに約1180億ドル流入",
+          "summary": "11月4日までの1週間に安全資産志向が強まり、米MMFは約6か月ぶりの大幅純流入となった。",
+          "importance": 4,
+          "event_date": "2026-11-06",
+          "sources": [
+            {
+              "name": "Reuters",
+              "url": "https://www.reuters.com/business/caution-over-midterms-ai-cash-burn-drives-surge-us-money-market-fund-inflows-2026-11-06/"
+            }
+          ]
+        },
+        {
+          "id": "finance-003",
+          "title": "ヘッジファンド、ハイテク株急落でリスク削減",
+          "summary": "世界的な株安で一部運用会社が人員削減やポジション圧縮を進め、同時売却の波及が警戒されている。",
+          "importance": 4,
+          "event_date": "2026-11-06",
+          "sources": [
+            {
+              "name": "Reuters",
+              "url": "https://www.reuters.com/world/china/tech-selloff-wipes-out-hedge-fund-gains-prompting-risk-cuts-layoffs-2026-11-06/"
+            }
+          ]
+        },
+        {
+          "id": "finance-004",
+          "title": "米株、前日の急落後にハイテク中心に一部反発",
+          "summary": "11月6日のナスダック総合指数は1.09％上昇したが、週単位では下落が続きAI投資への懸念が残った。",
+          "importance": 4,
+          "event_date": "2026-11-06",
+          "sources": [
+            {
+              "name": "The Guardian",
+              "url": "https://www.theguardian.com/business/live/2026/nov/06/global-stocks-tumble-ai-panic-markets-democrats-midterms-success-jobs-oil-dollar-latest-news-updates"
+            }
+          ]
+        },
+        {
+          "id": "finance-005",
+          "title": "サンフランシスコ連銀総裁、追加利上げの必要性を示唆",
+          "summary": "デイリー総裁はハイテク株急落を秩序だった調整と評し、インフレ抑制のため追加引き締めの可能性を示した。",
+          "importance": 4,
+          "event_date": "2026-11-06",
+          "sources": [
+            {
+              "name": "Reuters",
+              "url": "https://www.reuters.com/business/daly-says-fed-rate-hike-likely-despite-painful-tech-stock-dive-2026-11-06/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "realestate",
+      "name": "不動産・住宅・建設",
+      "importance": 3,
+      "items": []
+    },
+    {
+      "id": "international",
+      "name": "外交・国際情勢",
+      "importance": 5,
+      "items": [
+        {
+          "id": "international-001",
+          "title": "ウクライナ大統領、ロシアによる電力・橋梁への追加攻撃を警告",
+          "summary": "ゼレンスキー大統領は情報機関の分析を基に新たな攻撃への警戒を表明し、パトリオット用ミサイルの迅速な供給を求めた。",
+          "importance": 5,
+          "event_date": "2026-11-06",
+          "sources": [
+            {
+              "name": "Reuters",
+              "url": "https://www.reuters.com/world/ukraines-zelenskiy-russian-forces-plan-new-strikes-energy-targets-bridges-2026-11-06/"
+            }
+          ]
+        },
+        {
+          "id": "international-002",
+          "title": "ロシア、ウクライナ和平協議への欧州参加が必要と表明",
+          "summary": "ロシア大統領府は将来の安全保障保証の議論に欧州諸国の関与が不可欠としつつ、代表者の調整が進んでいないと批判した。",
+          "importance": 4,
+          "event_date": "2026-11-06",
+          "sources": [
+            {
+              "name": "Reuters",
+              "url": "https://www.reuters.com/world/europe/kremlin-accuses-europe-struggling-decide-who-will-speak-it-at-future-ukraine-2026-11-06/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "technology",
+      "name": "科学・AI・技術",
+      "importance": 4,
+      "items": []
+    },
+    {
+      "id": "health",
+      "name": "医療・公衆衛生",
+      "importance": 3,
+      "items": []
+    },
+    {
+      "id": "environment",
+      "name": "環境・エネルギー・気象",
+      "importance": 5,
+      "items": [
+        {
+          "id": "environment-001",
+          "title": "EU、輸入燃料のメタン排出報告義務を1年延期する方針",
+          "summary": "加盟国はイラン戦争に伴うエネルギー供給混乱を理由に2028年開始を支持し、欧州議会との最終調整に進む。",
+          "importance": 4,
+          "event_date": "2026-11-06",
+          "sources": [
+            {
+              "name": "Reuters",
+              "url": "https://www.reuters.com/world/eu-backs-one-year-delay-methane-rules-over-iran-war-disruption-2026-11-06/"
+            }
+          ]
+        },
+        {
+          "id": "environment-002",
+          "title": "2026年の世界平均気温、産業革命前比1.5度超の公算",
+          "summary": "欧州の気象機関コペルニクスは単年平均で1.5度を超える可能性が極めて高いとし、長期的なパリ協定目標との違いも指摘した。",
+          "importance": 5,
+          "event_date": "2026-11-06",
+          "sources": [
+            {
+              "name": "Financial Times",
+              "url": "https://www.ft.com/content/1860f560-2400-4881-a98f-9101eb3d8705"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "society",
+      "name": "教育・労働・人口・文化・その他社会",
+      "importance": 4,
+      "items": [
+        {
+          "id": "society-001",
+          "title": "米雇用増でも若年層の就職難と不本意な短時間労働が課題",
+          "summary": "10月の米雇用統計では雇用者数が増加した一方、長期失業や不本意なパートタイム就労の増加が確認された。",
+          "importance": 4,
+          "event_date": "2026-11-06",
+          "sources": [
+            {
+              "name": "Reuters",
+              "url": "https://www.reuters.com/business/us-job-growth-beats-expectations-october-unemployment-rate-falls-41-2026-11-06/"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "warnings": [
+    "対象期間の全分野について検索したが、不動産・科学技術・医療の独立した新規記事は十分な検証ができず未収録。",
+    "海外記事の日本時間での厳密な配信時刻は一部未確認。",
+    "同一の米雇用統計を金融政策と労働社会の異なる観点で収録。"
+  ]
+}
