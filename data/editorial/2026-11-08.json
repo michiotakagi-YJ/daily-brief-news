@@ -1,0 +1,140 @@
+{
+  "schema_version": 1,
+  "edition_date": "2026-11-08",
+  "generated_at": "2026-11-08T08:01:44+09:00",
+  "window_start": "2026-11-07T08:00:00+09:00",
+  "window_end": "2026-11-08T08:01:44+09:00",
+  "lead": "ニュージーランド総選挙は与党連合が僅差で過半数を確保する暫定結果となったが、未集計票が多く政権の行方は不透明。イスラエルでは野党指導者に組閣の機会が与えられ、米国はイランへの制裁・封鎖を陸路にも拡大する。イエメンやウクライナでは攻撃の報告が続いた。環境分野では、AIの自然保護利用と電力負荷の両面、トルコの埋立地からのメタン排出が焦点となった。",
+  "sections": [
+    {
+      "id": "international",
+      "name": "外交・国際情勢",
+      "importance": 5,
+      "items": [
+        {
+          "id": "international-001",
+          "title": "ニュージーランド総選挙、与党連合が暫定67議席で辛うじて過半数",
+          "summary": "11月7日の暫定集計で国民党など与党3党は予測131議席中67議席となったが、特別票約14％が未集計で政権継続は確定していない。",
+          "importance": 5,
+          "event_date": "2026-11-07",
+          "sources": [
+            {
+              "name": "Reuters",
+              "url": "https://www.reuters.com/world/asia-pacific/new-zealand-vote-leaves-national-labour-nearly-deadlocked-2026-11-07/"
+            }
+          ]
+        },
+        {
+          "id": "international-002",
+          "title": "イスラエル大統領、野党アイゼンコット氏に組閣を要請",
+          "summary": "10月の総選挙で過半数を得た陣営がなかったため、ヘルツォグ大統領はアイゼンコット氏に組閣を試みるよう求めたが、連立成立の見通しは不透明。",
+          "importance": 5,
+          "event_date": "2026-11-07",
+          "sources": [
+            {
+              "name": "Reuters",
+              "url": "https://www.reuters.com/world/middle-east/israeli-president-picks-gadi-eisenkot-netanyahu-rival-form-government-2026-11-07/"
+            }
+          ]
+        },
+        {
+          "id": "international-003",
+          "title": "米軍、イランの陸路・カスピ海経由の物資流通を制限する新部隊",
+          "summary": "米中央軍は海上封鎖に加え、制裁対象物資や軍民両用技術の陸路搬入を阻むためタスクフォース「Iron Gate」を設置すると発表した。",
+          "importance": 5,
+          "event_date": "2026-11-07",
+          "sources": [
+            {
+              "name": "Reuters",
+              "url": "https://www.reuters.com/world/middle-east/expanding-naval-blockade-us-military-looks-restrict-iranian-land-commerce-2026-11-07/"
+            }
+          ]
+        },
+        {
+          "id": "international-004",
+          "title": "イエメン首都近郊で空爆、フーシ派側が多数の死傷者を報告",
+          "summary": "フーシ派系保健当局は11月7日の空爆で少なくとも27人が死亡したと発表しサウジアラビアを非難したが、攻撃主体と被害規模は独立確認されていない。",
+          "importance": 5,
+          "event_date": "2026-11-07",
+          "sources": [
+            {
+              "name": "Reuters",
+              "url": "https://www.reuters.com/world/middle-east/houthi-run-health-ministry-says-airstrikes-it-blames-saudi-arabia-kill-27-near-2026-11-07/"
+            }
+          ]
+        },
+        {
+          "id": "international-005",
+          "title": "ロシア、キーウ周辺の電力・交通インフラ攻撃を発表",
+          "summary": "ロシア国防省はキーウの橋や工場、周辺地域の変電所などを攻撃したと主張し、民生インフラへの影響と黒海航行の安全性が懸念される。",
+          "importance": 5,
+          "event_date": "2026-11-07",
+          "sources": [
+            {
+              "name": "Reuters",
+              "url": "https://www.reuters.com/world/europe/russia-says-it-hit-targets-around-kyiv-massive-overnight-strike-2026-11-07/"
+            }
+          ]
+        },
+        {
+          "id": "international-006",
+          "title": "インドネシアで政権支持集会と女性団体の抗議行進が同日開催",
+          "summary": "ジャカルタではプラボウォ大統領を支持する労働者と、女性の権利や森林火災対策などを訴える市民団体がそれぞれデモを行った。",
+          "importance": 3,
+          "event_date": "2026-11-07",
+          "sources": [
+            {
+              "name": "Reuters",
+              "url": "https://www.reuters.com/world/asia-pacific/indonesian-workers-rally-prabowo-women-march-against-president-2026-11-07/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "technology",
+      "name": "科学・AI・技術",
+      "importance": 4,
+      "items": [
+        {
+          "id": "technology-001",
+          "title": "自然保護団体がAI活用を拡大、データセンターの環境負荷も課題",
+          "summary": "ロイターが取材した15団体はいずれもAIを利用し、野生動物の画像分析や森林火災の早期発見を効率化する一方、電力・水消費を懸念している。",
+          "importance": 4,
+          "event_date": "2026-11-07",
+          "sources": [
+            {
+              "name": "Reuters",
+              "url": "https://www.reuters.com/sustainability/cop/environmental-groups-embrace-ai-even-they-warn-data-center-impacts-2026-11-07/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "environment",
+      "name": "環境・エネルギー・気象",
+      "importance": 4,
+      "items": [
+        {
+          "id": "environment-001",
+          "title": "トルコの大規模埋立地、衛星観測で高水準のメタン漏出を検出",
+          "summary": "COP31開催国トルコの主要廃棄物処分場で衛星が大量のメタンを検出し、施設側は観測値の代表性に異議を唱えるなど、排出量評価と回収対策が課題になっている。",
+          "importance": 4,
+          "event_date": "2026-11-07",
+          "sources": [
+            {
+              "name": "Reuters",
+              "url": "https://www.reuters.com/sustainability/cop/cop31-comes-turkey-satellites-reveal-landfill-methane-problem-2026-11-07/"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "warnings": [
+    "対象期間内の独立記事を十分に確認できなかった国内政治・国内経済・金融企業・不動産・医療・教育労働社会分野は未掲載。",
+    "空爆被害・攻撃目標については当事者発表を独立確認できない部分がある。",
+    "一部記事の発生時刻は日付単位の確認。"
+  ]
+}
