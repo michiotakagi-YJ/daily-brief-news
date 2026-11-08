@@ -1,0 +1,152 @@
+{
+  "schema_version": 1,
+  "edition_date": "2026-11-09",
+  "generated_at": "2026-11-09T08:09:00+09:00",
+  "window_start": "2026-11-08T08:00:00+09:00",
+  "window_end": "2026-11-09T08:09:00+09:00",
+  "lead": "中東ではフーシ派によるサウジアラビアへの攻撃と米イラン交渉が並行。ウクライナでは電力施設への攻撃と原発の外部電源喪失が発生した一方、和平協議への欧州参加が表明された。COP31開幕を前に気候資金の不足も焦点となっている。",
+  "sections": [
+    {
+      "id": "diplomacy",
+      "name": "外交・国際情勢",
+      "importance": 5,
+      "items": [
+        {
+          "id": "diplomacy-001",
+          "title": "フーシ派の攻撃でリヤドのアラムコ関連施設が損傷",
+          "summary": "サウジ当局は迎撃した飛翔体の破片による建物損傷を確認し、死傷者はいないと説明した。",
+          "importance": 5,
+          "event_date": "2026-11-08",
+          "sources": [
+            {
+              "name": "Reuters",
+              "url": "https://www.reuters.com/world/middle-east/loud-booms-heard-saudi-capital-riyadh-after-early-warning-alert-issued-2026-11-08/"
+            }
+          ]
+        },
+        {
+          "id": "diplomacy-002",
+          "title": "米大統領、イランとの合意進展なら再攻撃の可能性低いと発言",
+          "summary": "トランプ大統領は交渉進展を条件に再攻撃の可能性が低いと述べたが、ホルムズ海峡周辺の船舶被害に関する主張は未検証。",
+          "importance": 5,
+          "event_date": "2026-11-08",
+          "sources": [
+            {
+              "name": "Reuters",
+              "url": "https://www.reuters.com/world/middle-east/iran-suggests-blasts-are-not-us-attacks-both-sides-report-ships-hit-2026-11-08/"
+            }
+          ]
+        },
+        {
+          "id": "diplomacy-003",
+          "title": "イスラエル野党アイゼンコット氏、幅広い連立政権を模索",
+          "summary": "組閣を委任されたアイゼンコット氏は幅広い連立を目指すが議会多数派の形成は不透明。",
+          "importance": 4,
+          "event_date": "2026-11-08",
+          "sources": [
+            {
+              "name": "Reuters",
+              "url": "https://www.reuters.com/world/middle-east/netanyahu-rival-eisenkot-seeks-wide-government-path-power-uncertain-2026-11-08/"
+            }
+          ]
+        },
+        {
+          "id": "diplomacy-004",
+          "title": "フランス、ウクライナ和平協議への欧州参加を表明",
+          "summary": "仏外相は11月10～11日に予定されるアブダビでの協議に欧州が参加すると表明した。",
+          "importance": 5,
+          "event_date": "2026-11-08",
+          "sources": [
+            {
+              "name": "Reuters",
+              "url": "https://www.reuters.com/world/europe/europeans-will-join-ukraine-talks-abu-dhabi-french-foreign-minister-says-2026-11-08/"
+            }
+          ]
+        },
+        {
+          "id": "diplomacy-005",
+          "title": "ロシアが黒海貨物船攻撃を主張、ウクライナで60万人超停電",
+          "summary": "ロシアは貨物船と変電所を攻撃したと発表し、ウクライナ電力会社は60万人以上の停電を報告した。",
+          "importance": 5,
+          "event_date": "2026-11-08",
+          "sources": [
+            {
+              "name": "Reuters",
+              "url": "https://www.reuters.com/world/russia-says-hit-power-substations-ukraine-three-ships-black-sea-2026-11-08/"
+            }
+          ]
+        },
+        {
+          "id": "diplomacy-006",
+          "title": "G7外相、親ロシア派の関与が疑われるサイバー攻撃を議論へ",
+          "summary": "イタリア外相はパリでのG7会合で最近のサイバー攻撃を取り上げると述べた。",
+          "importance": 3,
+          "event_date": "2026-11-08",
+          "sources": [
+            {
+              "name": "Reuters",
+              "url": "https://www.reuters.com/world/g7-ministers-discuss-recent-cyber-attacks-italy-says-2026-11-08/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "energy",
+      "name": "環境・エネルギー・気象",
+      "importance": 5,
+      "items": [
+        {
+          "id": "energy-001",
+          "title": "ザポリージャ原発、外部電源を一時喪失し復旧",
+          "summary": "IAEAは原発の外部電源が途絶え非常用発電機を使用した後、送電が復旧したと発表した。",
+          "importance": 5,
+          "event_date": "2026-11-08",
+          "sources": [
+            {
+              "name": "Reuters",
+              "url": "https://www.reuters.com/world/zaporizhzhia-nuclear-plant-loses-external-power-supply-russian-installed-2026-11-08/"
+            }
+          ]
+        },
+        {
+          "id": "energy-002",
+          "title": "COP31を前に気候資金と排出削減の実効性が焦点",
+          "summary": "トルコで始まるCOP31に向け、途上国の適応資金や排出削減策の実効性を巡る対立が浮上した。",
+          "importance": 4,
+          "event_date": "2026-11-08",
+          "sources": [
+            {
+              "name": "The Guardian",
+              "url": "https://www.theguardian.com/environment/2026/nov/08/cop31-climate-summit-deliver-progress-real-host-says"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "society",
+      "name": "教育・労働・人口・文化・その他社会",
+      "importance": 3,
+      "items": [
+        {
+          "id": "society-001",
+          "title": "ローマ教皇、アルゼンチンで法の支配と弱者への配慮を訴え",
+          "summary": "教皇レオは政治指導者に権力の限界と法の支配を尊重するよう求めた。",
+          "importance": 3,
+          "event_date": "2026-11-08",
+          "sources": [
+            {
+              "name": "Reuters",
+              "url": "https://www.reuters.com/world/americas/pope-leo-heads-mileis-argentina-tensions-loom-over-austerity-iran-2026-11-08/"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "warnings": [
+    "国内政治・国内経済・金融・不動産・科学AI・医療の対象時間内の独立記事は十分に検証できず未掲載。",
+    "戦闘・船舶被害には独立検証されていない当事者発表が含まれる。"
+  ]
+}
