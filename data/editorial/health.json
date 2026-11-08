@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "checked_at": "2026-11-09T06:24:01+09:00",
+  "checked_at": "2026-11-09T08:05:27+09:00",
   "expected_date": "2026-11-09",
   "last_published": {
     "date": "2026-11-08",
@@ -8,6 +8,12 @@
   },
   "current_day_present": false,
   "invalid_editions": [],
-  "attempt": null,
+  "attempt": {
+    "schema_version": 1,
+    "date": "2026-11-09",
+    "source": "chatgpt_scheduled_task",
+    "status": "started",
+    "started_at": "2026-11-09T08:04:48+09:00"
+  },
   "status": "awaiting_edition"
 }
