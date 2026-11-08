@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-09T08:06:00.863428+09:00",
+  "updated_at": "2026-11-09T08:06:39.778278+09:00",
   "days": [
     {
       "date": "2026-11-09",
@@ -181,5 +181,5 @@
   "sources_failed": [
     "impress_crypto"
   ],
-  "new_items": 5
+  "new_items": 0
 }
