@@ -1,0 +1,193 @@
+{
+  "schema_version": 1,
+  "edition_date": "2026-11-10",
+  "generated_at": "2026-11-10T08:08:00+09:00",
+  "window_start": "2026-11-09T08:00:00+09:00",
+  "window_end": "2026-11-10T08:08:00+09:00",
+  "lead": "日本では財務省が過去最大となった7月の円買い介入の日次実績を公表。米国株は原油安を受け反発した一方、AI関連の不確実性が残った。台湾の輸出はAI需要で過去最高を更新。中東では米イランの仲介外交が続き、ウクライナ和平協議も予定される。トルコではCOP31が開幕し、気候資金と電化の実効性が問われている。",
+  "sections": [
+    {
+      "id": "politics",
+      "name": "国内政治・法改正・行政",
+      "importance": 4,
+      "items": [
+        {
+          "id": "politics-001",
+          "title": "米大統領、AI安全規制で民主党との協議に前向き",
+          "summary": "トランプ大統領はAIのリスク管理策を容認する姿勢を示したが、規制の内容や法案は未確定。",
+          "importance": 4,
+          "event_date": "2026-11-09",
+          "sources": [
+            {
+              "name": "Reuters",
+              "url": "https://www.reuters.com/world/trump-says-ai-risks-can-be-managed-signals-openness-guardrails-2026-11-09/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "domestic-economy",
+      "name": "国内経済・産業",
+      "importance": 5,
+      "items": [
+        {
+          "id": "domestic-economy-001",
+          "title": "財務省、7月30日の円買い介入が過去最大の7.98兆円と公表",
+          "summary": "7月30日の円買い介入額は7.98兆円で日次最高を更新し、7月31日と8月3日にも介入していたことが判明。",
+          "importance": 5,
+          "event_date": "2026-11-09",
+          "sources": [
+            {
+              "name": "Reuters",
+              "url": "https://www.reuters.com/world/asia-pacific/japans-july-yen-buying-intervention-sets-fresh-daily-record-2026-11-09/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "finance",
+      "name": "金融・企業",
+      "importance": 5,
+      "items": [
+        {
+          "id": "finance-001",
+          "title": "米国株反発、S&P500が2.35％上昇",
+          "summary": "11月9日の米市場は原油安を背景にS&P500が2.35％、ナスダックが2.74％上昇した一方、エヌビディアは4.2％下落。",
+          "importance": 5,
+          "event_date": "2026-11-09",
+          "sources": [
+            {
+              "name": "Reuters",
+              "url": "https://www.reuters.com/business/wall-st-futures-rise-after-rough-week-nvidia-unsettles-investors-2026-11-09/"
+            }
+          ]
+        },
+        {
+          "id": "finance-002",
+          "title": "インド株、原油安とAI銘柄からの資金移動で見直し",
+          "summary": "シティとHSBCはインド株への評価を引き上げ、原油価格低下と海外投資家の資金流入を背景に挙げた。",
+          "importance": 3,
+          "event_date": "2026-11-09",
+          "sources": [
+            {
+              "name": "Reuters",
+              "url": "https://www.reuters.com/business/citi-bullish-indian-equities-sees-nifty-28000-by-end-2027-2026-11-09/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "international",
+      "name": "外交・国際情勢",
+      "importance": 5,
+      "items": [
+        {
+          "id": "international-001",
+          "title": "米国とイランの仲介協議続くも早期合意は不透明",
+          "summary": "カタール首相がワシントンで米政権と協議する一方、港湾封鎖や制裁緩和を巡る双方の立場には隔たりが残る。",
+          "importance": 5,
+          "event_date": "2026-11-09",
+          "sources": [
+            {
+              "name": "Reuters",
+              "url": "https://www.reuters.com/world/middle-east/trump-meet-iran-war-mediator-qatar-no-imminent-deal-seen-end-war-2026-11-09/"
+            }
+          ]
+        },
+        {
+          "id": "international-002",
+          "title": "ウクライナ大統領がインド首相と協議、和平交渉を控え",
+          "summary": "11月10〜11日のアブダビでの米露ウクライナ協議を前に、ゼレンスキー大統領はモディ首相と和平や黒海穀物輸送を協議した。",
+          "importance": 5,
+          "event_date": "2026-11-09",
+          "sources": [
+            {
+              "name": "Reuters",
+              "url": "https://www.reuters.com/world/india/zelenskiy-speaks-modi-ahead-ukraine-russia-talks-2026-11-09/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "technology",
+      "name": "科学・AI・技術",
+      "importance": 5,
+      "items": [
+        {
+          "id": "technology-001",
+          "title": "台湾の10月輸出、AI需要で前年比58.9％増",
+          "summary": "台湾の10月輸出額は過去最高の967.6億ドルとなり、AI向け半導体・電子部品の需要拡大がけん引した。",
+          "importance": 5,
+          "event_date": "2026-11-09",
+          "sources": [
+            {
+              "name": "Reuters",
+              "url": "https://www.reuters.com/world/asia-pacific/taiwans-october-exports-surge-again-strong-ai-demand-2026-11-09/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "environment",
+      "name": "環境・エネルギー・気象",
+      "importance": 5,
+      "items": [
+        {
+          "id": "environment-001",
+          "title": "COP31開幕、電化目標と気候資金が焦点",
+          "summary": "トルコ・アンタルヤで国連気候会議が始まり、2035年までに世界経済の3分の1超を電化する提案や資金支援が議題となった。",
+          "importance": 5,
+          "event_date": "2026-11-09",
+          "sources": [
+            {
+              "name": "Reuters",
+              "url": "https://www.reuters.com/sustainability/cop/cop31-open-turkey-with-climate-goals-under-pressure-war-ai-2026-11-09/"
+            }
+          ]
+        },
+        {
+          "id": "environment-002",
+          "title": "原油反落、ブレントは92.57ドルに",
+          "summary": "米国によるイラン再攻撃の可能性が低いとの発言を受け、ブレント原油は11月9日に5.85％下落した。",
+          "importance": 5,
+          "event_date": "2026-11-09",
+          "sources": [
+            {
+              "name": "Reuters",
+              "url": "https://www.reuters.com/world/asia-pacific/global-markets-global-markets-2026-11-09/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "society",
+      "name": "教育・労働・人口・文化・その他社会",
+      "importance": 4,
+      "items": [
+        {
+          "id": "society-001",
+          "title": "独首相、反ユダヤ主義の拡大に警鐘",
+          "summary": "水晶の夜の記念日にメルツ首相はユダヤ人社会の保護を訴え、監視団体は昨年8725件の反ユダヤ主義事案を記録したと報告。",
+          "importance": 4,
+          "event_date": "2026-11-09",
+          "sources": [
+            {
+              "name": "Reuters",
+              "url": "https://www.reuters.com/world/merz-says-germany-faces-historic-test-over-rise-antisemitism-2026-11-09/"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "warnings": [
+    "不動産・住宅・建設および医療・公衆衛生では対象期間内の独立した新規記事を十分に確認できず不掲載。",
+    "一部の報道は11月9日付であり、配信時刻の日本時間換算は個別に確証できていない。"
+  ]
+}
