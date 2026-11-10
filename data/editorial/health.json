@@ -1,19 +1,21 @@
 {
   "schema_version": 1,
-  "checked_at": "2026-11-11T08:01:54+09:00",
+  "checked_at": "2026-11-11T08:02:49+09:00",
   "expected_date": "2026-11-11",
   "last_published": {
-    "date": "2026-11-10",
-    "count": 10
+    "date": "2026-11-11",
+    "count": 13
   },
-  "current_day_present": false,
+  "current_day_present": true,
   "invalid_editions": [],
   "attempt": {
     "schema_version": 1,
     "date": "2026-11-11",
     "source": "chatgpt_scheduled_task",
-    "status": "started",
-    "started_at": "2026-11-11T08:01:01+09:00"
+    "status": "published",
+    "started_at": "2026-11-11T08:01:01+09:00",
+    "published_commit_sha": "1f42a4cd2d0876067ab482287803a8c85e0255df",
+    "published_at": "2026-11-11T08:01:01+09:00"
   },
-  "status": "awaiting_edition"
+  "status": "ready"
 }
