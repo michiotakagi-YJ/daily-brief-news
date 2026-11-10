@@ -2,6 +2,8 @@
   "schema_version": 1,
   "date": "2026-11-11",
   "source": "chatgpt_scheduled_task",
-  "status": "started",
-  "started_at": "2026-11-11T08:01:01+09:00"
+  "status": "published",
+  "started_at": "2026-11-11T08:01:01+09:00",
+  "published_commit_sha": "1f42a4cd2d0876067ab482287803a8c85e0255df",
+  "published_at": "2026-11-11T08:01:01+09:00"
 }
