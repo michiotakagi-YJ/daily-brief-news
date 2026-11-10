@@ -1,0 +1,232 @@
+{
+  "schema_version": 1,
+  "edition_date": "2026-11-11",
+  "generated_at": "2026-11-11T08:01:01+09:00",
+  "window_start": "2026-11-10T08:00:00+09:00",
+  "window_end": "2026-11-11T08:01:01+09:00",
+  "lead": "日銀の10月会合で追加利上げのペースを巡る意見の違いが明らかになり、米FRB理事も12月利上げを支持した。中国の貿易黒字は1兆ドルを超え、AI需要が輸出を押し上げている。ウクライナ和平協議がアブダビで始まる一方、ホルムズ海峡の航行安全を巡る協力は進んでいない。COP31では太陽光導入拡大と排出削減の実効性が議論された。",
+  "sections": [
+    {
+      "id": "politics",
+      "name": "国内政治・法改正・行政",
+      "importance": 4,
+      "items": [
+        {
+          "id": "politics-001",
+          "title": "日銀ETF売却加速、追加収益は年約1兆円との試算",
+          "summary": "片山財務相は、日銀のETF売却加速により年約1兆円の追加収益が見込まれるとの推計を紹介したが、国庫納付額は決算と予算手続き次第と説明した。",
+          "importance": 4,
+          "event_date": "2026-11-10",
+          "sources": [
+            {
+              "name": "Reuters",
+              "url": "https://www.reuters.com/world/asia-pacific/boj-estimates-6-billion-annual-gain-faster-etf-sales-finance-minister-says-2026-11-10/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "economy",
+      "name": "国内経済・産業",
+      "importance": 4,
+      "items": [
+        {
+          "id": "economy-001",
+          "title": "9月の日本の家計支出、悪天候の影響で低迷",
+          "summary": "総務省の9月家計調査を報じたロイターは、悪天候などによる家計支出の弱さを伝え、個人消費の回復力に課題が残ることを示した。",
+          "importance": 4,
+          "event_date": "2026-11-10",
+          "sources": [
+            {
+              "name": "Reuters",
+              "url": "https://www.reuters.com/world/asia-pacific/japan-september-household-spending-slumps-amid-bad-weather-2026-11-10/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "finance",
+      "name": "金融・企業",
+      "importance": 5,
+      "items": [
+        {
+          "id": "finance-001",
+          "title": "日銀10月会合、利上げ加速を求める意見が浮上",
+          "summary": "日銀が公表した10月会合の主な意見では、基調物価の上昇を受け早期利上げを求める声と、消費やAI需要への懸念から慎重さを求める声が併存した。",
+          "importance": 5,
+          "event_date": "2026-11-10",
+          "sources": [
+            {
+              "name": "Reuters",
+              "url": "https://www.reuters.com/world/asia-pacific/some-boj-called-faster-rate-hikes-october-summary-shows-2026-11-10/"
+            }
+          ]
+        },
+        {
+          "id": "finance-002",
+          "title": "FRBウォラー理事、12月の利上げ支持を表明",
+          "summary": "ウォラー理事はインフレ鈍化が見込まれても12月に少なくとも0.25ポイントの利上げを支持し、物価次第では0.5ポイントも検討すべきだと述べた。",
+          "importance": 5,
+          "event_date": "2026-11-10",
+          "sources": [
+            {
+              "name": "Reuters",
+              "url": "https://www.reuters.com/business/feds-waller-plans-support-least-quarter-point-rate-hike-december-2026-11-10/"
+            }
+          ]
+        },
+        {
+          "id": "finance-003",
+          "title": "中国の1〜10月貿易黒字、1兆ドルを突破",
+          "summary": "中国税関の統計で10月輸出は前年同月比35.2％増となり、AI関連需要を背景に年初からの貿易黒字が1.04兆ドルに達した。",
+          "importance": 5,
+          "event_date": "2026-11-10",
+          "sources": [
+            {
+              "name": "Reuters",
+              "url": "https://www.reuters.com/world/asia-pacific/chinas-trade-surplus-soars-past-1-trillion-october-exports-jump-352-yy-2026-11-10/"
+            }
+          ]
+        },
+        {
+          "id": "finance-004",
+          "title": "日本の投資家、10月に外国債券を3か月ぶり買い越し",
+          "summary": "財務省統計によると日本の投資家は10月に外国債券を4939億円買い越し、米金利低下などを背景に資金配分を変更した。",
+          "importance": 3,
+          "event_date": "2026-11-10",
+          "sources": [
+            {
+              "name": "Reuters",
+              "url": "https://www.reuters.com/business/finance/japanese-investors-become-net-buyers-foreign-bonds-first-time-three-months-2026-11-10/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "international",
+      "name": "外交・国際情勢",
+      "importance": 5,
+      "items": [
+        {
+          "id": "international-001",
+          "title": "米国・ロシア・ウクライナ、アブダビで和平協議",
+          "summary": "三者の代表団がアブダビで約4時間協議し、米国務長官は進展を評価した一方、安全保障保証や人道問題などで合意には至っていない。",
+          "importance": 5,
+          "event_date": "2026-11-10",
+          "sources": [
+            {
+              "name": "The Guardian",
+              "url": "https://www.theguardian.com/world/live/2026/nov/10/ukraine-russia-war-us-talks-abu-dhabi-europe-latest-news-updates"
+            }
+          ]
+        },
+        {
+          "id": "international-002",
+          "title": "米国務長官、対イラン経済圧力の継続を強調",
+          "summary": "ルビオ国務長官はG7会合後、制裁と海上封鎖の効果を理由に現時点で大規模な対イラン軍事作戦は不要との見解を示した。",
+          "importance": 5,
+          "event_date": "2026-11-10",
+          "sources": [
+            {
+              "name": "Reuters",
+              "url": "https://www.reuters.com/world/rubio-says-no-need-major-combat-operations-iran-given-us-economic-campaign-2026-11-10/"
+            }
+          ]
+        },
+        {
+          "id": "international-003",
+          "title": "米国務長官、ホルムズ海峡の船舶防護で各国に協力要請",
+          "summary": "ルビオ国務長官はホルムズ海峡の安全確保に各国の参加を求めたが、G7会合で明確な参加表明は得られなかったと述べた。",
+          "importance": 4,
+          "event_date": "2026-11-10",
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/49f273e626ca4bab0e5a2d32e4943014"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "technology",
+      "name": "科学・AI・技術",
+      "importance": 5,
+      "items": [
+        {
+          "id": "technology-001",
+          "title": "TSMC、OpenAIとAnthropicに最大計10億ドル投資へ",
+          "summary": "TSMC取締役会はAI開発企業2社にそれぞれ最大5億ドルを投資する計画を承認し、半導体供給に加えAI開発企業への資本参加を進める。",
+          "importance": 5,
+          "event_date": "2026-11-10",
+          "sources": [
+            {
+              "name": "Reuters",
+              "url": "https://www.reuters.com/world/china/tsmc-invest-up-1-billion-anthropic-openai-2026-11-10/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "health",
+      "name": "医療・公衆衛生",
+      "importance": 4,
+      "items": [
+        {
+          "id": "health-001",
+          "title": "米CDC、麻疹排除認定を失っても対応継続と説明",
+          "summary": "米CDC長官は、2026年の麻疹感染が約5200件に達する中、米国の排除認定が取り消されても州との連携とMMR接種の推奨を継続すると述べた。",
+          "importance": 4,
+          "event_date": "2026-11-10",
+          "sources": [
+            {
+              "name": "Reuters",
+              "url": "https://www.reuters.com/world/cdc-chief-says-agency-will-not-change-measles-response-if-us-loses-elimination-2026-11-10/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "environment",
+      "name": "環境・エネルギー・気象",
+      "importance": 5,
+      "items": [
+        {
+          "id": "environment-001",
+          "title": "2026年の化石燃料由来CO2排出量、0.4％減の見通し",
+          "summary": "研究者らは世界の化石燃料由来CO2排出が前年比0.4％減ると予測したが、イラン戦争に伴う価格高騰が主因で、土地利用を含む総排出量は増加すると指摘した。",
+          "importance": 5,
+          "event_date": "2026-11-10",
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/3adab6b51554800012a11fa0936f34f8"
+            }
+          ]
+        },
+        {
+          "id": "environment-002",
+          "title": "COP31で屋根置き太陽光の設置世帯倍増を目指す宣言",
+          "summary": "オーストラリアなど5か国は2030年までに世界の屋根置き太陽光導入世帯を約1億5000万から3億へ倍増させる自主的宣言を支持した。",
+          "importance": 4,
+          "event_date": "2026-11-10",
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/485bafe52db2c4ab240b9017dcaf8259"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "warnings": [
+    "不動産・住宅・建設、教育・労働・人口・文化分野は対象期間内に十分な検証を終えた独立記事を採用できなかった。",
+    "発生日は報道・発表日を採用。公開時刻が厳密に確定できない記事がある。"
+  ]
+}
