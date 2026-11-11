@@ -1,0 +1,225 @@
+{
+  "schema_version": 1,
+  "edition_date": "2026-11-12",
+  "generated_at": "2026-11-12T08:04:09+09:00",
+  "window_start": "2026-11-11T08:00:00+09:00",
+  "window_end": "2026-11-12T08:04:09+09:00",
+  "lead": "アブダビのウクライナ和平協議では大規模捕虜交換で原則合意した一方、領土問題などは未解決。金融市場ではAI投資の採算懸念によるアジア株からの資金流出が明らかになり、米ハイテク株は企業決算を受け反発した。日本では金利上昇を背景に個人向け国債の購入が急増。COP31では電化拡大と途上国向け気候資金が主要論点となっている。",
+  "sections": [
+    {
+      "id": "economy",
+      "name": "国内経済・産業",
+      "importance": 4,
+      "items": [
+        {
+          "id": "economy-001",
+          "title": "個人向け国債の購入が急増、11月募集は2兆円規模",
+          "summary": "金利上昇を背景に日本の個人向け国債への申込額が11月に約2.03兆円となり、預金から債券への資金移動が注目される。",
+          "importance": 4,
+          "event_date": "2026-11-11",
+          "sources": [
+            {
+              "name": "Financial Times",
+              "url": "https://www.ft.com/content/d17e5179-59e2-4b8e-9a65-e985b99645df"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "finance",
+      "name": "金融・企業",
+      "importance": 5,
+      "items": [
+        {
+          "id": "finance-001",
+          "title": "アジア株から10月に約498億ドルの外国人資金流出",
+          "summary": "台湾・韓国などアジア7市場の外国人投資家による10月の株式純売却額は約497.7億ドルとなり、AI設備投資の採算懸念が影響した。",
+          "importance": 5,
+          "event_date": "2026-11-11",
+          "sources": [
+            {
+              "name": "Reuters",
+              "url": "https://www.reuters.com/world/china/foreign-investors-pull-out-50-billion-asian-equities-october-ai-cash-burn-woes-2026-11-11/"
+            }
+          ]
+        },
+        {
+          "id": "finance-002",
+          "title": "米株が反発、AIクラウド企業の収益見通しが支え",
+          "summary": "CoreWeaveの将来収益見通しを好感して米ハイテク株が上昇し、ナスダック総合指数は11日に1.66％高となった。",
+          "importance": 4,
+          "event_date": "2026-11-11",
+          "sources": [
+            {
+              "name": "Reuters",
+              "url": "https://www.reuters.com/business/media-telecom/global-markets-global-markets-2026-11-11/"
+            }
+          ]
+        },
+        {
+          "id": "finance-003",
+          "title": "RWEとKKR、英国洋上風力に約160億ドル投資",
+          "summary": "ドイツ電力大手RWEと米投資会社KKRが英国の洋上風力発電事業への約120億ポンドの投資を最終決定した。",
+          "importance": 4,
+          "event_date": "2026-11-11",
+          "sources": [
+            {
+              "name": "Reuters",
+              "url": "https://www.reuters.com/business/energy/rwe-kkr-finalise-16-billion-investment-uk-renewables-2026-11-11/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "international",
+      "name": "外交・国際情勢",
+      "importance": 5,
+      "items": [
+        {
+          "id": "international-001",
+          "title": "ロシアとウクライナ、大規模捕虜交換で原則合意",
+          "summary": "アブダビでの米国仲介協議で両国は捕虜交換に原則合意したが、領土や停戦条件など和平の主要争点では隔たりが残った。",
+          "importance": 5,
+          "event_date": "2026-11-11",
+          "sources": [
+            {
+              "name": "Reuters",
+              "url": "https://www.reuters.com/world/europe/us-russia-ukraine-start-second-day-abu-dhabi-peace-talks-2026-11-11/"
+            }
+          ]
+        },
+        {
+          "id": "international-002",
+          "title": "ロシア交渉代表、和平協議への欧州参加に否定的",
+          "summary": "ロシア代表は米国との一部認識の一致を述べつつ、欧州諸国の直接参加には現時点で消極的な姿勢を示した。",
+          "importance": 4,
+          "event_date": "2026-11-11",
+          "sources": [
+            {
+              "name": "Reuters",
+              "url": "https://www.reuters.com/world/europe/russian-negotiator-reports-some-progress-after-ukraine-talks-sees-no-eu-role-2026-11-11/"
+            }
+          ]
+        },
+        {
+          "id": "international-003",
+          "title": "イランの濃縮核物質保持方針で原油が反発",
+          "summary": "イラン高官の核物質保持発言を受け米イラン関係の緊張緩和期待が後退し、ブレント原油は11日に1.39％上昇した。",
+          "importance": 4,
+          "event_date": "2026-11-11",
+          "sources": [
+            {
+              "name": "Reuters",
+              "url": "https://www.reuters.com/business/energy/oil-rises-two-month-low-hormuz-shipping-attacks-offset-iran-truce-hopes-2026-11-11/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "technology",
+      "name": "科学・AI・技術",
+      "importance": 4,
+      "items": [
+        {
+          "id": "technology-001",
+          "title": "中国の独身の日商戦でAI買い物支援が普及",
+          "summary": "大手通販各社がAI対話型推薦や購入支援を拡充し、京東のAIショッピング助手の利用者は約8000万人と報告された。",
+          "importance": 4,
+          "event_date": "2026-11-11",
+          "sources": [
+            {
+              "name": "Reuters",
+              "url": "https://www.reuters.com/business/retail-consumer/chinas-singles-day-shopping-festival-puts-ai-selling-power-test-2026-11-11/"
+            }
+          ]
+        },
+        {
+          "id": "technology-002",
+          "title": "CoreWeaveの業績見通しがAIインフラ投資懸念を一部緩和",
+          "summary": "同社は契約に基づく資金流入で債務返済に対応できるとの見方を示したが、需要減速や規制強化のリスクは残る。",
+          "importance": 4,
+          "event_date": "2026-11-11",
+          "sources": [
+            {
+              "name": "Reuters",
+              "url": "https://www.reuters.com/world/china/coreweave-sparks-ai-cloud-stock-rally-lifts-nvidia-results-ease-bubble-fears-2026-11-11/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "health",
+      "name": "医療・公衆衛生",
+      "importance": 3,
+      "items": [
+        {
+          "id": "health-001",
+          "title": "英病院の上級医師、11月下旬のストライキを保留",
+          "summary": "英国医師会は政府との給与・労働条件交渉が始まることを受け、11月25〜26日に予定していた上級医師のストライキを一時停止した。",
+          "importance": 3,
+          "event_date": "2026-11-11",
+          "sources": [
+            {
+              "name": "Reuters",
+              "url": "https://www.reuters.com/business/world-at-work/senior-doctors-england-put-strike-hold-after-union-secures-negotiations-2026-11-11/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "environment",
+      "name": "環境・エネルギー・気象",
+      "importance": 5,
+      "items": [
+        {
+          "id": "environment-001",
+          "title": "COP31、各国首脳が排出削減と資金支援の加速を要求",
+          "summary": "トルコで開催中のCOP31で各国首脳は気候変動対策の加速を訴えたが、化石燃料依存や途上国向け資金を巡る立場の差が残る。",
+          "importance": 5,
+          "event_date": "2026-11-11",
+          "sources": [
+            {
+              "name": "Reuters",
+              "url": "https://www.reuters.com/sustainability/cop/world-leaders-speak-cop31-climate-conference-2026-11-11/"
+            }
+          ]
+        },
+        {
+          "id": "environment-002",
+          "title": "途上国向け気候資金、先進国の次期拠出計画が不透明",
+          "summary": "複数の富裕国が2026年以降の資金拠出計画を明確にしておらず、途上国の気候適応事業の計画策定に不確実性が生じている。",
+          "importance": 4,
+          "event_date": "2026-11-11",
+          "sources": [
+            {
+              "name": "The Guardian",
+              "url": "https://www.theguardian.com/environment/2026/nov/11/developing-countries-climate-finance-delay"
+            }
+          ]
+        },
+        {
+          "id": "environment-003",
+          "title": "COP31で電化目標を協議、2035年に最終エネルギーの35％へ",
+          "summary": "各国は世界の最終エネルギー消費に占める電力の割合を現状約23％から2035年に35％へ引き上げる自主目標を議論している。",
+          "importance": 4,
+          "event_date": "2026-11-11",
+          "sources": [
+            {
+              "name": "Le Monde",
+              "url": "https://www.lemonde.fr/en/environment/article/2026/11/11/why-electrification-is-at-the-heart-of-cop31-talks_6777223_114.html"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "warnings": [
+    "国内政治・法改正・行政、不動産・住宅・建設、教育・人口・文化について対象期間内の十分に検証できる独立記事を採用できなかった。",
+    "海外記事の配信時刻は媒体ごとに表示方式が異なり、境界時刻の厳密な確認には限界がある。"
+  ]
+}
