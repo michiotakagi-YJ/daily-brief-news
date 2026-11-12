@@ -1,0 +1,230 @@
+{
+  "schema_version": 1,
+  "edition_date": "2026-11-13",
+  "generated_at": "2026-11-13T07:59:00+09:00",
+  "window_start": "2026-11-12T08:00:00+09:00",
+  "window_end": "2026-11-13T07:59:00+09:00",
+  "lead": "日本では企業のサイバー攻撃被害と来年の賃上げ見通しが明らかになった。米国ではエヌビディアの経営トップ辞任やAnthropicの大型IPO計画がAI産業と市場の焦点となり、FRB理事はAIによる雇用への影響を警告。外交ではウクライナ和平協議への欧州参加が論点となり、中東のエネルギー供給不安で原油価格が上昇した。COP31では気候政策の実行と資金調達が課題となっている。",
+  "sections": [
+    {
+      "id": "politics",
+      "name": "国内政治・法改正・行政",
+      "importance": 3,
+      "items": []
+    },
+    {
+      "id": "economy",
+      "name": "国内経済・産業",
+      "importance": 4,
+      "items": [
+        {
+          "id": "economy-001",
+          "title": "日本企業の約3分の1が今年サイバー攻撃を経験",
+          "summary": "ロイターの国内企業214社調査で約3分の1が自社または委託先への攻撃を報告し、約1割で業務障害が生じた。",
+          "importance": 4,
+          "event_date": "2026-11-12",
+          "sources": [
+            {
+              "name": "Reuters",
+              "url": "https://www.reuters.com/world/asia-pacific/cyberattacks-hit-third-japan-firms-or-their-service-providers-this-year-2026-11-11/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "finance",
+      "name": "金融・企業",
+      "importance": 5,
+      "items": [
+        {
+          "id": "finance-001",
+          "title": "エヌビディアCEOが辞任、AI半導体大手の経営に不透明感",
+          "summary": "ジェンスン・フアン氏が辞任し、財務責任者コレット・クレス氏が暫定CEOに就任すると発表された。",
+          "importance": 5,
+          "event_date": "2026-11-12",
+          "sources": [
+            {
+              "name": "Reuters",
+              "url": "https://www.reuters.com/business/retail-consumer/nvidia-ceo-jensen-huang-step-down-big-blow-ai-boom-2026-11-12/"
+            }
+          ]
+        },
+        {
+          "id": "finance-002",
+          "title": "米国株が小幅下落、エヌビディア株は4.3％安",
+          "summary": "12日の米国市場で主要3指数が小幅下落し、半導体大手の経営混乱とAI投資の採算懸念が相場を圧迫した。",
+          "importance": 4,
+          "event_date": "2026-11-12",
+          "sources": [
+            {
+              "name": "Reuters",
+              "url": "https://www.reuters.com/business/nasdaq-futures-fall-nvidia-turmoil-rattles-ai-stocks-2026-11-12/"
+            }
+          ]
+        },
+        {
+          "id": "finance-003",
+          "title": "Anthropic、最大1.4兆ドル評価のIPO計画が浮上",
+          "summary": "AI開発企業Anthropicが最大644億ドルの株式売出しを計画していると報じられ、資金需要と投資家のリスク許容度が焦点となった。",
+          "importance": 5,
+          "event_date": "2026-11-12",
+          "sources": [
+            {
+              "name": "Reuters",
+              "url": "https://www.reuters.com/legal/transactional/how-anthropic-stacks-up-against-some-biggest-us-ipos-2026-11-12/"
+            }
+          ]
+        },
+        {
+          "id": "finance-004",
+          "title": "鴻海の7〜9月期純利益34％増、AIサーバー需要がけん引",
+          "summary": "台湾の鴻海精密工業は四半期純利益775億台湾ドルを発表し、AI関連需要の強さと部品供給の逼迫を説明した。",
+          "importance": 4,
+          "event_date": "2026-11-12",
+          "sources": [
+            {
+              "name": "Reuters",
+              "url": "https://www.reuters.com/business/retail-consumer/taiwans-foxconn-reports-34-rise-q3-profit-beats-forecasts-2026-11-12/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "real_estate",
+      "name": "不動産・住宅・建設",
+      "importance": 3,
+      "items": []
+    },
+    {
+      "id": "international",
+      "name": "外交・国際情勢",
+      "importance": 5,
+      "items": [
+        {
+          "id": "international-001",
+          "title": "プーチン氏、次回ウクライナ和平協議への欧州参加を容認との米側説明",
+          "summary": "米特使はロシア大統領が欧州代表の参加に同意したと述べたが、ロシア大統領府は確認せず、領土・安全保障問題の隔たりが続く。",
+          "importance": 5,
+          "event_date": "2026-11-12",
+          "sources": [
+            {
+              "name": "Reuters",
+              "url": "https://www.reuters.com/world/europe/us-envoys-arrive-moscow-latest-round-ukrainian-peace-talks-with-putin-2026-11-12/"
+            }
+          ]
+        },
+        {
+          "id": "international-002",
+          "title": "韓国政府、APEC前後の米朝首脳接触に慎重な見方",
+          "summary": "韓国大統領府は深圳でのAPEC首脳会議に合わせた米朝接触の可能性は低いと説明し、南北間の緊張も続いている。",
+          "importance": 4,
+          "event_date": "2026-11-12",
+          "sources": [
+            {
+              "name": "Reuters",
+              "url": "https://www.reuters.com/world/china/south-korea-sees-little-prospect-us-north-korea-contact-around-apec-2026-11-12/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "science",
+      "name": "科学・AI・技術",
+      "importance": 4,
+      "items": [
+        {
+          "id": "science-001",
+          "title": "FRB理事、AI普及に伴う雇用混乱と格差拡大に警鐘",
+          "summary": "バーFRB理事はAIが若年・経験の浅い労働者を中心に雇用構造を変え、利益が一部企業に集中するリスクを指摘した。",
+          "importance": 4,
+          "event_date": "2026-11-12",
+          "sources": [
+            {
+              "name": "Reuters",
+              "url": "https://www.reuters.com/legal/government/feds-barr-us-should-prepare-serious-ai-job-disruption-widening-inequality-2026-11-12/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "health",
+      "name": "医療・公衆衛生",
+      "importance": 2,
+      "items": []
+    },
+    {
+      "id": "environment",
+      "name": "環境・エネルギー",
+      "importance": 5,
+      "items": [
+        {
+          "id": "environment-001",
+          "title": "原油が3％前後上昇、サウジ施設攻撃とホルムズ海峡の混乱を警戒",
+          "summary": "12日のブレント原油は3.3％高の95.82ドルで引け、サウジのエネルギー施設への攻撃と海上輸送不安が材料となった。",
+          "importance": 5,
+          "event_date": "2026-11-12",
+          "sources": [
+            {
+              "name": "Reuters",
+              "url": "https://www.reuters.com/business/energy/oil-prices-drop-more-than-1-hopes-iran-ukraine-peace-talks-pressure-markets-2026-11-12/"
+            }
+          ]
+        },
+        {
+          "id": "environment-002",
+          "title": "AIIB、トルコに16億ドルの気候政策融資",
+          "summary": "アジアインフラ投資銀行はトルコの排出量取引制度や再生可能エネルギー導入を支援する融資枠を発表した。",
+          "importance": 4,
+          "event_date": "2026-11-12",
+          "sources": [
+            {
+              "name": "Reuters",
+              "url": "https://www.reuters.com/sustainability/cop/cop31-host-turkey-aiib-strike-record-16-billion-climate-policy-deal-2026-11-12/"
+            }
+          ]
+        },
+        {
+          "id": "environment-003",
+          "title": "COP31で気候政策の実行不足を警告、現行政策では今世紀末2.7度上昇も",
+          "summary": "気候政策評価団体は現行政策の継続で2100年までに約2.7度の温暖化となる可能性を示し、資金と削減の実行を求めた。",
+          "importance": 4,
+          "event_date": "2026-11-12",
+          "sources": [
+            {
+              "name": "The Guardian",
+              "url": "https://www.theguardian.com/environment/live/2026/nov/12/cop31-the-crisis-is-upon-us-now-burnham-due-to-tell-climate-summit"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "society",
+      "name": "教育・労働・人口・文化・その他社会",
+      "importance": 4,
+      "items": [
+        {
+          "id": "society-001",
+          "title": "日本企業の8割超、2027年も今年並みの賃上げを見込む",
+          "summary": "国内企業調査では8割超が来年も同程度の賃上げを予想する一方、コスト負担から持続可能性を懸念する声も出た。",
+          "importance": 4,
+          "event_date": "2026-11-12",
+          "sources": [
+            {
+              "name": "Reuters",
+              "url": "https://www.reuters.com/world/asia-pacific/cyberattacks-hit-third-japan-firms-or-their-service-providers-this-year-2026-11-11/"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "warnings": [
+    "対象期間内に国内政治、不動産、医療の独立記事を十分に確認できず掲載なし。",
+    "一部の海外記事は公開時刻が更新時刻と異なる可能性があり、境界時刻の厳密な確認に限界がある。"
+  ]
+}
