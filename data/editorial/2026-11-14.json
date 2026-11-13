@@ -1,0 +1,219 @@
+{
+  "schema_version": 1,
+  "edition_date": "2026-11-14",
+  "generated_at": "2026-11-14T07:58:00+09:00",
+  "window_start": "2026-11-13T08:00:00+09:00",
+  "window_end": "2026-11-14T07:58:00+09:00",
+  "lead": "国内では円安進行と防衛費の次期計画を巡る財政制約が焦点となった。米国では物価圧力とAI関連株の調整が金融市場を揺らし、中国の半導体調達にも輸出規制の影響が表れている。国際政治ではウクライナ和平交渉への欧州の関与が争点となり、COP31では化石燃料からの移行と気候資金を巡る隔たりが続く。",
+  "sections": [
+    {
+      "id": "politics",
+      "name": "国内政治・法改正・行政",
+      "importance": 5,
+      "items": [
+        {
+          "id": "politics-001",
+          "title": "防衛費の次期5カ年計画、財務省案は50〜60兆円",
+          "summary": "2027年度からの防衛費について財務省が50〜60兆円を提案したと報じられ、想定されていた80兆円規模との隔たりが装備調達計画を左右する可能性がある。",
+          "importance": 5,
+          "event_date": "2026-11-13",
+          "sources": [
+            {
+              "name": "Reuters",
+              "url": "https://www.reuters.com/business/retail-consumer/japan-warns-arms-suppliers-deep-order-cuts-budget-squeeze-hits-military-buildup-2026-11-13/"
+            }
+          ]
+        },
+        {
+          "id": "politics-002",
+          "title": "高市首相、ASEAN・APEC首脳会議への訪問日程を発表",
+          "summary": "政府は首相が11月16〜19日にフィリピンと中国を訪問し、ASEAN関連会議とAPEC首脳会議に出席すると発表した。",
+          "importance": 3,
+          "event_date": "2026-11-13",
+          "sources": [
+            {
+              "name": "共同通信",
+              "url": "https://news.livedoor.com/article/detail/32806804/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "economy",
+      "name": "国内経済・産業",
+      "importance": 4,
+      "items": [
+        {
+          "id": "economy-001",
+          "title": "円相場が一時1ドル160円台、財務相が急変動をけん制",
+          "summary": "円安が約2カ月半ぶりの水準まで進み、片山財務相は米国との連携を継続して適切に対応すると述べた。",
+          "importance": 5,
+          "event_date": "2026-11-13",
+          "sources": [
+            {
+              "name": "共同通信",
+              "url": "https://news.livedoor.com/article/detail/32808685/"
+            }
+          ]
+        },
+        {
+          "id": "economy-002",
+          "title": "10月の消費者物価、日銀目標超の伸びが続くとの市場予想",
+          "summary": "ロイター調査では10月の日本のコア物価上昇率が2か月連続で日銀の2％目標を超える見通しとなった。",
+          "importance": 3,
+          "event_date": "2026-11-13",
+          "sources": [
+            {
+              "name": "Reuters",
+              "url": "https://www.reuters.com/markets/us/japan-core-inflation-seen-above-boj-target-second-month-october-2026-11-13/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "finance",
+      "name": "金融・企業",
+      "importance": 5,
+      "items": [
+        {
+          "id": "finance-001",
+          "title": "米国の10月生産者物価は前年比6.5％上昇、株式市場は下落",
+          "summary": "米生産者物価の高止まりとAI関連株の下落を背景に、13日のナスダックは1.40％安、S&P500は0.84％安となった。",
+          "importance": 5,
+          "event_date": "2026-11-13",
+          "sources": [
+            {
+              "name": "Reuters",
+              "url": "https://www.reuters.com/world/china/global-markets-global-markets-2026-11-13/"
+            }
+          ]
+        },
+        {
+          "id": "finance-002",
+          "title": "円買い介入で米国の実施規模は約4.97億ドル",
+          "summary": "ニューヨーク連銀の資料から米国による円買い規模が従来市場で想定された水準より小さいことが分かり、協調介入の抑止効果が注目されている。",
+          "importance": 4,
+          "event_date": "2026-11-13",
+          "sources": [
+            {
+              "name": "Reuters",
+              "url": "https://www.reuters.com/markets/us/japans-finance-minister-vows-action-yen-breaches-160-threshold-2026-11-13/"
+            }
+          ]
+        },
+        {
+          "id": "finance-003",
+          "title": "日経平均は322円高の6万1142円で取引終了",
+          "summary": "13日の東京株式市場では半導体関連株の買い戻しが先行したが、後場に上昇幅を縮小した。",
+          "importance": 3,
+          "event_date": "2026-11-13",
+          "sources": [
+            {
+              "name": "株探ニュース",
+              "url": "https://finance.yahoo.co.jp/news/detail/864caaa99eee272fae26d853f4431952faa7a22b"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "international",
+      "name": "外交・国際情勢",
+      "importance": 5,
+      "items": [
+        {
+          "id": "international-001",
+          "title": "独首相、米ロ首脳協議で欧州との事前調整を要求",
+          "summary": "メルツ独首相はウクライナ和平を巡る米ロ協議について欧州とウクライナを置き去りにしないようトランプ米大統領に求めた。",
+          "importance": 5,
+          "event_date": "2026-11-13",
+          "sources": [
+            {
+              "name": "Reuters",
+              "url": "https://www.reuters.com/world/china/germanys-merz-asks-trump-no-surprises-putin-talks-2026-11-13/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "technology",
+      "name": "科学・AI・技術",
+      "importance": 5,
+      "items": [
+        {
+          "id": "technology-001",
+          "title": "中国で輸出規制対象のNvidia製半導体を前提とするAI事業が32億ドル規模",
+          "summary": "ロイターが中国の調達文書など150件超を調べ、米輸出規制対象の半導体を前提としたAI計算事業が約32億ドルに上ると報じた。",
+          "importance": 5,
+          "event_date": "2026-11-13",
+          "sources": [
+            {
+              "name": "Reuters",
+              "url": "https://www.reuters.com/world/china/huang-exit-us-scrutiny-imperil-3-billion-chinese-ai-projects-reliant-nvidia-2026-11-13/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "environment",
+      "name": "環境・エネルギー・気象",
+      "importance": 5,
+      "items": [
+        {
+          "id": "environment-001",
+          "title": "COP31、化石燃料からの移行を最終合意に盛り込むかで対立",
+          "summary": "国連事務総長が排出削減の加速を訴える一方、産油国などは化石燃料に直接言及する拘束的な合意に反対している。",
+          "importance": 5,
+          "event_date": "2026-11-13",
+          "sources": [
+            {
+              "name": "Reuters",
+              "url": "https://www.reuters.com/sustainability/cop/cop31-talks-face-early-friction-over-future-fossil-fuels-2026-11-13/"
+            }
+          ]
+        },
+        {
+          "id": "environment-002",
+          "title": "島しょ国、海外送金を活用する気候適応基金を構想",
+          "summary": "小島嶼開発途上国が海外からの送金に3％の手数料を課して気候災害への備えに投資する基金構想を検討している。",
+          "importance": 4,
+          "event_date": "2026-11-13",
+          "sources": [
+            {
+              "name": "Reuters",
+              "url": "https://www.reuters.com/sustainability/cop/small-islands-aim-use-remittances-fund-climate-resilience-2026-11-13/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "society",
+      "name": "教育・労働・人口・文化・その他社会",
+      "importance": 5,
+      "items": [
+        {
+          "id": "society-001",
+          "title": "米航空管制の通信障害で全国の出発便が一時停止",
+          "summary": "米連邦航空局の通信障害により全米で航空便の出発が一時停止され、約7000便に遅延・欠航が発生したと報じられた。",
+          "importance": 5,
+          "event_date": "2026-11-13",
+          "sources": [
+            {
+              "name": "The Guardian",
+              "url": "https://www.theguardian.com/us-news/live/2026/nov/13/us-politics-latest-news-updates-democrats-republicans-donald-trump-van-hollen-chuck-schumer"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "warnings": [
+    "記事の掲載時刻が確認できない一部の出典について、対象時間内の公開を厳密に証明できない。",
+    "不動産および医療分野で採用基準を満たす独立した新規記事を確認できなかった。"
+  ]
+}
