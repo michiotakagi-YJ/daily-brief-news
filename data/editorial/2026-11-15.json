@@ -1,0 +1,141 @@
+{
+  "schema_version": 1,
+  "edition_date": "2026-11-15",
+  "generated_at": "2026-11-15T07:59:00+09:00",
+  "window_start": "2026-11-14T08:00:00+09:00",
+  "window_end": "2026-11-15T07:59:00+09:00",
+  "lead": "国際情勢では米ロ中首脳の会談計画とガザでの新たな死者が報じられ、ホルムズ海峡周辺の船舶安全も引き続き懸念されている。COP31では化石燃料からの移行を巡る対立が続く。欧州ではAI産業育成と規制の両立が議論され、医療研究では慢性外傷性脳症の血液検査に向けた初期的な知見が示された。",
+  "sections": [
+    {
+      "id": "international",
+      "name": "外交・国際情勢",
+      "importance": 5,
+      "items": [
+        {
+          "id": "international-001",
+          "title": "ガザ北部で無人機攻撃、パレスチナ人2人死亡",
+          "summary": "ガザ北部ジャバリアでイスラエル軍の無人機攻撃により2人が死亡したと病院関係者が報告し、イスラエル側は武装組織の構成員を標的としたと説明した。",
+          "importance": 4,
+          "event_date": "2026-11-14",
+          "sources": [
+            {
+              "name": "AP通信",
+              "url": "https://apnews.com/article/ade76bebaf22135168aac6eb3016bc19"
+            }
+          ]
+        },
+        {
+          "id": "international-002",
+          "title": "米ロ中首脳、深圳の国際会議で初の三者会談へ",
+          "summary": "米ホワイトハウスはトランプ、プーチン、習近平の3首脳が翌週に会談すると明らかにし、核軍備管理やウクライナ情勢が焦点となる見通しだが合意は未定である。",
+          "importance": 5,
+          "event_date": "2026-11-14",
+          "sources": [
+            {
+              "name": "Washington Post",
+              "url": "https://www.washingtonpost.com/politics/2026/11/13/trump-meet-with-putin-xi-jinping/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "technology",
+      "name": "科学・AI・技術",
+      "importance": 4,
+      "items": [
+        {
+          "id": "technology-001",
+          "title": "EU、AI競争力と規制の両立へ首脳間の議論が続く",
+          "summary": "ダブリンでの首脳会合を踏まえ、欧州のAI基盤への投資不足と外国企業への依存、リスク監督を両立させる政策の必要性が浮き彫りになった。",
+          "importance": 4,
+          "event_date": "2026-11-14",
+          "sources": [
+            {
+              "name": "Le Monde",
+              "url": "https://www.lemonde.fr/en/international/article/2026/11/14/ai-europeans-face-challenge-of-reaching-consensus-to-stay-competitive-and-improve-regulation_6780458_4.html"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "health",
+      "name": "医療・公衆衛生",
+      "importance": 4,
+      "items": [
+        {
+          "id": "health-001",
+          "title": "慢性外傷性脳症の生前診断に血液バイオマーカーの手掛かり",
+          "summary": "研究者がCTE患者の保存血液などでタウ断片の上昇を確認したが、対象数は少なく初期段階の診断精度は不十分で、臨床利用には追加検証が必要とされた。",
+          "importance": 4,
+          "event_date": "2026-11-14",
+          "sources": [
+            {
+              "name": "AP通信",
+              "url": "https://apnews.com/article/2fd428988e71c07af65c1aa564164c74"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "environment",
+      "name": "環境・エネルギー・気象",
+      "importance": 5,
+      "items": [
+        {
+          "id": "environment-001",
+          "title": "COP31、化石燃料からの移行を巡り交渉が難航",
+          "summary": "国連気候変動枠組条約の事務局長は交渉の加速を求めたが、石油・ガス・石炭からの移行を明記する目標を巡り産出国などの反対が続いている。",
+          "importance": 5,
+          "event_date": "2026-11-14",
+          "sources": [
+            {
+              "name": "Reuters",
+              "url": "https://www.reuters.com/sustainability/cop/un-climate-chief-urges-speed-cop31-confronts-fossil-fuel-divide-2026-11-14/"
+            }
+          ]
+        },
+        {
+          "id": "environment-002",
+          "title": "ホルムズ海峡近くでタンカー3隻が機雷に接触とイラン国営テレビ",
+          "summary": "イラン国営テレビは海峡付近でタンカー3隻が機雷に接触して炎上したと伝えたが、船舶の詳細や被害状況は確認できず、海運への影響が懸念される。",
+          "importance": 5,
+          "event_date": "2026-11-14",
+          "sources": [
+            {
+              "name": "AP通信",
+              "url": "https://apnews.com/article/ade76bebaf22135168aac6eb3016bc19"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "society",
+      "name": "教育・労働・人口・文化・その他社会",
+      "importance": 3,
+      "items": [
+        {
+          "id": "society-001",
+          "title": "サッカー日本代表、親善試合でブラジルに3対2で勝利",
+          "summary": "シンガポールでの国際親善試合で日本はブラジルに3対2で勝利し、坂元達裕が終了間際の決勝点を挙げた。",
+          "importance": 3,
+          "event_date": "2026-11-14",
+          "sources": [
+            {
+              "name": "Reuters",
+              "url": "https://www.reuters.com/sports/soccer/japans-sakamoto-secures-last-gasp-3-2-friendly-win-over-brazil-2026-11-14/"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "warnings": [
+    "国内政治・経済・金融・不動産について対象期間内の新規で十分に確認できた独立記事を採用できなかった。",
+    "海外記事の公開日時は媒体側の表示日を基準とし、日本時間の厳密な時刻が未確認のものがある。",
+    "ホルムズ海峡の船舶被害はイラン国営テレビの報道であり独立確認できていない。"
+  ]
+}
