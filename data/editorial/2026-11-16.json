@@ -1,0 +1,213 @@
+{
+  "schema_version": 1,
+  "edition_date": "2026-11-16",
+  "generated_at": "2026-11-16T08:00:00+09:00",
+  "window_start": "2026-11-15T08:00:00+09:00",
+  "window_end": "2026-11-16T08:00:00+09:00",
+  "lead": "ASEAN首脳会議ではミャンマー軍政首脳の参加禁止延長と南シナ海の安全保障が焦点となった。中東ではイエメンの戦闘が紅海航路への懸念を強め、EUでは産業向け炭素排出枠の緩和案が浮上。チェコでは公共放送の独立性を巡る大規模抗議があり、米国ではAI半導体大手の経営体制が議論された。",
+  "sections": [
+    {
+      "id": "politics",
+      "name": "国内政治・法改正・行政",
+      "importance": 4,
+      "items": [
+        {
+          "id": "politics-001",
+          "title": "福岡市長選、過去最多13人が立候補し15日に投票",
+          "summary": "福岡市長選は13人による争いとなり、15日夜の開票途中では稲富修二氏が先行したが、最終結果は当該速報では未確定。",
+          "importance": 4,
+          "event_date": "2026-11-15",
+          "sources": [
+            {
+              "name": "テレビ西日本／FNN",
+              "url": "https://www.fnn.jp/articles/-/1152907"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "international",
+      "name": "外交・国際情勢",
+      "importance": 5,
+      "items": [
+        {
+          "id": "international-001",
+          "title": "ASEAN、ミャンマー軍政首脳の会議参加禁止を延長",
+          "summary": "マニラで開いたASEAN首脳会議は民間人への攻撃と和平計画の進展不足を批判し、ミャンマー軍政首脳らの高官会議参加禁止を継続した。",
+          "importance": 5,
+          "event_date": "2026-11-15",
+          "sources": [
+            {
+              "name": "AP通信",
+              "url": "https://apnews.com/article/660b4a8df06082f79b673912b2f3e655"
+            }
+          ]
+        },
+        {
+          "id": "international-002",
+          "title": "ASEAN首脳会議開幕、南シナ海と地域紛争を協議",
+          "summary": "フィリピンでASEAN首脳会議が開幕し、南シナ海の航行の自由、ミャンマー内戦、世界的な紛争の経済的影響を主要議題に据えた。",
+          "importance": 4,
+          "event_date": "2026-11-15",
+          "sources": [
+            {
+              "name": "AP通信",
+              "url": "https://apnews.com/article/ca9bb47cc109a1ca9e57be787b137095"
+            }
+          ]
+        },
+        {
+          "id": "international-003",
+          "title": "イエメン政府側部隊が紅海沿岸から後退、フーシ派との戦闘激化",
+          "summary": "サウジ支援のイエメン政府側部隊がバブ・エル・マンデブ周辺から撤退し、紅海沿岸の戦闘と航行安全への懸念が強まった。",
+          "importance": 5,
+          "event_date": "2026-11-15",
+          "sources": [
+            {
+              "name": "ロイター",
+              "url": "https://www.reuters.com/world/middle-east/anti-houthi-forces-retreat-yemen-iran-strikes-bahrain-2026-11-15/"
+            }
+          ]
+        },
+        {
+          "id": "international-004",
+          "title": "米大統領、アジア訪問でASEAN・中国との外交を予定",
+          "summary": "トランプ大統領はフィリピンと中国への訪問を控え、ASEAN関連会合や中国首脳との協議を通じて地域の安全保障・通商課題に臨む予定。",
+          "importance": 4,
+          "event_date": "2026-11-15",
+          "sources": [
+            {
+              "name": "AP通信",
+              "url": "https://apnews.com/article/30ac0f6937301f36904808f278b79b1e"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "finance",
+      "name": "金融・企業",
+      "importance": 4,
+      "items": [
+        {
+          "id": "finance-001",
+          "title": "米財務長官、エヌビディア次期CEOに社外人材起用を要求",
+          "summary": "ベッセント米財務長官はCEO退任後のエヌビディアに対し、社外からの経営者登用と輸出規制の順守体制に関する説明を求めた。",
+          "importance": 4,
+          "event_date": "2026-11-15",
+          "sources": [
+            {
+              "name": "ロイター",
+              "url": "https://www.reuters.com/world/bessent-says-nvidia-must-go-outside-company-find-new-ceo-2026-11-15/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "technology",
+      "name": "科学・AI・技術",
+      "importance": 3,
+      "items": [
+        {
+          "id": "technology-001",
+          "title": "探査機ボイジャー1号、地球から1光日到達へ",
+          "summary": "1977年打ち上げのボイジャー1号は、地球からの電波到達に24時間かかる約260億キロの距離に今週到達する見通しとなった。",
+          "importance": 3,
+          "event_date": "2026-11-15",
+          "sources": [
+            {
+              "name": "AP通信／ABC7",
+              "url": "https://abc7ny.com/story/nasas-voyager-1-closes-light-day-interstellar-space-new-distance-record/20042574/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "environment",
+      "name": "環境・エネルギー・気象",
+      "importance": 5,
+      "items": [
+        {
+          "id": "environment-001",
+          "title": "EU議長国、産業向け排出枠の無償割当削減を緩和する案",
+          "summary": "アイルランドのEU議長国は、域内排出量取引制度で産業部門の無償排出枠の削減速度を緩める修正案を提示し、競争力と脱炭素の両立を図る。",
+          "importance": 4,
+          "event_date": "2026-11-15",
+          "sources": [
+            {
+              "name": "ロイター",
+              "url": "https://www.reuters.com/sustainability/cop/irish-eu-presidency-proposes-slower-cuts-industrys-free-carbon-permits-2026-11-15/"
+            }
+          ]
+        },
+        {
+          "id": "environment-002",
+          "title": "強いエルニーニョ現象、COP31で気候災害への対応課題に",
+          "summary": "強いエルニーニョに伴う干ばつや洪水、農作物被害への警戒が高まり、COP31で脆弱国の適応資金不足が改めて焦点となった。",
+          "importance": 5,
+          "event_date": "2026-11-15",
+          "sources": [
+            {
+              "name": "ガーディアン",
+              "url": "https://www.theguardian.com/environment/2026/nov/15/el-nino-cop31-turkey-climate"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "society",
+      "name": "教育・労働・人口・文化・その他社会",
+      "importance": 4,
+      "items": [
+        {
+          "id": "society-001",
+          "title": "チェコで数万人が公共放送の財源変更案に抗議",
+          "summary": "プラハで数万人が公共放送の受信料削減と国家予算への財源移行案に抗議し、報道機関の独立性を巡る論争が強まった。",
+          "importance": 4,
+          "event_date": "2026-11-15",
+          "sources": [
+            {
+              "name": "ロイター",
+              "url": "https://www.reuters.com/video/watch/idRW854615112026RP1/?chan=politics&location=channel-item"
+            }
+          ]
+        },
+        {
+          "id": "society-002",
+          "title": "米国の2027年ローズ奨学生32人を発表",
+          "summary": "オックスフォード大学への留学を支援するローズ奨学金の米国選出者32人が発表され、宇宙ごみや医療AIなど幅広い研究分野から選ばれた。",
+          "importance": 2,
+          "event_date": "2026-11-15",
+          "sources": [
+            {
+              "name": "AP通信",
+              "url": "https://abcnews.com/US/wireStory/32-americans-named-rhodes-scholars-variety-interests-space-138162643"
+            }
+          ]
+        },
+        {
+          "id": "society-003",
+          "title": "ローマ教皇、アマゾンで環境活動家殺害の責任追及を訴え",
+          "summary": "ペルーのアマゾン地域を訪問した教皇レオ14世は、違法採掘や森林破壊による先住民被害を指摘し、環境保護活動家殺害の責任追及を求めた。",
+          "importance": 4,
+          "event_date": "2026-11-15",
+          "sources": [
+            {
+              "name": "AP通信",
+              "url": "https://apnews.com/article/8a15143716d2d78a691f2eb995f1bda0"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "warnings": [
+    "国内経済・不動産・医療の対象期間内の独立記事は十分な検証ができず未掲載。",
+    "一部の海外記事は現地掲載日のみ確認でき、日本時間の厳密な公開時刻は未確認。",
+    "福岡市長選の結果は15日夜の開票途中の速報に限る。"
+  ]
+}
