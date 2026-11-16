@@ -1,0 +1,190 @@
+{
+  "schema_version": 1,
+  "edition_date": "2026-11-17",
+  "generated_at": "2026-11-17T08:01:41+09:00",
+  "window_start": "2026-11-16T08:00:00+09:00",
+  "window_end": "2026-11-17T08:01:41+09:00",
+  "lead": "日本の7〜9月期実質GDPは4四半期ぶりのマイナスとなり、個人消費の弱さが鮮明になった。一方、日銀の高田委員は利上げの継続を主張。国際情勢ではウクライナによる大規模なドローン攻撃と和平交渉への欧州参加を巡る米ロの認識の食い違いが表面化した。米金融当局はAIの生産性効果と金融安定リスクを議論。COP31では化石燃料からの移行と途上国支援を巡る初の合意草案が公表された。",
+  "sections": [
+    {
+      "id": "politics",
+      "name": "国内政治・法改正・行政",
+      "importance": 3,
+      "items": []
+    },
+    {
+      "id": "economy",
+      "name": "国内経済・産業",
+      "importance": 5,
+      "items": [
+        {
+          "id": "economy-001",
+          "title": "日本の7〜9月期GDP、年率0.1％減で4四半期ぶりマイナス",
+          "summary": "内閣府の速報で実質GDPが年率0.1％減となり、物価高を背景に個人消費が前期比0.3％減少した。",
+          "importance": 5,
+          "event_date": "2026-11-16",
+          "sources": [
+            {
+              "name": "Reuters",
+              "url": "https://www.reuters.com/business/japans-economy-unexpectedly-shrinks-july-september-consumption-falters-2026-11-16/"
+            }
+          ]
+        },
+        {
+          "id": "economy-002",
+          "title": "日銀・高田委員、政策金利の機動的な引き上げを提唱",
+          "summary": "高田創審議委員は基調的な物価上昇を踏まえ、中立金利に向けた速やかな利上げを訴えた。",
+          "importance": 5,
+          "event_date": "2026-11-16",
+          "sources": [
+            {
+              "name": "日本銀行",
+              "url": "https://www.boj.or.jp/en/about/press/koen_2026/data/ko261116a1.pdf"
+            }
+          ]
+        },
+        {
+          "id": "economy-003",
+          "title": "日銀・植田総裁、賃金上昇はかなり強いとの認識",
+          "summary": "政府会議での発言記録から、植田総裁が賃金と物価の持続的な好循環を重視していることが明らかになった。",
+          "importance": 4,
+          "event_date": "2026-11-16",
+          "sources": [
+            {
+              "name": "Reuters",
+              "url": "https://www.reuters.com/business/boj-chief-ueda-tells-government-panel-wage-growth-quite-strong-2026-11-16/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "finance",
+      "name": "金融・企業",
+      "importance": 5,
+      "items": [
+        {
+          "id": "finance-001",
+          "title": "FRB理事、AIの金融安定リスクを警告",
+          "summary": "バーFRB理事はAI取引の同調行動、サイバー攻撃、AI投資への過剰な資金供給などが金融システムを不安定化させる可能性を指摘した。",
+          "importance": 5,
+          "event_date": "2026-11-16",
+          "sources": [
+            {
+              "name": "Reuters",
+              "url": "https://www.reuters.com/world/feds-barr-warns-ai-risks-financial-system-2026-11-16/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "realestate",
+      "name": "不動産・住宅・建設",
+      "importance": 2,
+      "items": []
+    },
+    {
+      "id": "international",
+      "name": "外交・国際情勢",
+      "importance": 5,
+      "items": [
+        {
+          "id": "international-001",
+          "title": "ウクライナ、ロシアに過去最大規模のドローン攻撃",
+          "summary": "ロシア国防省は16地域で1,336機を迎撃したと発表し、クリミア橋や製油所などへの攻撃が報告されたが、迎撃数は独立検証されていない。",
+          "importance": 5,
+          "event_date": "2026-11-16",
+          "sources": [
+            {
+              "name": "Reuters",
+              "url": "https://www.reuters.com/world/europe/ukraine-launches-biggest-drone-attack-russia-since-war-began-defence-ministry-2026-11-16/"
+            }
+          ]
+        },
+        {
+          "id": "international-002",
+          "title": "ロシア、ウクライナ和平協議への欧州参加合意を否定",
+          "summary": "ロシア大統領補佐官は次回協議を米ロ・ウクライナの三者形式で続けると述べ、欧州参加を認めたとする米側説明を否定した。",
+          "importance": 5,
+          "event_date": "2026-11-16",
+          "sources": [
+            {
+              "name": "Reuters",
+              "url": "https://www.reuters.com/world/kremlin-aide-denies-russia-agreed-include-europe-ukraine-peace-talks-2026-11-16/"
+            }
+          ]
+        },
+        {
+          "id": "international-003",
+          "title": "国連事務総長、米中ロの核軍縮協議への協力を表明",
+          "summary": "グテーレス事務総長は三首脳会談で軍縮に進展があれば国連が支援すると表明したが、合意成立の見通しは不明とした。",
+          "importance": 4,
+          "event_date": "2026-11-16",
+          "sources": [
+            {
+              "name": "Reuters（Investing.com掲載）",
+              "url": "https://www.investing.com/news/world-news/un-ready-to-support-any-denuclearisation-effort-from-us-china-russia-talks-5028560"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "technology",
+      "name": "科学・AI・技術",
+      "importance": 4,
+      "items": [
+        {
+          "id": "technology-001",
+          "title": "FRB議長、AIの生産性向上と雇用混乱の両面を指摘",
+          "summary": "ウォーシュFRB議長はAIが成長率を押し上げ得る一方、雇用や投資収益の悪化を通じて景気を不安定化させるリスクもあると述べた。",
+          "importance": 4,
+          "event_date": "2026-11-16",
+          "sources": [
+            {
+              "name": "Reuters",
+              "url": "https://www.reuters.com/business/feds-warsh-says-emerging-technologies-will-have-significant-impact-risks-need-be-2026-11-16/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "health",
+      "name": "医療・公衆衛生",
+      "importance": 2,
+      "items": []
+    },
+    {
+      "id": "environment",
+      "name": "環境・エネルギー・気象",
+      "importance": 5,
+      "items": [
+        {
+          "id": "environment-001",
+          "title": "COP31、化石燃料と気候資金を巡る初の合意草案を公表",
+          "summary": "トルコでのCOP31は18ページの草案を公表したが、化石燃料の段階的廃止や途上国向け適応資金の文言を巡って各国の隔たりが残る。",
+          "importance": 5,
+          "event_date": "2026-11-16",
+          "sources": [
+            {
+              "name": "Reuters",
+              "url": "https://www.reuters.com/sustainability/cop/first-draft-cop31-deal-signals-tough-negotiations-come-2026-11-16/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "society",
+      "name": "教育・労働・人口・文化・その他社会",
+      "importance": 3,
+      "items": []
+    }
+  ],
+  "warnings": [
+    "一部の分野では対象期間内の十分に検証できる独立記事を採用できなかった。",
+    "海外記事の掲載時刻と更新時刻の差により時間境界の厳密な検証には限界がある。"
+  ]
+}
