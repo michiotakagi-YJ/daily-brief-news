@@ -1,0 +1,305 @@
+{
+  "schema_version": 1,
+  "edition_date": "2026-11-18",
+  "generated_at": "2026-11-18T08:00:00+09:00",
+  "window_start": "2026-11-17T08:00:00+09:00",
+  "window_end": "2026-11-18T08:00:00+09:00",
+  "lead": "日本はロシア機とみられる航空機の領空侵犯に抗議し、アジア共同の石油備蓄・緊急放出枠組みを提案した。米国では消費の底堅さと住宅建設の低迷が併存し、対中データセンター機器規制が進む。ウクライナのクリミア橋攻撃や冬季の防空支援要請が続く一方、アルツハイマー病と白血病の新薬治験結果が発表された。COP31ではAI設備の排出削減を巡り米大手企業の不参加が目立った。",
+  "sections": [
+    {
+      "id": "politics",
+      "name": "国内政治・法改正・行政",
+      "importance": 5,
+      "items": [
+        {
+          "id": "politics-001",
+          "title": "ロシア機とみられる2機が福岡県沖の領空侵犯、日本政府が抗議",
+          "summary": "沖ノ島周辺の領空にロシア機とみられる2機が侵入し、日本政府は主権侵害としてロシア側に厳重抗議した。",
+          "importance": 5,
+          "event_date": "2026-11-17",
+          "sources": [
+            {
+              "name": "Reuters",
+              "url": "https://www.reuters.com/business/aerospace-defense/tokyo-lodges-protest-after-aircraft-believed-be-russian-violate-japan-airspace-2026-11-17/"
+            }
+          ]
+        },
+        {
+          "id": "politics-002",
+          "title": "米政権、中国製データセンター機器の輸入規制を推進",
+          "summary": "米大手IT企業の反対にもかかわらず、米政権は中国製データセンター機器の輸入制限を進める方針だと関係者が明かした。",
+          "importance": 4,
+          "event_date": "2026-11-17",
+          "sources": [
+            {
+              "name": "Reuters",
+              "url": "https://www.reuters.com/world/trumps-china-data-center-curb-advances-despite-amazon-google-meta-lobbying-2026-11-17/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "economy",
+      "name": "国内経済・産業",
+      "importance": 4,
+      "items": [
+        {
+          "id": "economy-001",
+          "title": "日本、アジア共同の石油備蓄・緊急放出調整機構を提案",
+          "summary": "高市首相はASEAN関連会合で、国内の余剰備蓄設備の活用を含むアジア域内の石油供給危機対応枠組みを提案した。",
+          "importance": 5,
+          "event_date": "2026-11-17",
+          "sources": [
+            {
+              "name": "Reuters",
+              "url": "https://www.reuters.com/business/energy/japan-propose-asia-oil-security-task-force-azec-summit-media-reports-2026-11-17/"
+            }
+          ]
+        },
+        {
+          "id": "economy-002",
+          "title": "財務省、短期変動利付国債の新規発行を延期へ",
+          "summary": "金利見通しの変化と継続的な投資家需要の不確実性から、財務省は新たな短期変動利付国債の導入を先送りする方針と報じられた。",
+          "importance": 4,
+          "event_date": "2026-11-17",
+          "sources": [
+            {
+              "name": "Reuters",
+              "url": "https://www.reuters.com/markets/asia/japan-postpone-launch-new-floating-rate-government-bonds-sources-say-2026-11-17/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "finance",
+      "name": "金融・企業",
+      "importance": 4,
+      "items": [
+        {
+          "id": "finance-001",
+          "title": "米10月小売売上高0.2％増、基調的な消費は堅調",
+          "summary": "米国の10月小売売上高は前月比0.2％増にとどまったが、基調を示す売上高は0.6％増え、インフレ下でも消費の底堅さが示された。",
+          "importance": 4,
+          "event_date": "2026-11-17",
+          "sources": [
+            {
+              "name": "Reuters",
+              "url": "https://www.reuters.com/world/us/us-retail-sales-increase-moderately-october-2026-11-17/"
+            }
+          ]
+        },
+        {
+          "id": "finance-002",
+          "title": "UBS、スイス当局の自己資本規制強化を受け入れる方向",
+          "summary": "UBSがスイスの厳格な資本規制案への抵抗を断念する方向だと関係者が語り、国際銀行の資本政策への影響が注目される。",
+          "importance": 4,
+          "event_date": "2026-11-17",
+          "sources": [
+            {
+              "name": "Reuters",
+              "url": "https://www.reuters.com/business/finance/ubs-set-accept-defeat-over-swiss-capital-curbs-sources-say-2026-11-17/"
+            }
+          ]
+        },
+        {
+          "id": "finance-003",
+          "title": "ドイツZEW景況感指数35.6、予想を上回る改善",
+          "summary": "ドイツの11月ZEW景況感指数は10月の28.1から35.6に上昇し、エネルギー高の中でも投資家の期待が改善した。",
+          "importance": 3,
+          "event_date": "2026-11-17",
+          "sources": [
+            {
+              "name": "Reuters",
+              "url": "https://www.reuters.com/world/europe/german-investor-morale-rises-more-than-expected-november-zew-finds-2026-11-17/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "real_estate",
+      "name": "不動産・住宅・建設",
+      "importance": 4,
+      "items": [
+        {
+          "id": "real_estate-001",
+          "title": "米住宅建設業者の景況感、14年半ぶり低水準",
+          "summary": "米NAHB住宅市場指数は11月に25へ低下し、高金利や資材費上昇、労働力不足による住宅建設の停滞が鮮明になった。",
+          "importance": 4,
+          "event_date": "2026-11-17",
+          "sources": [
+            {
+              "name": "Reuters",
+              "url": "https://www.reuters.com/business/us-homebuilder-sentiment-tumbles-more-than-14-12-year-low-november-2026-11-17/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "international",
+      "name": "外交・国際情勢",
+      "importance": 5,
+      "items": [
+        {
+          "id": "international-001",
+          "title": "ウクライナ、クリミア橋を攻撃し交通に重大な影響",
+          "summary": "ウクライナはロシア本土とクリミアを結ぶ橋への攻撃映像を公表し、ロシア側も被害を報告したが損傷の全容には不確実性が残る。",
+          "importance": 5,
+          "event_date": "2026-11-17",
+          "sources": [
+            {
+              "name": "Reuters",
+              "url": "https://www.reuters.com/world/europe/ukraine-strikes-crimean-bridge-second-day-russia-pounds-kyiv-bridges-2026-11-17/"
+            }
+          ]
+        },
+        {
+          "id": "international-002",
+          "title": "ウクライナ、冬季の防空ミサイル供与を欧州に要請",
+          "summary": "ゼレンスキー大統領はロシアの攻撃激化を受け、防空装備の迅速な供与を同盟国に求めた。",
+          "importance": 4,
+          "event_date": "2026-11-17",
+          "sources": [
+            {
+              "name": "The Guardian",
+              "url": "https://www.theguardian.com/world/live/2026/nov/17/europe-ukraine-russia-crimea-kerch-bridge-attack-latest-news-updates"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "technology",
+      "name": "科学・AI・技術",
+      "importance": 4,
+      "items": [
+        {
+          "id": "technology-001",
+          "title": "中国企業、米AIモデルの出力を国内モデルの学習に活用",
+          "summary": "ロイターが確認した資料から、中国の組織が米国製AIの出力を国内モデルの訓練に使う手法を高度化していることが判明した。",
+          "importance": 4,
+          "event_date": "2026-11-17",
+          "sources": [
+            {
+              "name": "Reuters",
+              "url": "https://www.reuters.com/world/china/china-taps-us-ai-models-train-homegrown-rivals-chip-curbs-bite-2026-11-17/"
+            }
+          ]
+        },
+        {
+          "id": "technology-002",
+          "title": "米国家安全保障局の機密通信網、保守作業中に障害",
+          "summary": "NSAは機密性の高い内部通信網が定期保守中に一時的な機能低下を起こしたと認めた。",
+          "importance": 4,
+          "event_date": "2026-11-17",
+          "sources": [
+            {
+              "name": "Reuters",
+              "url": "https://www.reuters.com/technology/highly-classified-us-national-security-communications-network-is-down-cnn-2026-11-17/"
+            }
+          ]
+        },
+        {
+          "id": "technology-003",
+          "title": "Apple Pay・iCloudなどで障害、内部更新が原因",
+          "summary": "アップルは社内システムの更新による障害で複数の顧客向けサービスが影響を受けたと説明し、サイバー攻撃を否定した。",
+          "importance": 3,
+          "event_date": "2026-11-17",
+          "sources": [
+            {
+              "name": "Reuters",
+              "url": "https://www.reuters.com/business/retail-consumer/apple-works-restore-services-after-outage-caused-by-internal-update-2026-11-17/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "health",
+      "name": "医療・公衆衛生",
+      "importance": 5,
+      "items": [
+        {
+          "id": "health-001",
+          "title": "アルツハイマー病の抗タウ薬、2年間の認知機能低下を38％抑制と報告",
+          "summary": "バイオジェンは治験段階のdiranersenについて、中期試験の最低用量群で2年間の認知機能低下が対照群より38％小さかったと発表した。",
+          "importance": 5,
+          "event_date": "2026-11-17",
+          "sources": [
+            {
+              "name": "Reuters",
+              "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/biogens-anti-tau-alzheimers-drug-benefits-increase-2-years-2026-11-17/"
+            }
+          ]
+        },
+        {
+          "id": "health-002",
+          "title": "急性骨髄性白血病ワクチン、後期治験で生存期間延長",
+          "summary": "Sellasは移植困難な急性骨髄性白血病患者126人の治験で、ワクチン群の生存期間中央値が24カ月、対照群が14.7カ月だったと報告した。",
+          "importance": 5,
+          "event_date": "2026-11-17",
+          "sources": [
+            {
+              "name": "Reuters",
+              "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/sellas-cancer-vaccine-extends-survival-blood-cancer-trial-2026-11-17/"
+            }
+          ]
+        },
+        {
+          "id": "health-003",
+          "title": "米メルク、血液がん治療薬の開発を安全性・有効性評価で中止",
+          "summary": "メルクは独立委員会の評価を受け、治験薬nemtabrutinibの利益がリスクを上回らない可能性があるとして開発を停止した。",
+          "importance": 4,
+          "event_date": "2026-11-17",
+          "sources": [
+            {
+              "name": "Reuters",
+              "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/merck-stops-trials-blood-cancer-drug-after-risk-assessment-2026-11-17/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "environment",
+      "name": "環境・エネルギー",
+      "importance": 4,
+      "items": [
+        {
+          "id": "environment-001",
+          "title": "COP31のAI省エネ誓約、米大手IT企業は参加せず",
+          "summary": "AI設備の排出削減などを掲げたアンタルヤAI誓約に約90の支持が集まった一方、主要な米クラウド企業は署名を見送った。",
+          "importance": 4,
+          "event_date": "2026-11-17",
+          "sources": [
+            {
+              "name": "Reuters",
+              "url": "https://www.reuters.com/sustainability/cop/cop31-ai-pledge-fails-lure-us-big-tech-2026-11-17/"
+            }
+          ]
+        },
+        {
+          "id": "environment-002",
+          "title": "化石燃料の輸出に伴う歴史的排出量、ロシア・サウジが上位",
+          "summary": "Carbon Briefの分析では、輸出化石燃料の燃焼に伴う歴史的CO2排出量でロシアとサウジアラビアが突出し、COP31の責任分担論議に一石を投じた。",
+          "importance": 3,
+          "event_date": "2026-11-17",
+          "sources": [
+            {
+              "name": "The Guardian",
+              "url": "https://www.theguardian.com/environment/2026/nov/17/russia-saudi-arabia-and-australia-named-as-biggest-co2-exporters-in-history"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "warnings": [
+    "日本時間の公開時刻を厳密に検証できない記事があり、原則として11月17日付の発表・報道を採用した。",
+    "治験結果は企業公表に基づき、承認・一般診療での有効性確立を意味しない。",
+    "教育・労働・人口・文化分野では期間内に十分検証できる独立記事を採用できなかった。"
+  ]
+}
