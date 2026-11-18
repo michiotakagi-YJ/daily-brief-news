@@ -1,0 +1,187 @@
+{
+  "schema_version": 1,
+  "edition_date": "2026-11-19",
+  "generated_at": "2026-11-19T08:04:09+09:00",
+  "window_start": "2026-11-18T08:00:00+09:00",
+  "window_end": "2026-11-19T08:04:09+09:00",
+  "lead": "日本では10月の貿易赤字が拡大し、日銀総裁は金融緩和の調整継続を示唆した。国際的にはEUがウクライナ向け大規模融資を提案し、APECで米中ロの通商・安全保障協議が焦点となった。米国では中国製AIの利用開示義務が検討され、半導体の安全保障問題も注目された。",
+  "sections": [
+    {
+      "id": "politics",
+      "name": "国内政治・法改正・行政",
+      "importance": 4,
+      "items": [
+        {
+          "id": "politics-001",
+          "title": "受刑者の選挙権制限について最高裁が合憲と判断",
+          "summary": "最高裁は受刑者の選挙権制限を合憲とする初判断を示したとNHKが報じた。判決全文と詳細な射程は未確認。",
+          "importance": 4,
+          "event_date": "2026-11-18",
+          "sources": [
+            {
+              "name": "NHKラジオニュース",
+              "url": "https://listen.style/p/f0jjxlwl/8ti0vp5k"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "economy",
+      "name": "国内経済・産業",
+      "importance": 5,
+      "items": [
+        {
+          "id": "economy-001",
+          "title": "日本の10月貿易収支は4765億円の赤字",
+          "summary": "輸入が前年同月比21.6％増の12.25兆円、輸出が20.5％増の11.77兆円となり、エネルギー輸入の負担が貿易赤字を拡大させた。",
+          "importance": 5,
+          "event_date": "2026-11-18",
+          "sources": [
+            {
+              "name": "AP通信",
+              "url": "https://apnews.com/article/17623689c3248c926283044cd5ff3484"
+            }
+          ]
+        },
+        {
+          "id": "economy-002",
+          "title": "マレーシアの7〜9月期成長率は前年比5.5％",
+          "summary": "国内需要と半導体など技術関連の輸出が成長を支え、中央銀行はAI関連投資が2027年にも経済を支えるとの見方を示した。",
+          "importance": 3,
+          "event_date": "2026-11-18",
+          "sources": [
+            {
+              "name": "Reuters",
+              "url": "https://www.reuters.com/markets/asia/malaysia-sees-ai-boom-driving-2027-growth-after-q3-gdp-tops-forecasts-2026-11-18/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "finance",
+      "name": "金融・企業",
+      "importance": 5,
+      "items": [
+        {
+          "id": "finance-001",
+          "title": "日銀・植田総裁、金融緩和の調整と追加利上げ継続を示唆",
+          "summary": "植田総裁は金融環境がなお緩和的だとして、経済・物価・市場の動向を見ながら政策金利を引き上げる考えを示した。",
+          "importance": 5,
+          "event_date": "2026-11-18",
+          "sources": [
+            {
+              "name": "Reuters",
+              "url": "https://www.reuters.com/markets/asia/bank-japan-governor-says-central-bank-should-keep-raising-rates-2026-11-18/"
+            }
+          ]
+        },
+        {
+          "id": "finance-002",
+          "title": "米ドル指数が52週高値を更新",
+          "summary": "ウォール・ストリート・ジャーナルのドル指数は11月18日に98.64となり、米国の金融引き締め観測を背景にドル高が進んだ。",
+          "importance": 3,
+          "event_date": "2026-11-18",
+          "sources": [
+            {
+              "name": "Wall Street Journal",
+              "url": "https://www.wsj.com/finance/currencies/asian-currencies-consolidate-but-may-be-weighed-by-risk-off-sentiment-d2acd03c"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "international",
+      "name": "外交・国際情勢",
+      "importance": 5,
+      "items": [
+        {
+          "id": "international-001",
+          "title": "EU欧州委、ウクライナ向け450億ユーロ融資を提案",
+          "summary": "欧州委員会は2027年のウクライナ支援として財政支援200億ユーロと防衛支援250億ユーロを提案し、加盟国間の負担調整が焦点となった。",
+          "importance": 5,
+          "event_date": "2026-11-18",
+          "sources": [
+            {
+              "name": "The Guardian",
+              "url": "https://www.theguardian.com/world/live/2026/nov/18/europe-ukraine-russia-eu-germany-serbia-latest-news-updates"
+            }
+          ]
+        },
+        {
+          "id": "international-002",
+          "title": "APECで習近平氏が自由貿易を訴え、米ロ中首脳会談を調整",
+          "summary": "中国の習主席は保護主義に反対する姿勢を示し、トランプ米大統領とプーチン露大統領との会談を控え通商・安全保障が焦点となった。",
+          "importance": 5,
+          "event_date": "2026-11-18",
+          "sources": [
+            {
+              "name": "Reuters",
+              "url": "https://www.reuters.com/world/chinas-xi-calls-free-open-trade-apec-summit-2026-11-18/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "technology",
+      "name": "科学・AI・技術",
+      "importance": 5,
+      "items": [
+        {
+          "id": "technology-001",
+          "title": "米政権、企業の中国製AIモデル利用の公表義務を検討",
+          "summary": "米政府内で米企業に中国製AIモデルの利用をウェブサイト等で開示させる案が議論されているが、正式な規則案には至っていない。",
+          "importance": 5,
+          "event_date": "2026-11-18",
+          "sources": [
+            {
+              "name": "Reuters",
+              "url": "https://www.reuters.com/world/china/trump-administration-weighs-forcing-us-firms-disclose-chinese-ai-use-2026-11-18/"
+            }
+          ]
+        },
+        {
+          "id": "technology-002",
+          "title": "米議会諮問機関、中国軍の先端AI半導体調達に懸念",
+          "summary": "米中経済安全保障調査委員会は中国軍が輸出規制対象の高性能半導体を求めていると報告し、輸出管理の実効性が論点となった。",
+          "importance": 4,
+          "event_date": "2026-11-18",
+          "sources": [
+            {
+              "name": "Reuters",
+              "url": "https://www.reuters.com/world/china/china-seeks-advanced-nvidia-chips-ai-weapons-despite-us-curbs-report-says-2026-11-18/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "society",
+      "name": "教育・労働・人口・文化・その他社会",
+      "importance": 3,
+      "items": [
+        {
+          "id": "society-001",
+          "title": "日本サッカー協会の田嶋幸三氏がFIFA会長選に立候補",
+          "summary": "田嶋氏は必要な5協会の推薦を得て2027年3月の国際サッカー連盟会長選に届け出た。",
+          "importance": 3,
+          "event_date": "2026-11-18",
+          "sources": [
+            {
+              "name": "Reuters",
+              "url": "https://www.reuters.com/sports/soccer/tashima-submits-bid-fifa-presidency-2026-11-18/"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "warnings": [
+    "医療・公衆衛生、不動産・住宅・建設、環境・エネルギーの独立した新規記事は十分な検証ができず不採用。",
+    "一部の発生時刻は報道日で代用。",
+    "最高裁判決の詳細は一次資料未照合。"
+  ]
+}
