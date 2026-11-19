@@ -1,0 +1,220 @@
+{
+  "schema_version": 1,
+  "edition_date": "2026-11-20",
+  "generated_at": "2026-11-20T08:00:11+09:00",
+  "window_start": "2026-11-19T08:00:00+09:00",
+  "window_end": "2026-11-20T08:00:11+09:00",
+  "lead": "APEC開催地の深圳では米中ロ首脳が初の三者会談を行ったが、主要な安全保障問題で具体的な打開策は限定的だった。日本は中国との台湾を巡る立場を再確認し、ロシアとの首脳対話も実施。企業面ではJTがロシア事業の接収に伴う巨額損失を発表し、金融市場では日銀の追加利上げ観測が強まった。COP31では化石燃料削減とAI電力需要の両立が争点となっている。",
+  "sections": [
+    {
+      "id": "politics",
+      "name": "国内政治・法改正・行政",
+      "importance": 4,
+      "items": [
+        {
+          "id": "politics-001",
+          "title": "高市首相、台湾に関する日本の立場は1972年の日中共同声明から不変と説明",
+          "summary": "APEC開催地の深圳で高市首相は台湾を巡る日本の基本的立場に変更はないと述べ、日中関係の緊張が続く中で従来方針を確認した。",
+          "importance": 4,
+          "event_date": "2026-11-19",
+          "sources": [
+            {
+              "name": "Reuters",
+              "url": "https://www.reuters.com/world/china/japans-position-taiwan-has-not-changed-pm-takaichi-says-2026-11-19/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "economy",
+      "name": "国内経済・産業",
+      "importance": 4,
+      "items": [
+        {
+          "id": "economy-001",
+          "title": "国際協力銀行総裁、対米5500億ドル投資案件の選定に日本側の関与拡大を要求",
+          "summary": "JBICの前田総裁は日米投資枠組みで日本側が案件発掘と選定に一層関わるべきだと述べ、資金提供条件への影響力確保を訴えた。",
+          "importance": 4,
+          "event_date": "2026-11-19",
+          "sources": [
+            {
+              "name": "Reuters",
+              "url": "https://www.reuters.com/world/jbic-chair-calls-greater-japanese-role-550-billion-us-investment-2026-11-19/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "finance",
+      "name": "金融・企業",
+      "importance": 5,
+      "items": [
+        {
+          "id": "finance-001",
+          "title": "日銀、12月と来年3月末までの追加利上げ予想が市場調査で多数",
+          "summary": "ロイターのエコノミスト調査では日銀が12月に利上げし、2027年3月末までに再度引き上げるとの予測が多数を占めた。",
+          "importance": 4,
+          "event_date": "2026-11-19",
+          "sources": [
+            {
+              "name": "Reuters",
+              "url": "https://www.reuters.com/world/bank-japan-raise-interest-rates-december-again-by-end-march-economists-say-2026-11-19/"
+            }
+          ]
+        },
+        {
+          "id": "finance-002",
+          "title": "日本たばこ産業、ロシア事業の接収で約1.38兆円の損失計上へ",
+          "summary": "JTはロシア子会社の支配喪失に伴う約1兆3770億円の損失を見込み、通期予想を黒字から赤字へ修正した。",
+          "importance": 5,
+          "event_date": "2026-11-19",
+          "sources": [
+            {
+              "name": "Reuters",
+              "url": "https://www.reuters.com/markets/europe/japan-tobacco-expects-net-loss-after-russia-takes-control-local-units-2026-11-19/"
+            }
+          ]
+        },
+        {
+          "id": "finance-003",
+          "title": "FRB副議長、AI設備投資は足元の物価上昇圧力と指摘",
+          "summary": "ジェファーソンFRB副議長はAI関連のデータセンターや計算設備への投資が現在は需要とインフレを押し上げ、生産性改善による価格抑制は将来の可能性だと述べた。",
+          "importance": 4,
+          "event_date": "2026-11-19",
+          "sources": [
+            {
+              "name": "Reuters",
+              "url": "https://www.reuters.com/business/feds-jefferson-says-ai-boosting-inflation-productivity-impact-possible-in-future-2026-11-19/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "international",
+      "name": "外交・国際情勢",
+      "importance": 5,
+      "items": [
+        {
+          "id": "international-001",
+          "title": "米中ロ首脳が初の三者会談、平和宣言も具体的な打開策は限定的",
+          "summary": "深圳でトランプ、習近平、プーチンの3首脳が会談し、核戦争回避などを掲げたもののウクライナなどの主要対立では明確な進展が確認されなかった。",
+          "importance": 5,
+          "event_date": "2026-11-19",
+          "sources": [
+            {
+              "name": "Reuters",
+              "url": "https://www.reuters.com/world/china/trumps-historic-meeting-with-xi-putin-headlines-asia-trip-2026-11-18/"
+            }
+          ]
+        },
+        {
+          "id": "international-002",
+          "title": "高市首相とプーチン大統領が会談、対話継続で一致",
+          "summary": "APECに合わせた日ロ首脳会談で双方は対話継続を確認し、高市首相は拘束中の日本人記者や日本企業の扱いについて問題を提起した。",
+          "importance": 4,
+          "event_date": "2026-11-19",
+          "sources": [
+            {
+              "name": "AP通信",
+              "url": "https://apnews.com/article/bdc0faac8244ea5ca145380636927f9b"
+            }
+          ]
+        },
+        {
+          "id": "international-003",
+          "title": "クリミア橋への再攻撃受けプーチン氏が報復を表明",
+          "summary": "ウクライナによるクリミア橋への追加攻撃後、プーチン大統領は強い報復を示唆し、エネルギー施設や海運への攻撃停止構想を退けた。",
+          "importance": 5,
+          "event_date": "2026-11-19",
+          "sources": [
+            {
+              "name": "Reuters",
+              "url": "https://www.reuters.com/world/china/putin-rules-out-black-sea-energy-truce-after-crimea-bridge-strike-2026-11-19/"
+            }
+          ]
+        },
+        {
+          "id": "international-004",
+          "title": "南ア・ヨハネスブルクで連立協議、最多得票政党を外す構想",
+          "summary": "南アフリカのANCなどが地方選で最多得票の民主同盟を除く連立形成に近づき、最大都市の統治体制が焦点となっている。",
+          "importance": 3,
+          "event_date": "2026-11-19",
+          "sources": [
+            {
+              "name": "Reuters",
+              "url": "https://www.reuters.com/world/africa/south-africas-anc-partners-near-coalition-deal-sideline-poll-topping-da-2026-11-19/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "health",
+      "name": "医療・公衆衛生",
+      "importance": 3,
+      "items": [
+        {
+          "id": "health-001",
+          "title": "米医療情報大手Epic、AIによる診療記録アクセス拡大を表明",
+          "summary": "医療情報システム大手Epicは競争上の慣行への批判に反論しつつ、AIサービスが患者記録へアクセスする仕組みの拡大を約束した。",
+          "importance": 3,
+          "event_date": "2026-11-19",
+          "sources": [
+            {
+              "name": "STAT",
+              "url": "https://www.statnews.com/2026/11/19/epic-defends-competitive-practices-promises-ai-access-health-tech/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "environment",
+      "name": "環境・エネルギー",
+      "importance": 4,
+      "items": [
+        {
+          "id": "environment-001",
+          "title": "COP31、化石燃料削減とAI電力需要を巡る対立が継続",
+          "summary": "COP31では電化促進に30カ国超が賛同する一方、AIデータセンターの電力需要を背景に化石燃料からの移行速度を巡る意見の隔たりが残った。",
+          "importance": 4,
+          "event_date": "2026-11-19",
+          "sources": [
+            {
+              "name": "Reuters",
+              "url": "https://www.reuters.com/sustainability/cop31-split-over-fossil-fuels-ai-electrification-2026-11-19/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "society",
+      "name": "教育・労働・人口・文化・その他社会",
+      "importance": 3,
+      "items": [
+        {
+          "id": "society-001",
+          "title": "米議会で公的医療保険の対象年齢引き下げ案への支持拡大",
+          "summary": "サンダース上院議員が提唱するメディケア対象年齢引き下げを含む医療保険拡充案に、民主党内の穏健派を含め支持が広がっている。",
+          "importance": 3,
+          "event_date": "2026-11-19",
+          "sources": [
+            {
+              "name": "STAT",
+              "url": "https://www.statnews.com/2026/11/19/health-news-sanders-medicare-for-all-plan-accrues-more-support-in-congress/"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "warnings": [
+    "確認できた掲載分野を優先し、不動産分野の独立した対象期間内の記事は未採用。",
+    "一部記事は報道日を確認したが、発生時刻は厳密に特定できない。",
+    "AIの物価影響に関するFRB発言は金融・企業分野にのみ掲載し、重複を除外した。"
+  ]
+}
