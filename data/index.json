@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-21T07:02:37.140343+09:00",
+  "updated_at": "2026-11-21T08:00:16.097465+09:00",
   "days": [
     {
       "date": "2026-11-21",
-      "count": 317,
-      "importance_A": 5,
-      "importance_B": 305
+      "count": 566,
+      "importance_A": 6,
+      "importance_B": 552
     },
     {
       "date": "2026-11-20",
@@ -248,10 +248,11 @@
       "importance_B": 2
     }
   ],
-  "sources_ok": 14,
+  "sources_ok": 13,
   "sources_total": 15,
   "sources_failed": [
+    "nhk_headlines",
     "impress_crypto"
   ],
-  "new_items": 332
+  "new_items": 249
 }
