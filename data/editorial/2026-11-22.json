@@ -1,0 +1,156 @@
+{
+  "schema_version": 1,
+  "edition_date": "2026-11-22",
+  "generated_at": "2026-11-22T07:56:11+09:00",
+  "window_start": "2026-11-21T08:00:00+09:00",
+  "window_end": "2026-11-22T07:56:11+09:00",
+  "lead": "国内では公明党の統一地方選対応や閣僚の政治資金問題が注目され、全国の賃貸家賃上昇も報じられた。国際社会では自律型致死兵器の法規制が先送りとなり、COP31は化石燃料と気候資金を巡って会期を延長。欧州各地では若者が教育や住宅への投資を求めて抗議した。米国のAI関連株急落の影響分析も続く。",
+  "sections": [
+    {
+      "id": "politics",
+      "name": "国内政治・法改正・行政",
+      "importance": 4,
+      "items": [
+        {
+          "id": "politics-001",
+          "title": "公明党、2027年統一地方選で自民系候補を推薦しない方針",
+          "summary": "共同通信は、公明党が政治資金問題や衆院定数削減への反発から、来春の統一地方選で自民系候補を推薦しない方針を固めたと報じた。",
+          "importance": 4,
+          "event_date": "2026-11-21",
+          "sources": [
+            {
+              "name": "共同通信・熊本日日新聞",
+              "url": "https://kumanichi.com/articles/2060607"
+            }
+          ]
+        },
+        {
+          "id": "politics-002",
+          "title": "自民幹事長、政治資金問題の関文科相交代を示唆",
+          "summary": "鈴木俊一幹事長は官僚を招いた政治資金パーティーを巡り、法案審議への支障を避ける観点から関文科相の交代もあり得るとの考えを示した。",
+          "importance": 4,
+          "event_date": "2026-11-21",
+          "sources": [
+            {
+              "name": "共同通信・熊本日日新聞",
+              "url": "https://www.kumanichi.com/articles/2060522"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "real_estate",
+      "name": "不動産・住宅・建設",
+      "importance": 4,
+      "items": [
+        {
+          "id": "real_estate-001",
+          "title": "全国の賃貸住宅家賃が上昇、東京23区の単身向けは前年比9.7％高",
+          "summary": "共同通信によると、9月の30平方メートル以下の賃貸マンション募集家賃は調査対象13地域すべてで前年同月を上回り、東京23区は平均11万4460円だった。",
+          "importance": 4,
+          "event_date": "2026-11-21",
+          "sources": [
+            {
+              "name": "共同通信・熊本日日新聞",
+              "url": "https://kumanichi.com/articles/2060525"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "international",
+      "name": "外交・国際情勢",
+      "importance": 5,
+      "items": [
+        {
+          "id": "international-001",
+          "title": "自律型致死兵器の法的規制、国際条約会議で合意できず",
+          "summary": "ジュネーブの特定通常兵器使用禁止制限条約再検討会議では米国やロシアなどの反対で法的拘束力ある規則の策定に合意できず、今後2年間の協議継続となった。",
+          "importance": 5,
+          "event_date": "2026-11-21",
+          "sources": [
+            {
+              "name": "共同通信・熊本日日新聞",
+              "url": "https://kumanichi.com/articles/2060530"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "finance",
+      "name": "金融・企業",
+      "importance": 4,
+      "items": [
+        {
+          "id": "finance-001",
+          "title": "AI株急落で米市場が大幅調整、投資家は設備投資の採算を再評価",
+          "summary": "ロイターの21日配信の解説は、米株の急落をAI投資の収益化への疑念と金融引き締め観測が重なった動きとして整理した。値下がり自体は20日の取引である。",
+          "importance": 4,
+          "event_date": "2026-11-21",
+          "sources": [
+            {
+              "name": "Reuters",
+              "url": "https://www.reuters.com/podcasts/wall-street-plunges-climate-talks-run-over-republicans-position-2028-2026-11-21/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "environment",
+      "name": "環境・エネルギー",
+      "importance": 5,
+      "items": [
+        {
+          "id": "environment-001",
+          "title": "COP31、化石燃料と途上国支援を巡り会期延長",
+          "summary": "トルコのCOP31は化石燃料削減の明記と適応資金の規模で対立し、21日も最終合意に至らず交渉を継続した。",
+          "importance": 5,
+          "event_date": "2026-11-21",
+          "sources": [
+            {
+              "name": "Reuters",
+              "url": "https://www.reuters.com/sustainability/cop/cop31-climate-summit-risks-failure-talks-go-deep-into-overtime-2026-11-21/"
+            },
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/b54eebcade92e5ee4c513b9a5b2192a7"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "society",
+      "name": "教育・労働・人口・文化・その他社会",
+      "importance": 4,
+      "items": [
+        {
+          "id": "society-001",
+          "title": "欧州25カ国超で若者がデモ、教育・住宅支援を要求",
+          "summary": "20日に欧州各地で行われた若者主導の抗議活動について、21日付報道では防衛費の増加より教育・住宅・生活環境の改善を優先するよう求める動きが伝えられた。",
+          "importance": 4,
+          "event_date": "2026-11-21",
+          "sources": [
+            {
+              "name": "AFPBB",
+              "url": "https://www.afpbb.com/articles/-/3663567"
+            },
+            {
+              "name": "朝日新聞",
+              "url": "https://smart.asahi.com/v/article/ASVCN530JVCNUHBI025M.php"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "warnings": [
+    "科学・医療・国内産業などで対象期間内に十分な裏付けのある独立記事を確認できなかった。",
+    "米国株急落と欧州デモは発生日が11月20日であり、11月21日に公開された追加報道・分析として掲載した。",
+    "COP31は記事確認時点で交渉継続中。最終合意を意味しない。"
+  ]
+}
