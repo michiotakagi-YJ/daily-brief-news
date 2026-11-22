@@ -1,0 +1,92 @@
+{
+  "schema_version": 1,
+  "edition_date": "2026-11-23",
+  "generated_at": "2026-11-23T08:00:06+09:00",
+  "window_start": "2026-11-22T08:00:00+09:00",
+  "window_end": "2026-11-23T08:00:06+09:00",
+  "lead": "国連気候変動会議COP31は化石燃料削減や気候資金を巡る対立で包括合意に至らず閉幕した。国内では文科相の政治資金パーティー問題について官房長官が説明を求めた。文化・考古学では富雄丸山古墳ゆかりの青銅器に新たな研究成果が報じられ、飛鳥の古代芸能を再構成した舞台も披露された。",
+  "sections": [
+    {
+      "id": "politics",
+      "name": "国内政治・法改正・行政",
+      "importance": 3,
+      "items": [
+        {
+          "id": "politics-001",
+          "title": "木原官房長官、文科相の政治資金パーティー問題で本人に説明要求",
+          "summary": "木原稔官房長官は22日、関芳弘文科相が政治資金パーティーで官僚と企業関係者を引き合わせた問題について、本人が説明する必要性を強調し、進退への言及は避けた。",
+          "importance": 3,
+          "event_date": "2026-11-22",
+          "sources": [
+            {
+              "name": "朝日新聞",
+              "url": "https://smart.asahi.com/v/article/ASVCQ3CV9VCQUTFK004M.php"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "environment",
+      "name": "環境・エネルギー",
+      "importance": 5,
+      "items": [
+        {
+          "id": "environment-001",
+          "title": "COP31、化石燃料と気候資金で対立し全体合意なく閉幕",
+          "summary": "トルコでの国連気候会議COP31は化石燃料からの移行や途上国向け資金支援の文言で合意できず、会期を延長した末、包括的な政治合意を採択せず終了した。",
+          "importance": 5,
+          "event_date": "2026-11-22",
+          "sources": [
+            {
+              "name": "Reuters",
+              "url": "https://www.reuters.com/sustainability/cop/cop31-climate-deal-balance-after-fractious-talks-2026-11-22/"
+            },
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/f6e36c4caf13ec6fed57c9f077cbd067"
+            }
+          ],
+          "impact": "従来の気候合意は存続するが、化石燃料削減の新たな共通方針や資金面の進展は持ち越された。"
+        }
+      ]
+    },
+    {
+      "id": "society",
+      "name": "教育・労働・人口・文化・その他社会",
+      "importance": 3,
+      "items": [
+        {
+          "id": "society-001",
+          "title": "富雄丸山古墳ゆかりの銅鏡、銅製腕輪も重ねて埋葬された可能性",
+          "summary": "天理大学付属天理参考館所蔵の銅鏡に残る痕跡の研究から、奈良市の富雄丸山古墳に由来するとみられる銅板に加え、銅製腕輪も重ねて埋められた可能性が浮上した。",
+          "importance": 3,
+          "event_date": "2026-11-22",
+          "sources": [
+            {
+              "name": "朝日新聞",
+              "url": "https://smart.asahi.com/v/article/ASVCP3PP4VCPPOMB005M.php"
+            }
+          ]
+        },
+        {
+          "id": "society-002",
+          "title": "奈良・明日香村で古代の仮面舞踊劇「伎楽」を現代的に再創作",
+          "summary": "朝鮮半島から伝わったとされる古代の仮面舞踊劇をもとにした新作「GIGAKU」が22日、世界遺産の遺跡が広がる明日香村で披露された。",
+          "importance": 2,
+          "event_date": "2026-11-22",
+          "sources": [
+            {
+              "name": "朝日新聞",
+              "url": "https://smart.asahi.com/v/article/ASVCQ14HFVCQPOMB005M.php"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "warnings": [
+    "対象時間内に発生または新たに報じられたことを確認できた独立記事のみ掲載。経済、金融、不動産、国際、科学・AI、医療では十分な裏付けのある新規記事を採用できなかった。",
+    "記事公開時刻が確認できない国際報道については発生日と日本時間の境界に不確実性がある。"
+  ]
+}
