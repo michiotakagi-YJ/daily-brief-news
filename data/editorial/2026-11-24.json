@@ -1,0 +1,187 @@
+{
+  "schema_version": 1,
+  "edition_date": "2026-11-24",
+  "generated_at": "2026-11-24T07:58:45+09:00",
+  "window_start": "2026-11-23T08:00:00+09:00",
+  "window_end": "2026-11-24T07:58:45+09:00",
+  "lead": "米半導体大手NVIDIAの黄仁勲氏がCEOに復帰し、AI関連株が急反発した一方、米議会では輸出管理と企業統治への疑問が続いた。台湾は株価急落を受け信用取引規制を緩和。EUはロシア向け第22次制裁案を提示した。医療分野では希少な筋疾患の新薬が米国で承認され、エネルギー分野では欧州の省エネ効果と再生可能電力の変動が注目された。",
+  "sections": [
+    {
+      "id": "economy",
+      "name": "国内経済・産業",
+      "importance": 3,
+      "items": [
+        {
+          "title": "日本は祝日で現物株式市場休場、海外のAI株変動が焦点",
+          "summary": "11月23日の日本市場は勤労感謝の日で休場となる一方、海外市場ではAI関連株の急反発とアジア当局の市場安定策が注目された。",
+          "importance": 3,
+          "event_date": "2026-11-23",
+          "sources": [
+            {
+              "name": "Reuters",
+              "url": "https://www.reuters.com/world/china/global-markets-view-europe-2026-11-23/"
+            }
+          ],
+          "id": "economy-001"
+        }
+      ]
+    },
+    {
+      "id": "finance",
+      "name": "金融・企業",
+      "importance": 5,
+      "items": [
+        {
+          "title": "NVIDIAが黄仁勲氏をCEOに復帰、株価急反発",
+          "summary": "NVIDIA取締役会は辞任していた黄仁勲氏のCEO復帰を決定し、米政府の関与や輸出管理・企業統治への疑問が残る中で株価は大幅に上昇した。",
+          "importance": 5,
+          "event_date": "2026-11-23",
+          "sources": [
+            {
+              "name": "Reuters",
+              "url": "https://www.reuters.com/technology/nvidia-reinstates-jensen-huang-ceo-2026-11-23/"
+            }
+          ],
+          "id": "finance-001"
+        },
+        {
+          "title": "CrowdStrike、Zscalerを約439億ドルで買収へ",
+          "summary": "サイバーセキュリティ大手2社が全株式交換による統合で合意し、端末防御とネットワークアクセス管理を組み合わせる計画を発表した。",
+          "importance": 4,
+          "event_date": "2026-11-23",
+          "sources": [
+            {
+              "name": "Reuters",
+              "url": "https://www.reuters.com/legal/transactional/crowdstrike-buy-zscaler-439-billion-2026-11-23/"
+            }
+          ],
+          "id": "finance-002"
+        },
+        {
+          "title": "台湾、信用取引の最低維持率を130％から120％に緩和",
+          "summary": "AI関連株急落を受け台湾当局は強制売却圧力を緩和する措置を発表し、証券会社の信用取引維持率基準を引き下げることとした。",
+          "importance": 4,
+          "event_date": "2026-11-23",
+          "sources": [
+            {
+              "name": "Reuters",
+              "url": "https://www.reuters.com/sustainability/boards-policy-regulation/global-markets-taiwan-update-1-2026-11-23/"
+            }
+          ],
+          "id": "finance-003"
+        },
+        {
+          "title": "世界のヘッジファンド、前週に2025年4月以来の大幅損失",
+          "summary": "AI株を中心とする株価急落で世界のヘッジファンドは前週に平均3％超の損失を被り、株式エクスポージャーとレバレッジの削減が進んだ。",
+          "importance": 4,
+          "event_date": "2026-11-23",
+          "sources": [
+            {
+              "name": "Reuters",
+              "url": "https://www.reuters.com/world/china/hedge-funds-post-worst-week-since-april-2025-sparks-defensive-shift-2026-11-23/"
+            }
+          ],
+          "id": "finance-004"
+        }
+      ]
+    },
+    {
+      "id": "international",
+      "name": "外交・国際情勢",
+      "importance": 5,
+      "items": [
+        {
+          "title": "EU、ロシアへの第22次制裁案を発表",
+          "summary": "欧州委員会はロシアの銀行約60行や暗号資産関連事業者などを対象とする新制裁案を提示したが、発効には加盟27カ国の全会一致が必要となる。",
+          "importance": 5,
+          "event_date": "2026-11-23",
+          "sources": [
+            {
+              "name": "Reuters",
+              "url": "https://www.reuters.com/business/finance/eu-commission-proposes-22nd-sanctions-package-russia-2026-11-23/"
+            }
+          ],
+          "id": "international-001"
+        }
+      ]
+    },
+    {
+      "id": "technology",
+      "name": "科学・AI・技術",
+      "importance": 4,
+      "items": [
+        {
+          "title": "米議会、先端AI半導体の追跡義務強化を要求",
+          "summary": "NVIDIAの経営体制を巡る問題を受け、米議員らは先端半導体の輸出先追跡と迂回輸出の報告を求める法案への支持を表明した。",
+          "importance": 4,
+          "event_date": "2026-11-23",
+          "sources": [
+            {
+              "name": "Reuters",
+              "url": "https://www.reuters.com/business/lawmakers-criticize-nvidia-decision-reinstate-huang-ceo-2026-11-23/"
+            }
+          ],
+          "id": "technology-001"
+        }
+      ]
+    },
+    {
+      "id": "health",
+      "name": "医療・公衆衛生",
+      "importance": 4,
+      "items": [
+        {
+          "title": "米FDA、遺伝性筋ジストロフィーの新薬Welgemdaを承認",
+          "summary": "米食品医薬品局はFKRP遺伝子変異に関連する肢帯型筋ジストロフィーに対するBridgeBioの経口薬を承認し、対象疾患で初の承認治療薬となった。",
+          "importance": 4,
+          "event_date": "2026-11-23",
+          "sources": [
+            {
+              "name": "Reuters",
+              "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/us-fda-approves-bridgebios-muscle-disorder-drug-2026-11-23/"
+            }
+          ],
+          "id": "health-001"
+        }
+      ]
+    },
+    {
+      "id": "environment",
+      "name": "環境・エネルギー",
+      "importance": 4,
+      "items": [
+        {
+          "title": "EU、省エネ施策で石油・ガス輸入費約1200億ユーロ節減と試算",
+          "summary": "欧州委員会は既存の省エネ政策により2022年から2026年半ばまでの石油・ガス輸入費を約1200億ユーロ削減できたとの推計を示した。",
+          "importance": 4,
+          "event_date": "2026-11-23",
+          "sources": [
+            {
+              "name": "Reuters",
+              "url": "https://www.reuters.com/business/energy/eu-says-efficiency-measures-saved-120-billion-gas-oil-import-costs-since-ukraine-2026-11-23/"
+            }
+          ],
+          "id": "environment-001"
+        },
+        {
+          "title": "ドイツで風力発電が急増、石炭・ガス発電が大幅減",
+          "summary": "11月前半の低風況から一転した風力発電増加によって化石燃料発電の稼働が大幅に低下し、電力構成の天候依存が浮き彫りになった。",
+          "importance": 3,
+          "event_date": "2026-11-23",
+          "sources": [
+            {
+              "name": "Reuters",
+              "url": "https://www.reuters.com/commentary/reuters-open-interest/wind-has-finally-shown-up-germany-fossil-fuels-feel-it-2026-11-23/"
+            }
+          ],
+          "id": "environment-002"
+        }
+      ]
+    }
+  ],
+  "warnings": [
+    "対象期間内の独立した新規報道を十分に確認できなかった国内政治・不動産・教育労働人口文化分野は掲載していない。",
+    "ドイツ風力発電の記事は11月23日公表の分析であり、発電量の変化自体はそれ以前に発生した。",
+    "海外記事の現地報道日と日本時間の発生時刻は必ずしも一致しない。"
+  ]
+}
