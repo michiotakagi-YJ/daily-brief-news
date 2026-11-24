@@ -1,0 +1,193 @@
+{
+  "schema_version": 1,
+  "edition_date": "2026-11-25",
+  "generated_at": "2026-11-25T08:00:26+09:00",
+  "window_start": "2026-11-24T08:00:00+09:00",
+  "window_end": "2026-11-25T08:00:26+09:00",
+  "lead": "国内では文科相の問責決議案提出方針と株価の急反発が注目された。米国ではAI関連株が再び下落し、半導体輸出管理やクラウド障害への対応が焦点となった。豪州ではAIと著作権の制度整備が議論され、コンゴのエボラ流行に対して国際的なワクチン調達計画が示された。",
+  "sections": [
+    {
+      "id": "politics",
+      "name": "国内政治・法改正・行政",
+      "importance": 4,
+      "items": [
+        {
+          "id": "politics-001",
+          "title": "参院野党6党、関文科相の問責決議案提出へ",
+          "summary": "関文科相が改めて陳謝し、参院野党6党が問責決議案を提出する方針で一致したとNHKラジオが報じた。",
+          "importance": 4,
+          "event_date": "2026-11-24",
+          "sources": [
+            {
+              "name": "NHKラジオ（番組情報）",
+              "url": "https://podwise.ai/episodes/9548523"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "economy",
+      "name": "国内経済・産業",
+      "importance": 4,
+      "items": [
+        {
+          "id": "economy-001",
+          "title": "日経平均、一時2800円超上昇",
+          "summary": "24日の東京市場では日経平均が一時2800円以上上昇したとNHKラジオが報じた。",
+          "importance": 4,
+          "event_date": "2026-11-24",
+          "sources": [
+            {
+              "name": "NHKラジオ（番組情報）",
+              "url": "https://podwise.ai/episodes/9548523"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "finance",
+      "name": "金融・企業",
+      "importance": 4,
+      "items": [
+        {
+          "id": "finance-001",
+          "title": "米ハイテク株が反落",
+          "summary": "前日の急反発に続かず、ナスダックとS&P500が下落し、AI投資の収益性への懸念が残った。",
+          "importance": 4,
+          "event_date": "2026-11-24",
+          "sources": [
+            {
+              "name": "Reuters",
+              "url": "https://www.reuters.com/business/wall-st-futures-dip-chip-stocks-cool-after-nvidia-fueled-rally-2026-11-24/"
+            }
+          ]
+        },
+        {
+          "id": "finance-002",
+          "title": "米家電量販Best Buy、通期見通し引き上げ",
+          "summary": "AI対応機器の買い替え需要を背景に通期業績目標を引き上げた。",
+          "importance": 3,
+          "event_date": "2026-11-24",
+          "sources": [
+            {
+              "name": "Reuters",
+              "url": "https://www.reuters.com/business/retail-consumer/best-buy-leans-ai-driven-gadget-update-cycle-lift-annual-targets-2026-11-24/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "world",
+      "name": "外交・国際情勢",
+      "importance": 4,
+      "items": [
+        {
+          "id": "world-001",
+          "title": "中国外相、英国に自由貿易支持を要請",
+          "summary": "中国外相は英国外相に、中国企業に安定した政策環境を提供するよう求めた。",
+          "importance": 3,
+          "event_date": "2026-11-24",
+          "sources": [
+            {
+              "name": "Reuters",
+              "url": "https://www.reuters.com/world/uk/china-urges-britain-support-free-trade-provide-favourable-business-environment-2026-11-24/"
+            }
+          ]
+        },
+        {
+          "id": "world-002",
+          "title": "米民主党上院院内総務、NVIDIAの輸出管理違反を主張",
+          "summary": "シューマー氏は先端半導体の対中輸出が法に違反したと主張し、CEOは12月3日に上院委員会で証言予定と報じられた。違反が確定したわけではない。",
+          "importance": 4,
+          "event_date": "2026-11-24",
+          "sources": [
+            {
+              "name": "Reuters",
+              "url": "https://www.reuters.com/world/china/schumer-accuses-nvidia-ceo-violating-us-export-control-law-2026-11-24/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "technology",
+      "name": "科学・AI・技術",
+      "importance": 4,
+      "items": [
+        {
+          "id": "technology-001",
+          "title": "Microsoft、大規模障害を受け復旧体制を見直し",
+          "summary": "約24時間の障害を受け、障害予防と対応体制の改革に着手したと内部文書に基づき報じられた。",
+          "importance": 4,
+          "event_date": "2026-11-24",
+          "sources": [
+            {
+              "name": "Reuters",
+              "url": "https://www.reuters.com/business/microsoft-declares-code-red-after-historic-outage-internal-memos-show-2026-11-24/"
+            }
+          ]
+        },
+        {
+          "id": "technology-002",
+          "title": "豪議会委員会、AI学習の著作権保護強化を提言",
+          "summary": "著作物の利用対価や本人の容姿・音声に関する権利保護の強化を提言した。",
+          "importance": 4,
+          "event_date": "2026-11-24",
+          "sources": [
+            {
+              "name": "The Guardian",
+              "url": "https://www.theguardian.com/australia-news/live/2026/nov/24/labor-penny-wong-us-china-anthony-albanese-final-sitting-week-ntwnfb"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "health",
+      "name": "医療・公衆衛生",
+      "importance": 5,
+      "items": [
+        {
+          "id": "health-001",
+          "title": "Gavi、コンゴ向けエボラワクチン最大150万回分の調達を計画",
+          "summary": "ブンディブギョ型エボラに対する試験段階のワクチンについて、安全性と有効性の確認を条件に調達する方針を示した。",
+          "importance": 5,
+          "event_date": "2026-11-24",
+          "sources": [
+            {
+              "name": "Reuters",
+              "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/global-vaccine-group-aims-buy-15-million-doses-new-ebola-bundibugyo-shot-congo-2026-11-24/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "society",
+      "name": "教育・労働・人口・文化・その他社会",
+      "importance": 3,
+      "items": [
+        {
+          "id": "society-001",
+          "title": "前橋、クマ警戒の中で休校していた学校が再開",
+          "summary": "クマへの警戒が続く前橋市で休校していた小中学校などが再開したとNHKラジオが報じた。",
+          "importance": 3,
+          "event_date": "2026-11-24",
+          "sources": [
+            {
+              "name": "NHKラジオ（番組情報）",
+              "url": "https://podwise.ai/episodes/9548523"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "warnings": [
+    "不動産・住宅・建設、環境・エネルギーは対象期間の新規事象を十分に確認できず掲載なし。",
+    "国内記事の一部はNHKラジオ番組情報による確認で、一次資料未照合。海外記事の発生日は現地日付。"
+  ]
+}
