@@ -1,0 +1,166 @@
+{
+  "schema_version": 1,
+  "edition_date": "2026-11-27",
+  "generated_at": "2026-11-27T07:56:00+09:00",
+  "window_start": "2026-11-26T08:00:00+09:00",
+  "window_end": "2026-11-27T07:56:00+09:00",
+  "lead": "国内では文科相への問責決議案が提出され、東京株式市場は反発した。海外では韓国の利上げ、欧州中央銀行の次期総裁人事を巡る報道、米国の関税措置への中国の反応が注目された。中東の供給懸念は原油市場に影響し、欧州のソフトウェア大手ではAIに伴う人員再編の検討が報じられた。",
+  "sections": [
+    {
+      "id": "politics",
+      "name": "国内政治・法改正・行政",
+      "importance": 4,
+      "items": [
+        {
+          "id": "politics-001",
+          "title": "野党8会派、関文科相への問責決議案を提出",
+          "summary": "政治資金パーティー問題を巡り参院に決議案が提出され、27日に採決される予定となった。",
+          "importance": 4,
+          "event_date": "2026-11-26",
+          "sources": [
+            {
+              "name": "テレビ朝日",
+              "url": "https://news.tv-asahi.co.jp/news_politics/articles/900205303.html"
+            }
+          ]
+        },
+        {
+          "id": "politics-002",
+          "title": "広島県の災害復旧工事、公文書偽造さらに93件",
+          "summary": "災害復旧工事に関する公文書偽造が追加で93件判明したと朝日新聞が報じた。",
+          "importance": 3,
+          "event_date": "2026-11-26",
+          "sources": [
+            {
+              "name": "朝日新聞ニュース番組",
+              "url": "https://listen.style/p/pyjfhr6u/y5xghfep"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "finance",
+      "name": "金融・企業",
+      "importance": 4,
+      "items": [
+        {
+          "id": "finance-001",
+          "title": "日経平均487円高、TOPIXは小幅高",
+          "summary": "日経平均は57,499.16円に反発したが、東証プライムの値上がり銘柄は半数未満だった。",
+          "importance": 3,
+          "event_date": "2026-11-26",
+          "sources": [
+            {
+              "name": "市況日和",
+              "url": "https://www.shikyobiyori.com/articles/japan-market-2026-11-26"
+            }
+          ]
+        },
+        {
+          "id": "finance-002",
+          "title": "韓国中銀、政策金利を3.25％に引き上げ",
+          "summary": "韓国銀行はインフレ抑制などを目的に政策金利を0.25ポイント引き上げたと報じられた。",
+          "importance": 4,
+          "event_date": "2026-11-26",
+          "sources": [
+            {
+              "name": "Vietnam.vn",
+              "url": "https://www.vietnam.vn/en/diem-tin-kinh-te-the-gioi-noi-bat-ngay-26-11-2026"
+            }
+          ]
+        },
+        {
+          "id": "finance-003",
+          "title": "ECB次期総裁候補にデコス氏との報道",
+          "summary": "欧州中央銀行の次期総裁候補としてスペインのパブロ・エルナンデス・デコス氏が浮上したと報じられた。正式就任は未確認。",
+          "importance": 4,
+          "event_date": "2026-11-26",
+          "sources": [
+            {
+              "name": "Reuters",
+              "url": "https://www.reuters.com/world/china/global-markets-global-markets-2026-11-26/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "international",
+      "name": "外交・国際情勢",
+      "importance": 4,
+      "items": [
+        {
+          "id": "international-001",
+          "title": "中国、米国の過剰生産能力を理由とする関税措置に反論",
+          "summary": "中国外務省は不公正な産業慣行との米側の主張を否定し、報道時点では報復措置の表明を控えた。",
+          "importance": 4,
+          "event_date": "2026-11-26",
+          "sources": [
+            {
+              "name": "Reuters",
+              "url": "https://www.reuters.com/world/china/trumps-new-tariffs-aim-prise-global-trade-chinas-grip-2026-11-26/"
+            }
+          ]
+        },
+        {
+          "id": "international-002",
+          "title": "米大統領、中間選挙前のGDP統計の調査を要求",
+          "summary": "トランプ大統領が中間選挙前に公表されたGDP統計の調査を要求したと報じられた。統計の不正が確認されたわけではない。",
+          "importance": 4,
+          "event_date": "2026-11-26",
+          "sources": [
+            {
+              "name": "Reuters",
+              "url": "https://www.reuters.com/world/us/trump-demands-probe-gdp-data-released-before-midterms-2026-11-26/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "energy",
+      "name": "環境・エネルギー",
+      "importance": 4,
+      "items": [
+        {
+          "id": "energy-001",
+          "title": "中東の供給懸念でブレント原油上昇",
+          "summary": "船舶への機雷被害や製油所への攻撃に関する主張を受け、原油供給への警戒が強まった。被害の詳細は未確認。",
+          "importance": 4,
+          "event_date": "2026-11-26",
+          "sources": [
+            {
+              "name": "Reuters",
+              "url": "https://www.reuters.com/business/energy/oil-rises-supply-concerns-iran-claims-mine-strikes-ships-2026-11-26/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "society",
+      "name": "教育・労働・人口・文化・その他社会",
+      "importance": 4,
+      "items": [
+        {
+          "id": "society-001",
+          "title": "SAP、AI関連再編で1万人以上の人員削減を検討との報道",
+          "summary": "ブルームバーグは世界の従業員の少なくとも9％に相当する削減案を報じたが、SAPはコメントせず、ロイターも独自確認できていない。",
+          "importance": 4,
+          "event_date": "2026-11-26",
+          "sources": [
+            {
+              "name": "Reuters",
+              "url": "https://www.reuters.com/technology/sap-considers-least-10000-job-cuts-ai-restructuring-bloomberg-reports-2026-11-26/"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "warnings": [
+    "国内経済・産業、不動産・住宅・建設、科学・AI・技術、医療・公衆衛生では独立した新規記事の確認が不十分。",
+    "一部は二次報道であり一次資料との照合は限定的。海外の発生日は現地日付。"
+  ]
+}
