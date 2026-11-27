@@ -1,0 +1,238 @@
+{
+  "schema_version": 1,
+  "edition_date": "2026-11-28",
+  "generated_at": "2026-11-28T08:00:03+09:00",
+  "window_start": "2026-11-27T08:00:00+09:00",
+  "window_end": "2026-11-28T08:00:03+09:00",
+  "lead": "国内では防災基本計画と政府業務継続計画の改定が重要な政策動向となった。東京の物価上昇率は拡大し、台湾ではAI需要を背景に成長見通しが引き上げられた。一方、フランスの景気後退や世界の株式ファンドからの資金流出も報じられ、地域・産業間の経済格差が目立つ。",
+  "sections": [
+    {
+      "id": "politics",
+      "name": "国内政治・法改正・行政",
+      "importance": 5,
+      "items": [
+        {
+          "id": "politics-001",
+          "title": "防災基本計画に国家戦略を明記",
+          "summary": "政府は事前防災を重視する10年の方針を盛り込み、避難所環境の改善も進める。",
+          "importance": 5,
+          "event_date": "2026-11-27",
+          "sources": [
+            {
+              "name": "テレビ朝日",
+              "url": "https://news.tv-asahi.co.jp/news_society/articles/000550935.html"
+            }
+          ]
+        },
+        {
+          "id": "politics-002",
+          "title": "政府業務継続計画を約12年ぶり改定",
+          "summary": "立川周辺の代替拠点選定と東京圏外のバックアップ拠点の検討を進める。",
+          "importance": 5,
+          "event_date": "2026-11-27",
+          "sources": [
+            {
+              "name": "東京都",
+              "url": "https://www.metro.tokyo.lg.jp/ja/information/press/2026/11/2026112708"
+            }
+          ]
+        },
+        {
+          "id": "politics-003",
+          "title": "関文科相への問責決議案を否決",
+          "summary": "参院本会議で問責決議案が4票差で否決された。",
+          "importance": 4,
+          "event_date": "2026-11-27",
+          "sources": [
+            {
+              "name": "Nの広場（報道まとめ）",
+              "url": "https://nhiroba.com/news/20261127/"
+            }
+          ]
+        },
+        {
+          "id": "politics-004",
+          "title": "政治資金収支報告書公表、ネット広告支出が目立つ",
+          "summary": "2025年分の報告書では参政党のグーグルへの約1億500万円の支出などが明らかになった。",
+          "importance": 3,
+          "event_date": "2026-11-27",
+          "sources": [
+            {
+              "name": "Nの広場（報道まとめ）",
+              "url": "https://nhiroba.com/news/20261127/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "economy",
+      "name": "国内経済・産業",
+      "importance": 4,
+      "items": [
+        {
+          "id": "economy-001",
+          "title": "東京23区の生鮮食品除く物価、2.9％上昇",
+          "summary": "11月の前年比上昇率は前月から0.3ポイント拡大し、エネルギーは9.5％上昇した。",
+          "importance": 4,
+          "event_date": "2026-11-27",
+          "sources": [
+            {
+              "name": "熊本朝日放送",
+              "url": "https://www.kab.co.jp/news/article/17085355"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "finance",
+      "name": "金融・企業",
+      "importance": 5,
+      "items": [
+        {
+          "id": "finance-001",
+          "title": "台湾の2026年成長率見通し13.28％に上方修正",
+          "summary": "AI向け半導体需要を背景に台湾当局は従来の11.05％から引き上げた。",
+          "importance": 5,
+          "event_date": "2026-11-27",
+          "sources": [
+            {
+              "name": "Reuters",
+              "url": "https://www.reuters.com/world/asia-pacific/taiwans-economy-expected-grow-its-fastest-rate-nearly-50-years-due-ai-demand-2026-11-27/"
+            }
+          ]
+        },
+        {
+          "id": "finance-002",
+          "title": "フランス、GDP改定でテクニカルリセッション入り",
+          "summary": "第3四半期のGDP改定を受け、景気後退局面に入ったと報じられた。",
+          "importance": 4,
+          "event_date": "2026-11-27",
+          "sources": [
+            {
+              "name": "Reuters",
+              "url": "https://www.reuters.com/markets/europe/french-economy-contracts-more-than-expected-third-quarter-2026-11-27/"
+            }
+          ]
+        },
+        {
+          "id": "finance-003",
+          "title": "中国株急反発、政府系投資家の市場安定化策を好感",
+          "summary": "上海総合指数が約3.7％上昇し、半導体関連株も大幅高となった。",
+          "importance": 4,
+          "event_date": "2026-11-27",
+          "sources": [
+            {
+              "name": "Reuters",
+              "url": "https://www.reuters.com/markets/europe/view-china-markets-surge-beijing-unleashes-national-team-2026-11-27/"
+            }
+          ]
+        },
+        {
+          "id": "finance-004",
+          "title": "世界株式ファンドから227億ドル超流出",
+          "summary": "25日までの週の純流出は14カ月ぶりの規模となり、米国株式ファンドの流出が中心だった。",
+          "importance": 4,
+          "event_date": "2026-11-27",
+          "sources": [
+            {
+              "name": "Reuters",
+              "url": "https://www.reuters.com/world/china/global-markets-flows-graphic-2026-11-27/"
+            }
+          ]
+        },
+        {
+          "id": "finance-005",
+          "title": "スペインの11月物価上昇率4.1％に鈍化",
+          "summary": "速報値は10月の4.9％から低下し、燃料価格の下落が寄与した。",
+          "importance": 3,
+          "event_date": "2026-11-27",
+          "sources": [
+            {
+              "name": "SPAIN PRESS",
+              "url": "https://spain-press.com/2026/11/27/spain-november-consumer-prices-flash/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "international",
+      "name": "外交・国際情勢",
+      "importance": 4,
+      "items": [
+        {
+          "id": "international-001",
+          "title": "難民女性向け保護施設、資金不足で約半数閉鎖",
+          "summary": "国連難民高等弁務官事務所は十数カ国で昨年初め以降に保護施設の閉鎖が相次いだと発表した。",
+          "importance": 4,
+          "event_date": "2026-11-27",
+          "sources": [
+            {
+              "name": "Reuters",
+              "url": "https://www.reuters.com/world/africa/funding-cuts-force-mass-closures-shelters-refugee-women-un-says-2026-11-27/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "science",
+      "name": "科学・AI・技術",
+      "importance": 4,
+      "items": [
+        {
+          "id": "science-001",
+          "title": "JAXA、新たな宇宙飛行士を2027年春募集へ",
+          "summary": "文科相は2030年代の月探査を見据えた募集方針を発表した。",
+          "importance": 4,
+          "event_date": "2026-11-27",
+          "sources": [
+            {
+              "name": "Nの広場（報道まとめ）",
+              "url": "https://nhiroba.com/news/20261127/"
+            }
+          ]
+        },
+        {
+          "id": "science-002",
+          "title": "英国の労働年金省、サイバー事案でオンラインサービス停止",
+          "summary": "年金や給付の定期支払いは継続するとしており、情報流出の有無は不明。",
+          "importance": 4,
+          "event_date": "2026-11-27",
+          "sources": [
+            {
+              "name": "The Guardian",
+              "url": "https://www.theguardian.com/business/live/2026/nov/27/uk-bank-tax-borrowers-savers-andrew-bailey-stocks-economy-businses-news-live-updates-latest"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "society",
+      "name": "教育・労働・人口・文化・その他社会",
+      "importance": 3,
+      "items": [
+        {
+          "id": "society-001",
+          "title": "北海道のヒグマ捕獲数2307頭、過去最多と報道",
+          "summary": "木の実不足に伴う人里への出没が相次いでいる。",
+          "importance": 3,
+          "event_date": "2026-11-27",
+          "sources": [
+            {
+              "name": "朝日新聞アルキキ",
+              "url": "https://listen.style/p/pyjfhr6u/zutc1j2s"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "warnings": [
+    "不動産・医療・環境エネルギーの独立した新規記事の確認は不十分。",
+    "一部国内記事は報道まとめ・番組情報に基づく。海外記事は現地日付、統計は公表日を記載。"
+  ]
+}
